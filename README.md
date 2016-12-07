@@ -7,10 +7,16 @@ A repository of links to various online tech learning resources
 * [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [An Introduction to Programming in Go](http://www.golang-book.com/books/intro)
 * [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
+* [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 * [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com/content)
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
 * [Effective Scala](http://twitter.github.io/effectivescala/)
+* [CS for All](https://www.cs.hmc.edu/csforall/)
+* [Mostly Adequate Guide To Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
+* [Book of Modern frontend tooling](http://tooling.github.io/book-of-modern-frontend-tooling/)
+* [Building Single Page Applications using Web API and AngularJS](https://chsakell.com/2015/08/23/building-single-page-applications-using-web-api-and-angularjs-free-e-book/)
 
 ## Github link collections
 
