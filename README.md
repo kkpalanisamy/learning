@@ -1,7 +1,7 @@
 # Learning
 A repository of links to various tech learning resources
 
-## Github 
+## Github link collections
 
 * [Awesome](https://github.com/sindresorhus/awesome)
 * [Awesome .NET](https://github.com/quozd/awesome-dotnet)
