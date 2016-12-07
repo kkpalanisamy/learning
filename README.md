@@ -1,5 +1,16 @@
 # Learning
-A repository of links to various tech learning resources
+A repository of links to various online tech learning resources
+
+## Books
+
+* [Exploring ES6](http://exploringjs.com/es6/)
+* [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
+* [An Introduction to Programming in Go](http://www.golang-book.com/books/intro)
+* [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
+* [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com/content)
+* [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
+* [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
+* [Effective Scala](http://twitter.github.io/effectivescala/)
 
 ## Github link collections
 
