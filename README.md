@@ -17,12 +17,24 @@ A repository of links to various online tech learning resources
 * [Mostly Adequate Guide To Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 * [Book of Modern frontend tooling](http://tooling.github.io/book-of-modern-frontend-tooling/)
 * [Building Single Page Applications using Web API and AngularJS](https://chsakell.com/2015/08/23/building-single-page-applications-using-web-api-and-angularjs-free-e-book/)
+* [Angular Basics](http://www.angularjsbook.com/angular-basics/chapters/)
+* [Pro Git](https://git-scm.com/book/en/v2)
+* [Brave Clojure](http://www.braveclojure.com/clojure-for-the-brave-and-true/)
+* [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
+* [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
+
 
 ## Book lists
 
 * [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+* [DevFreeBooks](https://devfreebooks.github.io/)
+* [100+ Free Data Science Books](http://www.learndatasci.com/free-data-science-books)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [JavaScript Path](https://github.com/javascript-society/javascript-path)
+* [6 Free JavaScript books for advanced learners](http://www.learningjquery.com/2015/10/6-free-javascript-books-for-advanced-learners)
+* [JSbooks](http://jsbooks.revolunet.com/)
+* [10 Free Books for Learning JavaScript](http://codecondo.com/free-javascript-books/)
+* [3 Free Programming Books to Learn CoffeeScript](http://codecondo.com/learn-coffeescript-free-from-books/)
 * [Go Books](https://github.com/dariubs/GoBooks)
 
 
