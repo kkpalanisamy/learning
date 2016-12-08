@@ -24,6 +24,8 @@ A repository of links to various online tech learning resources
 * [Brave Clojure](http://www.braveclojure.com/clojure-for-the-brave-and-true/)
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
 * [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
+* [Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
+* [Why's (Poignant) Guide to Ruby](http://poignant.guide/)
 
 
 ## Book lists
@@ -72,3 +74,23 @@ A repository of links to various online tech learning resources
 
 * [Must-Watch JS](https://github.com/bolshchikov/js-must-watch)
 * [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
+
+## Challenges and exercises
+
+* [HackerRank](https://www.hackerrank.com/domains)
+* [Project Euler](https://projecteuler.net/archives)
+* [LeetCode Online Judge](https://leetcode.com/)
+* [Codewars](https://www.codewars.com/)
+* [ES6 Katas](http://es6katas.org/)
+* [typing.io](https://typing.io/)
+* [interviewing.io](https://interviewing.io/)
+* [Project Euler Solutions](http://www.mathblog.dk/project-euler-solutions/)
+* [Code problems](https://github.com/blakeembrey/code-problems)
+* [Javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
+* [JavaScript Koans](https://github.com/liammclennan/JavaScript-Koans)
+* [PlanetProto](https://github.com/sporto/planetproto)
+* [A command-line murder mystery](https://github.com/veltman/clmystery)
+* [HackMe-SQL-Injection-Challenges](https://github.com/breakthenet/HackMe-SQL-Injection-Challenges)
+* [17 Coding Challenges to Help You Train Your Brain](http://codecondo.com/coding-challenges/)
+* [Kaggle Competitions](https://www.kaggle.com/competitions)
+* [Interview Cake](https://www.interviewcake.com/)
