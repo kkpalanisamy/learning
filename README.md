@@ -33,3 +33,6 @@ A repository of links to various online tech learning resources
 * [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 * [Awesome node.js](https://github.com/sindresorhus/awesome-nodejs)
 * [Awesome React](https://github.com/enaqx/awesome-react)
+
+* [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+* [PHP Internals Articles](https://github.com/tpunt/php-internals-articles)
