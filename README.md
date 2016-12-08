@@ -13,6 +13,7 @@ A repository of links to various online tech learning resources
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
 * [Effective Scala](http://twitter.github.io/effectivescala/)
+* [Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html)
 * [CS for All](https://www.cs.hmc.edu/csforall/)
 * [Mostly Adequate Guide To Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 * [Book of Modern frontend tooling](http://tooling.github.io/book-of-modern-frontend-tooling/)
