@@ -26,6 +26,7 @@ A repository of links to various online tech learning resources
 * [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
 * [Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
 * [Why's (Poignant) Guide to Ruby](http://poignant.guide/)
+* [Designing for Performance](http://designingforperformance.com/)
 
 
 ## Book lists
@@ -94,3 +95,4 @@ A repository of links to various online tech learning resources
 * [17 Coding Challenges to Help You Train Your Brain](http://codecondo.com/coding-challenges/)
 * [Kaggle Competitions](https://www.kaggle.com/competitions)
 * [Interview Cake](https://www.interviewcake.com/)
+* [Regex Cross­word](https://regexcrossword.com/)
