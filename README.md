@@ -18,6 +18,7 @@ A repository of links to various online tech learning resources
 * [Book of Modern frontend tooling](http://tooling.github.io/book-of-modern-frontend-tooling/)
 * [Building Single Page Applications using Web API and AngularJS](https://chsakell.com/2015/08/23/building-single-page-applications-using-web-api-and-angularjs-free-e-book/)
 * [Angular Basics](http://www.angularjsbook.com/angular-basics/chapters/)
+* [JavaScript Allongé (ES5)](https://leanpub.com/javascript-allonge/read)
 * [Pro Git](https://git-scm.com/book/en/v2)
 * [Brave Clojure](http://www.braveclojure.com/clojure-for-the-brave-and-true/)
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
