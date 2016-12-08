@@ -18,6 +18,14 @@ A repository of links to various online tech learning resources
 * [Book of Modern frontend tooling](http://tooling.github.io/book-of-modern-frontend-tooling/)
 * [Building Single Page Applications using Web API and AngularJS](https://chsakell.com/2015/08/23/building-single-page-applications-using-web-api-and-angularjs-free-e-book/)
 
+## Book lists
+
+* [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript Path](https://github.com/javascript-society/javascript-path)
+* [Go Books](https://github.com/dariubs/GoBooks)
+
+
 ## Github link collections
 
 * [Awesome](https://github.com/sindresorhus/awesome)
@@ -33,6 +41,20 @@ A repository of links to various online tech learning resources
 * [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 * [Awesome node.js](https://github.com/sindresorhus/awesome-nodejs)
 * [Awesome React](https://github.com/enaqx/awesome-react)
-
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 * [PHP Internals Articles](https://github.com/tpunt/php-internals-articles)
+* [Angular 2 Education](https://github.com/timjacobi/angular2-education)
+* [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
+* [Angular 2-Learning](https://github.com/jmcunningham/AngularJS2-Learning)
+* [ECMAScript 6 Learning](https://github.com/ericdouglas/ES6-Learning)
+* [Meteor Learning](https://github.com/ericdouglas/Meteor-Learning)
+* [Readings in Databases](https://github.com/rxin/db-readings)
+* [Offline-First](https://github.com/pazguille/offline-first)
+* [List of minimalist frameworks](https://github.com/neiesc/ListOfMinimalistFrameworks)
+* [Free For Developers](https://github.com/tevko/Resources/blob/master/Free%20For%20Developers.md)
+* [Job listings for front-end developers](https://github.com/sourceful/jobs/blob/master/README.md)
+
+## Videos
+
+* [Must-Watch JS](https://github.com/bolshchikov/js-must-watch)
+* [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
