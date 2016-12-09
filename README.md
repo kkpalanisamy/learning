@@ -75,6 +75,26 @@ A repository of links to various online tech learning resources
 
 * [Must-Watch JS](https://github.com/bolshchikov/js-must-watch)
 * [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
+* [Black Hat USA 2016](https://www.youtube.com/playlist?list=PLH15HpR5qRsXm0-rMacuWBxWcB2fmsmEw)
+* [The Magic of SQL](https://www.youtube.com/playlist?list=PLKCk3OyNwIztK_JeJ10t0U2xfCwQUt40m)
+* [Dev Day](https://www.youtube.com/user/ABBDevDay)
+* [4Developers 2016](https://www.youtube.com/playlist?list=PLnKL6-WWWE_XUHBx49uL35wtbkYwIyxf1)
+* [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+* [JavaScript](https://www.youtube.com/playlist?list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
+* [Wolfenstein 3D Clone Tutorial](https://www.youtube.com/playlist?list=PLEETnX-uPtBV7jIbAZNCulZM1cGxJRGYs#wolf3d)
+* [Command Line Power User](http://commandlinepoweruser.com/)
+* [Brent Ozar - First Aid - Video Archive](https://www.brentozar.com/first-aid/video-archive/)
+* [Defrag Tools | Channel 9](https://channel9.msdn.com/Shows/Defrag-Tools)
+* [The Xamarin Show](https://blog.xamarin.com/the-xamarin-show-grab-a-snack-pack/)
+* [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+* [OdeToCode Video Collection](http://odetocode.com/videos)
+* [Video Tutorials | Unreal Engine](https://docs.unrealengine.com/latest/INT/Videos/)
+* [7h szkolenie z metasploita](https://niebezpiecznik.pl/post/7h-szkolenie-z-metasploita-video/)
+* [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms/)
+* [Algorithms | Computer science | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
+* [Intro to Algorithms | Udacity](https://www.udacity.com/course/intro-to-algorithms--cs215)
+* [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+* [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ## Challenges and exercises
 
