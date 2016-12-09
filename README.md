@@ -24,7 +24,6 @@ A repository of links to various online tech learning resources
 * [Brave Clojure](http://www.braveclojure.com/clojure-for-the-brave-and-true/)
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
 * [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
-* [Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
 * [Why's (Poignant) Guide to Ruby](http://poignant.guide/)
 * [Designing for Performance](http://designingforperformance.com/)
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
@@ -135,6 +134,9 @@ A repository of links to various online tech learning resources
 * [Hadoop Sandbox - Hortonworks](http://hortonworks.com/products/sandbox/)
 * [45 Useful Oracle Queries](http://viralpatel.net/blogs/useful-oracle-queries/)
 * [Top 10 Most Common Database Scripts](https://www.simple-talk.com/sql/t-sql-programming/top-10-most-common-database-scripts/)
+
+## MSDN
+
 * [SQL Server Index Design Guide](https://msdn.microsoft.com/en-us/library/jj835095.aspx)
 * [The Data Loading Performance Guide](https://msdn.microsoft.com/en-us/library/dd425070(v=sql.100).aspx)
 * [Reading Pages](https://msdn.microsoft.com/en-us/library/ms191475(v=sql.105).aspx)
@@ -144,3 +146,4 @@ A repository of links to various online tech learning resources
 * [Understanding SQL server memory grant](https://blogs.msdn.microsoft.com/sqlqueryprocessing/2010/02/16/understanding-sql-server-memory-grant/)
 * [Nested Loops Join](https://blogs.msdn.microsoft.com/craigfr/2006/07/26/nested-loops-join/)
 * [Hash Join](https://blogs.msdn.microsoft.com/craigfr/2006/08/10/hash-join/)
+* [Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
