@@ -132,3 +132,4 @@ A repository of links to various online tech learning resources
 * [Use The Index Luke](http://use-the-index-luke.com/)
 * [The First Things I Look At On A SQL Server](http://www.i-programmer.info/programming/database/6028-the-first-things-i-look-at-on-a-sql-server-part-1.html)
 * [Data Mining | SQL Server Central](http://www.sqlservercentral.com/articles/server/94235/)
+* [Hadoop Sandbox - Hortonworks](http://hortonworks.com/products/sandbox/)
