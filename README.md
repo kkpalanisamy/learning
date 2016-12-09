@@ -27,6 +27,7 @@ A repository of links to various online tech learning resources
 * [Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
 * [Why's (Poignant) Guide to Ruby](http://poignant.guide/)
 * [Designing for Performance](http://designingforperformance.com/)
+* [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
 
 
 ## Book lists
@@ -116,3 +117,18 @@ A repository of links to various online tech learning resources
 * [Kaggle Competitions](https://www.kaggle.com/competitions)
 * [Interview Cake](https://www.interviewcake.com/)
 * [Regex Cross­word](https://regexcrossword.com/)
+
+## Databases
+
+* [SQL Server Stairways](http://www.sqlservercentral.com/stairway/)
+* [Accidental DBA Series](https://www.sqlskills.com/help/accidental-dba/)
+* [How does a relational database work](http://coding-geek.com/how-databases-work/)
+* [How to analyse SQL Server performance](http://rusanu.com/2014/02/24/how-to-analyse-sql-server-performance/)
+* [Index This: All About SQL Server Indexes](https://www.brentozar.com/sql/index-all-about-sql-server-indexes/)
+* [Learning SQL Server 2016](http://www.sqlservercentral.com/articles/SQL+Server+2016/127518/)
+* [SQL SERVER – Wait Stats – Wait Types – Wait Queues – Day 0 of 28](http://blog.sqlauthority.com/2011/02/01/sql-server-wait-stats-wait-types-wait-queues-day-0-of-28-2/)
+* [The Guts n’ Glory of Database Internals](https://ayende.com/blog/posts/series/174337/the-guts-n-glory-of-database-internals)
+* [Modern SQL](http://modern-sql.com/)
+* [Use The Index Luke](http://use-the-index-luke.com/)
+* [The First Things I Look At On A SQL Server](http://www.i-programmer.info/programming/database/6028-the-first-things-i-look-at-on-a-sql-server-part-1.html)
+* [Data Mining | SQL Server Central](http://www.sqlservercentral.com/articles/server/94235/)
