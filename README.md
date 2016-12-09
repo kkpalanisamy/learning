@@ -133,3 +133,5 @@ A repository of links to various online tech learning resources
 * [The First Things I Look At On A SQL Server](http://www.i-programmer.info/programming/database/6028-the-first-things-i-look-at-on-a-sql-server-part-1.html)
 * [Data Mining | SQL Server Central](http://www.sqlservercentral.com/articles/server/94235/)
 * [Hadoop Sandbox - Hortonworks](http://hortonworks.com/products/sandbox/)
+* [45 Useful Oracle Queries](http://viralpatel.net/blogs/useful-oracle-queries/)
+* [Top 10 Most Common Database Scripts](https://www.simple-talk.com/sql/t-sql-programming/top-10-most-common-database-scripts/)
