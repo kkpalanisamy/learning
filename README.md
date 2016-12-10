@@ -95,6 +95,8 @@ A repository of links to various online tech learning resources
 * [Intro to Algorithms | Udacity](https://www.udacity.com/course/intro-to-algorithms--cs215)
 * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* [The Devil Went Down to HTTP: Debugging with Fiddler](https://channel9.msdn.com/Events/MIX/MIX11/HTM08)
+* [Brent Ozar_Watch Brent Tune Queries](https://www.youtube.com/watch?v=uwGCPtga06U)
 
 ## Challenges and exercises
 
