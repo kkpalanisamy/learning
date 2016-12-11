@@ -27,6 +27,7 @@ A repository of links to various online tech learning resources
 * [Why's (Poignant) Guide to Ruby](http://poignant.guide/)
 * [Designing for Performance](http://designingforperformance.com/)
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
+* ["Reverse Engineering for Beginners" free book](https://beginners.re/)
 
 
 ## Book lists
@@ -71,6 +72,7 @@ A repository of links to various online tech learning resources
 * [List of minimalist frameworks](https://github.com/neiesc/ListOfMinimalistFrameworks)
 * [Free For Developers](https://github.com/tevko/Resources/blob/master/Free%20For%20Developers.md)
 * [Job listings for front-end developers](https://github.com/sourceful/jobs/blob/master/README.md)
+* [Node.js Stuff](https://github.com/moklick/nodejs-stuff)
 
 ## Videos
 
@@ -179,6 +181,9 @@ A repository of links to various online tech learning resources
 * [Getting Started with Ember and Data Down Actions Up](https://emberigniter.com/getting-started-ember-cli-data-down-actions-up-tutorial/)
 * [Learn to Map Census Data in R](http://www.arilamstein.com/)
 * [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
+* [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
+* [High On Android](http://highonandroid.com/)
+* [Amazon Alexa Sample App](https://github.com/alexa/alexa-avs-sample-app/blob/master/README.md)
 * [Raspberry Pi Home Server](https://melgrubb.com/2014/08/01/raspberry-pi-home-server-index/)
 * [Computer Networking Quetions and Answers](http://networkingquestion.blogspot.com/)
 * [CSS Refresher Notes](https://github.com/vasanthk/css-refresher-notes)
