@@ -213,3 +213,4 @@ A repository of links to various online tech learning resources
 * [Scala School](http://twitter.github.io/scala_school/)
 * [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
 * [The Ultimate Guide To HTTP/2](https://kinsta.com/learn/what-is-http2/)
+* [20+ Docs and Guides for Front-end Developers (No. 10)](https://www.sitepoint.com/20-docs-guides-front-end-developers-10/)
