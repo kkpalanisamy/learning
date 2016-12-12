@@ -30,7 +30,7 @@ A repository of links to various online tech learning resources
 * ["Reverse Engineering for Beginners" free book](https://beginners.re/)
 
 
-## Book lists
+## Book collections
 
 * [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [DevFreeBooks](https://devfreebooks.github.io/)
@@ -43,6 +43,8 @@ A repository of links to various online tech learning resources
 * [3 Free Programming Books to Learn CoffeeScript](http://codecondo.com/learn-coffeescript-free-from-books/)
 * [Go Books](https://github.com/dariubs/GoBooks)
 * [Free Security Ebooks - O'Reilly Media](http://www.oreilly.com/security/free/)
+* [Syncfusion Ebooks](https://www.syncfusion.com/resources/techportal/ebooks)
+* [PACKT books](https://www.packtpub.com/packt/offers/free-learning)
 
 
 ## Github link collections
@@ -73,6 +75,7 @@ A repository of links to various online tech learning resources
 * [Free For Developers](https://github.com/tevko/Resources/blob/master/Free%20For%20Developers.md)
 * [Job listings for front-end developers](https://github.com/sourceful/jobs/blob/master/README.md)
 * [Node.js Stuff](https://github.com/moklick/nodejs-stuff)
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 ## Videos
 
@@ -196,3 +199,17 @@ A repository of links to various online tech learning resources
 * [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 * [Learn CSS Layout](http://learnlayout.com/)
 * [JavaScript Systems Music](http://teropa.info/blog/2016/07/28/javascript-systems-music.html)
+* [jQuery Learning Center](https://learn.jquery.com/)
+* [Design Patterns & Refactoring](https://sourcemaking.com/)
+* [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/)
+* [Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution](http://pythontutor.com/)
+* [Performance Tooling Today](http://www.perf-tooling.today/)
+* [Akka.NET Bootcamp](https://github.com/petabridge/akka-bootcamp)
+* [ECMAScript 6](https://github.com/lukehoban/es6features)
+* [promise-cookbook](https://github.com/mattdesl/promise-cookbook)
+* [Arrayzing - The JavaScript array cheatsheet](https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42)
+* [The Art Of Command Line](https://github.com/jlevy/the-art-of-command-line)
+* [Learn Git Branching](http://learngitbranching.js.org/)
+* [Scala School](http://twitter.github.io/scala_school/)
+* [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
+* [The Ultimate Guide To HTTP/2](https://kinsta.com/learn/what-is-http2/)
