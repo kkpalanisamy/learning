@@ -28,7 +28,12 @@ A repository of links to various online tech learning resources
 * [Designing for Performance](http://designingforperformance.com/)
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
 * ["Reverse Engineering for Beginners" free book](https://beginners.re/)
-
+* [PureScript by Example](https://leanpub.com/purescript/read)
+* [Eloquent JavaScript](http://eloquentjavascript.net/)
+* [Human JavaScript](http://read.humanjavascript.com/)
+* [Speaking JavaScript](http://speakingjs.com/es5/)
+* [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/)
+* [Full Stack Python](http://www.fullstackpython.com/)
 
 ## Book collections
 
@@ -147,6 +152,7 @@ A repository of links to various online tech learning resources
 * [Optimizing MySQL](https://www.sitepoint.com/series/optimizing-mysql/)
 * [Working with Query Execution Plans in SQL Server](https://www.brentozar.com/sql/working-query-execution-plans-sql-server/)
 * [SQL Server Table Partitioning: Resources](https://www.brentozar.com/sql/table-partitioning-resources/)
+* [Learning Extended Events in 60 Days](http://jasonbrimhall.info/2015/09/08/learning-extended-events-in-60-days/)
 
 ## MSDN
 
@@ -177,12 +183,16 @@ A repository of links to various online tech learning resources
 * [Hackr.io](https://hackr.io/)
 * [Thinkster](https://thinkster.io/)
 * [C++ Language Tutorial](http://www.cplusplus.com/doc/tutorial/)
+* [LearnCpp](http://www.learncpp.com/)
 * [Visual Basic Tutorials](http://www.visual-basic-tutorials.com/)
 * [Visual Basic Tutorial Center](http://www.vbtutor.net/)
 * [Visual Basic 6 Tutorials](http://www.vbtutes.com/p/visual-basic-60-tutorial.html)
 * [20 brilliant WordPress tutorials](http://www.creativebloq.com/web-design/wordpress-tutorials-designers-1012990)
 * [WordPress Tutorial - Siteground](https://www.siteground.com/tutorials/wordpress/)
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
+* [Learn AngularJS 1.X](https://www.codecademy.com/learn/learn-angularjs)
+* [How to Learn AngularJS – Your AngularJS Sherpa](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
+* [Learn-Angular](http://www.learn-angular.org/)
 * [The 12 Best Android Tutorials for First-Time App Developers](https://www.sitepoint.com/12-android-tutorials-beginners/)
 * [Learn Ember.js From Scratch: Tuts, Books, and Resources for Beginners](http://whatpixel.com/emberjs-best-learning-resources/)
 * [Getting Started with Ember and Data Down Actions Up](https://emberigniter.com/getting-started-ember-cli-data-down-actions-up-tutorial/)
@@ -202,10 +212,12 @@ A repository of links to various online tech learning resources
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 * [Learn CSS Layout](http://learnlayout.com/)
+* [CSS Grid Layout](http://gridbyexample.com/)
 * [JavaScript Systems Music](http://teropa.info/blog/2016/07/28/javascript-systems-music.html)
 * [jQuery Learning Center](https://learn.jquery.com/)
 * [Design Patterns & Refactoring](https://sourcemaking.com/)
 * [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/)
+* [DevTools Tips](http://devtoolstips.com/)
 * [Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution](http://pythontutor.com/)
 * [Performance Tooling Today](http://www.perf-tooling.today/)
 * [Akka.NET Bootcamp](https://github.com/petabridge/akka-bootcamp)
@@ -222,4 +234,12 @@ A repository of links to various online tech learning resources
 * [WebGL Fundamentals](http://webglfundamentals.org/)
 * [Creating a 3D Game With Three.js and WebGL](http://buildnewgames.com/webgl-threejs/)
 * [Learn Roslyn Now](https://joshvarty.wordpress.com/learn-roslyn-now/)
+* [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
+* [Machine Learning in Javascript: Introduction](http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/)
+* [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882)
+* [Browser Rendering Optimization by Google ](https://www.udacity.com/course/browser-rendering-optimization--ud860)
+* [JS:The Right Way](http://jstherightway.org/)
+* [Learn-Angular](http://www.learn-angular.org/)
+* [Google's Python Class](https://developers.google.com/edu/python/)
+
 
