@@ -143,6 +143,7 @@ A repository of links to various online tech learning resources
 * [Hadoop Sandbox - Hortonworks](http://hortonworks.com/products/sandbox/)
 * [45 Useful Oracle Queries](http://viralpatel.net/blogs/useful-oracle-queries/)
 * [Top 10 Most Common Database Scripts](https://www.simple-talk.com/sql/t-sql-programming/top-10-most-common-database-scripts/)
+* [Learn SQL: 50+ of the Best Online Educational Resources to Learn SQL and Relational Database Management](https://hackerlists.com/learn-sql-online/)
 
 ## MSDN
 
