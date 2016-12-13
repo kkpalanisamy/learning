@@ -144,6 +144,9 @@ A repository of links to various online tech learning resources
 * [45 Useful Oracle Queries](http://viralpatel.net/blogs/useful-oracle-queries/)
 * [Top 10 Most Common Database Scripts](https://www.simple-talk.com/sql/t-sql-programming/top-10-most-common-database-scripts/)
 * [Learn SQL: 50+ of the Best Online Educational Resources to Learn SQL and Relational Database Management](https://hackerlists.com/learn-sql-online/)
+* [Optimizing MySQL](https://www.sitepoint.com/series/optimizing-mysql/)
+* [Working with Query Execution Plans in SQL Server](https://www.brentozar.com/sql/working-query-execution-plans-sql-server/)
+* [SQL Server Table Partitioning: Resources](https://www.brentozar.com/sql/table-partitioning-resources/)
 
 ## MSDN
 
@@ -215,3 +218,8 @@ A repository of links to various online tech learning resources
 * [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
 * [The Ultimate Guide To HTTP/2](https://kinsta.com/learn/what-is-http2/)
 * [20+ Docs and Guides for Front-end Developers (No. 10)](https://www.sitepoint.com/20-docs-guides-front-end-developers-10/)
+* [WebGL Academy](http://www.webglacademy.com/)
+* [WebGL Fundamentals](http://webglfundamentals.org/)
+* [Creating a 3D Game With Three.js and WebGL](http://buildnewgames.com/webgl-threejs/)
+* [Learn Roslyn Now](https://joshvarty.wordpress.com/learn-roslyn-now/)
+
