@@ -153,6 +153,7 @@ A repository of links to various online tech learning resources
 * [Working with Query Execution Plans in SQL Server](https://www.brentozar.com/sql/working-query-execution-plans-sql-server/)
 * [SQL Server Table Partitioning: Resources](https://www.brentozar.com/sql/table-partitioning-resources/)
 * [Learning Extended Events in 60 Days](http://jasonbrimhall.info/2015/09/08/learning-extended-events-in-60-days/)
+* [SQL Server Query Performance Guidelines Tutorial](https://www.mssqltips.com/sqlservertutorial/3200/sql-server-query-performance-guidelines-tutorial/)
 
 ## MSDN
 
