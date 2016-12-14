@@ -242,5 +242,6 @@ A repository of links to various online tech learning resources
 * [JS:The Right Way](http://jstherightway.org/)
 * [Learn-Angular](http://www.learn-angular.org/)
 * [Google's Python Class](https://developers.google.com/edu/python/)
+* [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 
