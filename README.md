@@ -51,7 +51,6 @@ A repository of links to various online tech learning resources
 * [Syncfusion Ebooks](https://www.syncfusion.com/resources/techportal/ebooks)
 * [PACKT books](https://www.packtpub.com/packt/offers/free-learning)
 
-
 ## Github link collections
 
 * [Awesome](https://github.com/sindresorhus/awesome)
@@ -196,7 +195,6 @@ A repository of links to various online tech learning resources
 * [XSS Filter Evasion Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 * [SQL Injection Cheat Sheet | Netsparker](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 
-
 ## Databases
 
 * [SQL Server Stairways](http://www.sqlservercentral.com/stairway/)
@@ -256,13 +254,7 @@ A repository of links to various online tech learning resources
 * [Visual Basic 6 Tutorials](http://www.vbtutes.com/p/visual-basic-60-tutorial.html)
 * [20 brilliant WordPress tutorials](http://www.creativebloq.com/web-design/wordpress-tutorials-designers-1012990)
 * [WordPress Tutorial - Siteground](https://www.siteground.com/tutorials/wordpress/)
-* [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
-* [Learn AngularJS 1.X](https://www.codecademy.com/learn/learn-angularjs)
-* [How to Learn AngularJS – Your AngularJS Sherpa](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
-* [Learn-Angular](http://www.learn-angular.org/)
 * [The 12 Best Android Tutorials for First-Time App Developers](https://www.sitepoint.com/12-android-tutorials-beginners/)
-* [Learn Ember.js From Scratch: Tuts, Books, and Resources for Beginners](http://whatpixel.com/emberjs-best-learning-resources/)
-* [Getting Started with Ember and Data Down Actions Up](https://emberigniter.com/getting-started-ember-cli-data-down-actions-up-tutorial/)
 * [Learn to Map Census Data in R](http://www.arilamstein.com/)
 * [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
 * [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
@@ -270,6 +262,28 @@ A repository of links to various online tech learning resources
 * [Amazon Alexa Sample App](https://github.com/alexa/alexa-avs-sample-app/blob/master/README.md)
 * [Raspberry Pi Home Server](https://melgrubb.com/2014/08/01/raspberry-pi-home-server-index/)
 * [Computer Networking Quetions and Answers](http://networkingquestion.blogspot.com/)
+* [Design Patterns & Refactoring](https://sourcemaking.com/)
+* [Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution](http://pythontutor.com/)
+* [Performance Tooling Today](http://www.perf-tooling.today/)
+* [Akka.NET Bootcamp](https://github.com/petabridge/akka-bootcamp)
+* [The Art Of Command Line](https://github.com/jlevy/the-art-of-command-line)
+* [Learn Git Branching](http://learngitbranching.js.org/)
+* [Scala School](http://twitter.github.io/scala_school/)
+* [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
+* [The Ultimate Guide To HTTP/2](https://kinsta.com/learn/what-is-http2/)
+* [Learn Roslyn Now](https://joshvarty.wordpress.com/learn-roslyn-now/)
+* [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
+* [Machine Learning in Javascript: Introduction](http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/)
+* [Google's Python Class](https://developers.google.com/edu/python/)
+* [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+## Web Development
+* [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
+* [Learn AngularJS 1.X](https://www.codecademy.com/learn/learn-angularjs)
+* [How to Learn AngularJS – Your AngularJS Sherpa](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
+* [Learn-Angular](http://www.learn-angular.org/)
+* [Learn Ember.js From Scratch: Tuts, Books, and Resources for Beginners](http://whatpixel.com/emberjs-best-learning-resources/)
+* [Getting Started with Ember and Data Down Actions Up](https://emberigniter.com/getting-started-ember-cli-data-down-actions-up-tutorial/)
 * [CSS Refresher Notes](https://github.com/vasanthk/css-refresher-notes)
 * [The Ultimate list of CSS3 Resources, Tutorials, Tips](https://www.simplilearn.com/css3-resources-ultimate-list-article)
 * [5 Steps to Drastically Improve Your CSS Knowledge in 24 Hours](https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/)
@@ -282,33 +296,19 @@ A repository of links to various online tech learning resources
 * [CSS Grid Layout](http://gridbyexample.com/)
 * [JavaScript Systems Music](http://teropa.info/blog/2016/07/28/javascript-systems-music.html)
 * [jQuery Learning Center](https://learn.jquery.com/)
-* [Design Patterns & Refactoring](https://sourcemaking.com/)
 * [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/)
 * [DevTools Tips](http://devtoolstips.com/)
-* [Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution](http://pythontutor.com/)
-* [Performance Tooling Today](http://www.perf-tooling.today/)
-* [Akka.NET Bootcamp](https://github.com/petabridge/akka-bootcamp)
 * [ECMAScript 6](https://github.com/lukehoban/es6features)
 * [promise-cookbook](https://github.com/mattdesl/promise-cookbook)
 * [Arrayzing - The JavaScript array cheatsheet](https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42)
-* [The Art Of Command Line](https://github.com/jlevy/the-art-of-command-line)
-* [Learn Git Branching](http://learngitbranching.js.org/)
-* [Scala School](http://twitter.github.io/scala_school/)
-* [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
-* [The Ultimate Guide To HTTP/2](https://kinsta.com/learn/what-is-http2/)
 * [20+ Docs and Guides for Front-end Developers (No. 10)](https://www.sitepoint.com/20-docs-guides-front-end-developers-10/)
 * [WebGL Academy](http://www.webglacademy.com/)
 * [WebGL Fundamentals](http://webglfundamentals.org/)
 * [Creating a 3D Game With Three.js and WebGL](http://buildnewgames.com/webgl-threejs/)
-* [Learn Roslyn Now](https://joshvarty.wordpress.com/learn-roslyn-now/)
-* [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
-* [Machine Learning in Javascript: Introduction](http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/)
 * [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882)
 * [Browser Rendering Optimization by Google ](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 * [JS:The Right Way](http://jstherightway.org/)
-* [Learn-Angular](http://www.learn-angular.org/)
-* [Google's Python Class](https://developers.google.com/edu/python/)
-* [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+* [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
 ## Tools
 
