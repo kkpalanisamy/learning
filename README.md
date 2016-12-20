@@ -315,6 +315,7 @@ A repository of links to various online tech learning resources
 
 * [Scott Hanselman's 2014 Ultimate Developer and Power Users Tool List for Windows](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 * [A Complete List of Windows Development Tools](http://scottge.net/2015/07/17/a-complete-list-of-windows-development-tools/)
+* [DriverPack Solution](https://drp.su/index.htm)
 * [Anki](https://ankiweb.net/decks/)
 * [AppHarbor](https://appharbor.com/)
 * [Json Parser Online](http://json.parser.online.fr/)
