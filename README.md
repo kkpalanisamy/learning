@@ -107,6 +107,8 @@ A repository of links to various online tech learning resources
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [The Devil Went Down to HTTP: Debugging with Fiddler](https://channel9.msdn.com/Events/MIX/MIX11/HTM08)
 * [Brent Ozar_Watch Brent Tune Queries](https://www.youtube.com/watch?v=uwGCPtga06U)
+* [Free Courses | The ASP.NET Site](https://www.asp.net/freecourses)
+* [Intermediate ASP.NET Core 1.0 | Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/intermediate-asp-net-core-1-0-16964?l=Kvl35KmJD_4306218965)
 
 ## Challenges and exercises
 
