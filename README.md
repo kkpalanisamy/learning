@@ -279,6 +279,7 @@ A repository of links to various online tech learning resources
 * [Machine Learning in Javascript: Introduction](http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/)
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+* [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
