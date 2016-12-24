@@ -197,6 +197,7 @@ A repository of links to various online tech learning resources
 * [XSS Filter Evasion Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 * [SQL Injection Cheat Sheet | Netsparker](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 * [Practical Reverse Engineering](http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/)
+* [Smashing the Stack for Fun & Profit : Revived](https://avicoder.me/2016/02/01/smashsatck-revived/)
 
 ## Databases
 
