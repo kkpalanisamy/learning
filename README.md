@@ -223,6 +223,8 @@ A repository of links to various online tech learning resources
 * [Learning Extended Events in 60 Days](http://jasonbrimhall.info/2015/09/08/learning-extended-events-in-60-days/)
 * [SQL Server Query Performance Guidelines Tutorial](https://www.mssqltips.com/sqlservertutorial/3200/sql-server-query-performance-guidelines-tutorial/)
 * [10 SQL Articles Everyone Must Read](https://blog.jooq.org/2015/02/13/10-sql-articles-everyone-must-read/)
+* [7 Handy SQL Scripts for SQL Developers](https://code.tutsplus.com/tutorials/7-handy-sql-scripts-for-sql-developers--cms-25834)
+* [19 Online Resources for Learning About Database Design Errors](http://www.vertabelo.com/blog/notes-from-the-lab/19-online-resources-for-learning-about-database-design-errors)
 
 ## MSDN
 
