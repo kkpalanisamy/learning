@@ -222,6 +222,7 @@ A repository of links to various online tech learning resources
 * [SQL Server Table Partitioning: Resources](https://www.brentozar.com/sql/table-partitioning-resources/)
 * [Learning Extended Events in 60 Days](http://jasonbrimhall.info/2015/09/08/learning-extended-events-in-60-days/)
 * [SQL Server Query Performance Guidelines Tutorial](https://www.mssqltips.com/sqlservertutorial/3200/sql-server-query-performance-guidelines-tutorial/)
+* [10 SQL Articles Everyone Must Read](https://blog.jooq.org/2015/02/13/10-sql-articles-everyone-must-read/)
 
 ## MSDN
 
