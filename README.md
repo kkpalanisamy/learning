@@ -198,6 +198,7 @@ A repository of links to various online tech learning resources
 * [SQL Injection Cheat Sheet | Netsparker](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 * [Practical Reverse Engineering](http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/)
 * [Smashing the Stack for Fun & Profit : Revived](https://avicoder.me/2016/02/01/smashsatck-revived/)
+* [HTML5 Security Cheatsheet](https://html5sec.org/)
 
 ## Databases
 
