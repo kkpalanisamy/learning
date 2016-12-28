@@ -284,6 +284,7 @@ A repository of links to various online tech learning resources
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
+* [So you want to be a Unity3D game developer?](https://www.codeproject.com/articles/682834/so-you-want-to-be-a-unity3d-game-developer)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
