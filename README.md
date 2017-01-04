@@ -200,6 +200,7 @@ A repository of links to various online tech learning resources
 * [Smashing the Stack for Fun & Profit : Revived](https://avicoder.me/2016/02/01/smashsatck-revived/)
 * [buffer overflow explained](https://www.uperesia.com/buffer-overflow-explained)
 * [HTML5 Security Cheatsheet](https://html5sec.org/)
+* [Decent Security](https://decentsecurity.com/)
 
 ## Databases
 
@@ -291,6 +292,7 @@ A repository of links to various online tech learning resources
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
 * [So you want to be a Unity3D game developer?](https://www.codeproject.com/articles/682834/so-you-want-to-be-a-unity3d-game-developer)
+* [Batches and Batches of Bots](https://channel9.msdn.com/coding4fun/blog/Batches-and-Batches-of-Bots)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
