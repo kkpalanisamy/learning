@@ -109,6 +109,7 @@ A repository of links to various online tech learning resources
 * [Brent Ozar_Watch Brent Tune Queries](https://www.youtube.com/watch?v=uwGCPtga06U)
 * [Free Courses | The ASP.NET Site](https://www.asp.net/freecourses)
 * [Intermediate ASP.NET Core 1.0 | Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/intermediate-asp-net-core-1-0-16964?l=Kvl35KmJD_4306218965)
+* [Advanced Topics in Programming Languages: The Java Memory Model](https://www.youtube.com/watch?v=WTVooKLLVT8)
 
 ## Challenges and exercises
 
@@ -293,6 +294,11 @@ A repository of links to various online tech learning resources
 * [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
 * [So you want to be a Unity3D game developer?](https://www.codeproject.com/articles/682834/so-you-want-to-be-a-unity3d-game-developer)
 * [Batches and Batches of Bots](https://channel9.msdn.com/coding4fun/blog/Batches-and-Batches-of-Bots)
+* [JVM Minimal Survival Guide](http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/)
+* [JVM memory model](http://coding-geek.com/jvm-memory-model/)
+* [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+* [Developer’s Guide to Open Source Licenses](https://www.toptal.com/open-source/developers-guide-to-open-source-licenses)
+* [Memory Management Reference](http://www.memorymanagement.org/index.html)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
@@ -328,6 +334,7 @@ A repository of links to various online tech learning resources
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 * [ES6 In Depth Articles | Mozilla Hacks](https://hacks.mozilla.org/category/es6-in-depth/)
 * [Learn HTML 5 in 3 days](https://www.codeproject.com/articles/827673/learn-html-in-days-day)
+* [The Definitive Ionic Starter Guide](https://www.airpair.com/ionic-framework/posts/the-definitive-ionic-starter-guide)
 
 ## Tools
 
