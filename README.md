@@ -202,6 +202,9 @@ A repository of links to various online tech learning resources
 * [buffer overflow explained](https://www.uperesia.com/buffer-overflow-explained)
 * [HTML5 Security Cheatsheet](https://html5sec.org/)
 * [Decent Security](https://decentsecurity.com/)
+* [Cybrary](https://www.cybrary.it/)
+* [PentesterLab](https://www.pentesterlab.com/)
+* [VulnHub](https://www.vulnhub.com/)
 
 ## Databases
 
