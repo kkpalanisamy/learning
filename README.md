@@ -302,6 +302,8 @@ A repository of links to various online tech learning resources
 * [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 * [Developer’s Guide to Open Source Licenses](https://www.toptal.com/open-source/developers-guide-to-open-source-licenses)
 * [Memory Management Reference](http://www.memorymanagement.org/index.html)
+* [How does a HashMap work in JAVA](http://coding-geek.com/how-does-a-hashmap-work-in-java/)
+* [How does Shazam work](http://coding-geek.com/how-shazam-works/)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
@@ -324,6 +326,7 @@ A repository of links to various online tech learning resources
 * [jQuery Learning Center](https://learn.jquery.com/)
 * [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/)
 * [DevTools Tips](http://devtoolstips.com/)
+* [Code School - Discover DevTools](http://discover-devtools.codeschool.com/)
 * [ECMAScript 6](https://github.com/lukehoban/es6features)
 * [promise-cookbook](https://github.com/mattdesl/promise-cookbook)
 * [Arrayzing - The JavaScript array cheatsheet](https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42)
@@ -338,6 +341,7 @@ A repository of links to various online tech learning resources
 * [ES6 In Depth Articles | Mozilla Hacks](https://hacks.mozilla.org/category/es6-in-depth/)
 * [Learn HTML 5 in 3 days](https://www.codeproject.com/articles/827673/learn-html-in-days-day)
 * [The Definitive Ionic Starter Guide](https://www.airpair.com/ionic-framework/posts/the-definitive-ionic-starter-guide)
+
 
 ## Tools
 
