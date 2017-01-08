@@ -279,6 +279,7 @@ A repository of links to various online tech learning resources
 * [High On Android](http://highonandroid.com/)
 * [Amazon Alexa Sample App](https://github.com/alexa/alexa-avs-sample-app/blob/master/README.md)
 * [Raspberry Pi Home Server](https://melgrubb.com/2014/08/01/raspberry-pi-home-server-index/)
+* [Raspberry Pi Home Server v2](https://melgrubb.com/2016/12/11/rphs-v2-introduction/)
 * [Computer Networking Quetions and Answers](http://networkingquestion.blogspot.com/)
 * [Design Patterns & Refactoring](https://sourcemaking.com/)
 * [Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution](http://pythontutor.com/)
