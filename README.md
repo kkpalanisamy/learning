@@ -232,6 +232,8 @@ A repository of links to various online tech learning resources
 * [10 SQL Articles Everyone Must Read](https://blog.jooq.org/2015/02/13/10-sql-articles-everyone-must-read/)
 * [7 Handy SQL Scripts for SQL Developers](https://code.tutsplus.com/tutorials/7-handy-sql-scripts-for-sql-developers--cms-25834)
 * [19 Online Resources for Learning About Database Design Errors](http://www.vertabelo.com/blog/notes-from-the-lab/19-online-resources-for-learning-about-database-design-errors)
+* [Inside the Storage Engine: Anatomy of a record](http://www.sqlskills.com/blogs/paul/inside-the-storage-engine-anatomy-of-a-record/)
+* [Inside the Storage Engine: IAM pages, IAM chains, and allocation units](http://www.sqlskills.com/blogs/paul/inside-the-storage-engine-iam-pages-iam-chains-and-allocation-units/)
 * [SQL Server Storage Internals 101](https://www.simple-talk.com/sql/database-administration/sql-server-storage-internals-101/)
 * [Exploring Your SQL Server Databases with T-SQL](https://www.simple-talk.com/sql/database-administration/exploring-your-sql-server-databases-with-t-sql/)
 * [Execution Plan Basics](https://www.simple-talk.com/sql/performance/execution-plan-basics/)
