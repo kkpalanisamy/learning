@@ -110,6 +110,8 @@ A repository of links to various online tech learning resources
 * [Free Courses | The ASP.NET Site](https://www.asp.net/freecourses)
 * [Intermediate ASP.NET Core 1.0 | Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/intermediate-asp-net-core-1-0-16964?l=Kvl35KmJD_4306218965)
 * [Advanced Topics in Programming Languages: The Java Memory Model](https://www.youtube.com/watch?v=WTVooKLLVT8)
+* [There’s Something About Nolock: Webcast Video](https://www.brentozar.com/archive/2011/11/theres-something-about-nolock-webcast-video/)
+* [Latches, Spinlocks & Lock-Free Data Structures Recording](http://www.sqlpassion.at/archive/2015/03/30/latches-spinlocks-lock-free-data-structures-recording/)
 
 ## Challenges and exercises
 
@@ -205,6 +207,7 @@ A repository of links to various online tech learning resources
 * [Cybrary](https://www.cybrary.it/)
 * [PentesterLab](https://www.pentesterlab.com/)
 * [VulnHub](https://www.vulnhub.com/)
+* [Damn Vulnerable Web Sockets (DVWS)](https://github.com/interference-security/DVWS)
 
 ## Databases
 
