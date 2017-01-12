@@ -112,6 +112,13 @@ A repository of links to various online tech learning resources
 * [Advanced Topics in Programming Languages: The Java Memory Model](https://www.youtube.com/watch?v=WTVooKLLVT8)
 * [There’s Something About Nolock: Webcast Video](https://www.brentozar.com/archive/2011/11/theres-something-about-nolock-webcast-video/)
 * [Latches, Spinlocks & Lock-Free Data Structures Recording](http://www.sqlpassion.at/archive/2015/03/30/latches-spinlocks-lock-free-data-structures-recording/)
+* [Writing a Pong game in JavaScript ](https://www.youtube.com/watch?v=ju09womACpQ)
+* [Mary live-codes a JavaScript game from scratch](https://vimeo.com/105955605)
+* [JavaScript coding tips ](http://www.2ality.com/2014/08/javascript-coding-tips.html)
+* [Douglas Crockford: The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4)
+* [Web Performance Crash Course](https://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY)
+* [TechEd: Zen of Architecture](https://www.youtube.com/watch?v=Jxm2rgeuC6s&feature=youtu.be)
+* [dotnetConf - Advanced Debugging with WinDbg and SOS](https://www.youtube.com/watch?v=yVzNrz1jJHU)
 
 ## Challenges and exercises
 
