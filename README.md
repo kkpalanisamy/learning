@@ -283,6 +283,7 @@ A repository of links to various online tech learning resources
 * [.NET Debugging Demos – Information and setup instructions](https://blogs.msdn.microsoft.com/tess/2008/02/04/net-debugging-demos-information-and-setup-instructions/)
 * [Load Test Series](https://blogs.msdn.microsoft.com/charles_sterling/2015/06/01/load-test-series-part-i-creating-web-performance-tests-for-a-load-test/)
 * [MSDN Magazine Issues and Downloads](https://msdn.microsoft.com/magazine/msdn-magazine-issues)
+* [How the Runtime Locates Assemblies](https://msdn.microsoft.com/en-us/library/yx7xezcf(v=vs.110).aspx)
 
 ## Tutorials and guides
 
