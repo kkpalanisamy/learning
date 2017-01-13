@@ -262,6 +262,8 @@ A repository of links to various online tech learning resources
 * [Questions About CUBE, ROLLUP and GROUPING SETs That You Were Too Shy to Ask](https://www.simple-talk.com/sql/t-sql-programming/questions-about-cube,-rollup-and-grouping-sets-that-you-were-too-shy-to-ask/)
 * [JSON support in SQL Server 2016](https://www.simple-talk.com/sql/learn-sql-server/json-support-in-sql-server-2016/)
 * [SQL Server Functions: The Basics](https://www.simple-talk.com/sql/t-sql-programming/sql-server-functions-the-basics/)
+* [A Performance Troubleshooting Methodology for SQL Server](https://www.simple-talk.com/sql/performance/a-performance-troubleshooting-methodology-for-sql-server/)
+* [Dynamic Search Conditions in T‑SQL](http://sommarskog.se/dyn-search-2008.html)
 
 ## MSDN
 
