@@ -119,6 +119,7 @@ A repository of links to various online tech learning resources
 * [Web Performance Crash Course](https://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY)
 * [TechEd: Zen of Architecture](https://www.youtube.com/watch?v=Jxm2rgeuC6s&feature=youtu.be)
 * [dotnetConf - Advanced Debugging with WinDbg and SOS](https://www.youtube.com/watch?v=yVzNrz1jJHU)
+* [Microsoft Connect 2016 | Xamarin University](https://university.xamarin.com/connect2016?mkt_tok=eyJpIjoiWkRBeVpEVTVPRFptTmpReiIsInQiOiJYQXFOU1wvN0pvRWVHWktvZkdETVB2V055TG1BQjcwajczQnpcL2VRdlwveHVHM21BclZTa3hKNmtRTGpFOWo2dkdwbTdZR0ZGQlFBbTY0Z0hkV1FrSm82WlFRMlYyQmZGQ3lXeWZuYm9aVmlpOVQ5WE5wZFMxekxBXC9vMFJ6eVFzYWcifQ%3D%3D)
 
 ## Challenges and exercises
 
