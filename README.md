@@ -265,6 +265,8 @@ A repository of links to various online tech learning resources
 * [SQL Server Functions: The Basics](https://www.simple-talk.com/sql/t-sql-programming/sql-server-functions-the-basics/)
 * [A Performance Troubleshooting Methodology for SQL Server](https://www.simple-talk.com/sql/performance/a-performance-troubleshooting-methodology-for-sql-server/)
 * [Dynamic Search Conditions in T‑SQL](http://sommarskog.se/dyn-search-2008.html)
+* [SQL Server Profiler and Trace Tips](https://www.mssqltips.com/sql-server-tip-category/83/profiler-and-trace/)
+* [Parameterization Series](http://www.sqlservercentral.com/blogs/guy-glantser/2015/01/08/parameterization-part-7-summary/)
 
 ## MSDN
 
