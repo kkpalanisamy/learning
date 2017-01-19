@@ -108,7 +108,7 @@ A repository of links to various online tech learning resources
 * [The Devil Went Down to HTTP: Debugging with Fiddler](https://channel9.msdn.com/Events/MIX/MIX11/HTM08)
 * [Brent Ozar_Watch Brent Tune Queries](https://www.youtube.com/watch?v=uwGCPtga06U)
 * [Free Courses | The ASP.NET Site](https://www.asp.net/freecourses)
-* [Intermediate ASP.NET Core 1.0 | Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/intermediate-asp-net-core-1-0-16964?l=Kvl35KmJD_4306218965)
+* [Three FREE Training Courses on ASP.NET Core from Microsoft Virtual Academy](http://www.hanselman.com/blog/ThreeFREETrainingCoursesOnASPNETCoreFromMicrosoftVirtualAcademy.aspx)
 * [Advanced Topics in Programming Languages: The Java Memory Model](https://www.youtube.com/watch?v=WTVooKLLVT8)
 * [There’s Something About Nolock: Webcast Video](https://www.brentozar.com/archive/2011/11/theres-something-about-nolock-webcast-video/)
 * [Latches, Spinlocks & Lock-Free Data Structures Recording](http://www.sqlpassion.at/archive/2015/03/30/latches-spinlocks-lock-free-data-structures-recording/)
