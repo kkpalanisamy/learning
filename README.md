@@ -269,6 +269,7 @@ A repository of links to various online tech learning resources
 * [Dynamic Search Conditions in T‑SQL](http://sommarskog.se/dyn-search-2008.html)
 * [SQL Server Profiler and Trace Tips](https://www.mssqltips.com/sql-server-tip-category/83/profiler-and-trace/)
 * [Parameterization Series](http://www.sqlservercentral.com/blogs/guy-glantser/2015/01/08/parameterization-part-7-summary/)
+* [Bad Habits Revival](https://blogs.sentryone.com/aaronbertrand/bad-habits-revival/)
 
 ## MSDN
 
