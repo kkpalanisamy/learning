@@ -216,6 +216,8 @@ A repository of links to various online tech learning resources
 * [PentesterLab](https://www.pentesterlab.com/)
 * [VulnHub](https://www.vulnhub.com/)
 * [Damn Vulnerable Web Sockets (DVWS)](https://github.com/interference-security/DVWS)
+* [tinfoleak | Free dossier of a twitter user](https://tinfoleak.com/)
+* [Detect secret leaks in Android Apps](https://android.fallible.co/)
 
 ## Databases
 
