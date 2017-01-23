@@ -355,6 +355,7 @@ A repository of links to various online tech learning resources
 * [What Xamarin Developers Ought to Know to Start 2017](http://motzcod.es/post/155770642197/what-xamarin-developers-ought-to-know-to-start-2017)
 * [How to use a breadboard with Raspberry Pi| The MagPi Magazine](https://www.raspberrypi.org/magpi/pi-101-breadboard/)
 * [The Unofficial C For Dummies Website](http://www.c-for-dummies.com/)
+* [Basics of Function Pointers in C](http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
