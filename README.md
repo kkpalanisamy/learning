@@ -219,6 +219,7 @@ A repository of links to various online tech learning resources
 * [tinfoleak | Free dossier of a twitter user](https://tinfoleak.com/)
 * [Detect secret leaks in Android Apps](https://android.fallible.co/)
 * [Building a Home Lab to Become a Malware Hunter - A Beginner’s Guide](https://www.alienvault.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide)
+* [Binary formats on poster](https://github.com/corkami/pics/tree/master/binary)
 
 ## Databases
 
