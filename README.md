@@ -218,6 +218,7 @@ A repository of links to various online tech learning resources
 * [Damn Vulnerable Web Sockets (DVWS)](https://github.com/interference-security/DVWS)
 * [tinfoleak | Free dossier of a twitter user](https://tinfoleak.com/)
 * [Detect secret leaks in Android Apps](https://android.fallible.co/)
+* [Building a Home Lab to Become a Malware Hunter - A Beginner’s Guide](https://www.alienvault.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide)
 
 ## Databases
 
@@ -353,6 +354,7 @@ A repository of links to various online tech learning resources
 * [Compilers for Free](http://codon.com/compilers-for-free)
 * [What Xamarin Developers Ought to Know to Start 2017](http://motzcod.es/post/155770642197/what-xamarin-developers-ought-to-know-to-start-2017)
 * [How to use a breadboard with Raspberry Pi| The MagPi Magazine](https://www.raspberrypi.org/magpi/pi-101-breadboard/)
+* [The Unofficial C For Dummies Website](http://www.c-for-dummies.com/)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
