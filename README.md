@@ -352,6 +352,7 @@ A repository of links to various online tech learning resources
 * [How does Shazam work](http://coding-geek.com/how-shazam-works/)
 * [Compilers for Free](http://codon.com/compilers-for-free)
 * [What Xamarin Developers Ought to Know to Start 2017](http://motzcod.es/post/155770642197/what-xamarin-developers-ought-to-know-to-start-2017)
+* [How to use a breadboard with Raspberry Pi| The MagPi Magazine](https://www.raspberrypi.org/magpi/pi-101-breadboard/)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
