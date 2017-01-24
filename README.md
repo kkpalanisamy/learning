@@ -355,6 +355,10 @@ A repository of links to various online tech learning resources
 * [Compilers for Free](http://codon.com/compilers-for-free)
 * [What Xamarin Developers Ought to Know to Start 2017](http://motzcod.es/post/155770642197/what-xamarin-developers-ought-to-know-to-start-2017)
 * [How to use a breadboard with Raspberry Pi| The MagPi Magazine](https://www.raspberrypi.org/magpi/pi-101-breadboard/)
+* [Top 10 Raspberry Pi Projects for Beginners](http://lifehacker.com/top-10-raspberry-pi-projects-for-beginners-1791002723)
+* [Ten More Awesome Projects for Your Raspberry Pi](http://lifehacker.com/5978871/ten-more-awesome-projects-for-your-raspberry-pi)
+* [The Always-Up-to-Date Guide to Setting Up Your Raspberry Pi](http://lifehacker.com/the-always-up-to-date-guide-to-setting-up-your-raspberr-1781419054)
+* [A Beginner's Guide to DIYing with the Raspberry Pi](http://lifehacker.com/5976912/a-beginners-guide-to-diying-with-the-raspberry-pi)
 * [C For Dummies Blog](http://c-for-dummies.com/blog/)
 * [C Archives - Dennis Kubes](http://denniskubes.com/category/c/)
 
