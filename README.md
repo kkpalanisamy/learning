@@ -120,6 +120,7 @@ A repository of links to various online tech learning resources
 * [TechEd: Zen of Architecture](https://www.youtube.com/watch?v=Jxm2rgeuC6s&feature=youtu.be)
 * [dotnetConf - Advanced Debugging with WinDbg and SOS](https://www.youtube.com/watch?v=yVzNrz1jJHU)
 * [Microsoft Connect 2016 | Xamarin University](https://university.xamarin.com/connect2016?mkt_tok=eyJpIjoiWkRBeVpEVTVPRFptTmpReiIsInQiOiJYQXFOU1wvN0pvRWVHWktvZkdETVB2V055TG1BQjcwajczQnpcL2VRdlwveHVHM21BclZTa3hKNmtRTGpFOWo2dkdwbTdZR0ZGQlFBbTY0Z0hkV1FrSm82WlFRMlYyQmZGQ3lXeWZuYm9aVmlpOVQ5WE5wZFMxekxBXC9vMFJ6eVFzYWcifQ%3D%3D)
+* [Syncfusion, Inc](https://www.youtube.com/channel/UCLXDsI0w5x17C8vN3D0hoKg)
 
 ## Challenges and exercises
 
