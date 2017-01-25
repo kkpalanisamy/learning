@@ -122,6 +122,7 @@ A repository of links to various online tech learning resources
 * [Microsoft Connect 2016 | Xamarin University](https://university.xamarin.com/connect2016?mkt_tok=eyJpIjoiWkRBeVpEVTVPRFptTmpReiIsInQiOiJYQXFOU1wvN0pvRWVHWktvZkdETVB2V055TG1BQjcwajczQnpcL2VRdlwveHVHM21BclZTa3hKNmtRTGpFOWo2dkdwbTdZR0ZGQlFBbTY0Z0hkV1FrSm82WlFRMlYyQmZGQ3lXeWZuYm9aVmlpOVQ5WE5wZFMxekxBXC9vMFJ6eVFzYWcifQ%3D%3D)
 * [Syncfusion, Inc](https://www.youtube.com/channel/UCLXDsI0w5x17C8vN3D0hoKg)
 * [MS Bots | Sitepoint](https://www.sitepoint.com/premium/courses/ms-bots-2939)
+* [GroupBy Conference – 3 Common Mistakes to Kill SQL Server Performance](https://blog.sqlauthority.com/2017/01/25/groupby-conference-3-common-mistakes-kill-sql-server-performance/)
 
 ## Challenges and exercises
 
