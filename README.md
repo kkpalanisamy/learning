@@ -158,7 +158,6 @@ A repository of links to various online tech learning resources
 * [CVE - Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
 * [Nmap: the Network Mapper - Free Security Scanner](https://nmap.org/)
 * [Zenmap - Official cross-platform Nmap Security Scanner GUI](https://nmap.org/zenmap/)
-* [XSS Filter Evasion Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 * [rozwal.to](https://rozwal.to/)
 * [IDA Support: Freeware Version](https://www.hex-rays.com/products/ida/support/download_freeware.shtml)
 * [CEH: Certified Ethical Hacking course from EC-Council](https://www.eccouncil.org/Certification/certified-ethical-hacker)
