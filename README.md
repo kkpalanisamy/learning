@@ -223,6 +223,7 @@ A repository of links to various online tech learning resources
 * [Detect secret leaks in Android Apps](https://android.fallible.co/)
 * [Building a Home Lab to Become a Malware Hunter - A Beginner’s Guide](https://www.alienvault.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide)
 * [Binary formats on poster](https://github.com/corkami/pics/tree/master/binary)
+* [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
 
 ## Databases
 
