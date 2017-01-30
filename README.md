@@ -66,6 +66,7 @@ A repository of links to various online tech learning resources
 * [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 * [Awesome node.js](https://github.com/sindresorhus/awesome-nodejs)
 * [Awesome React](https://github.com/enaqx/awesome-react)
+* [Awesome Electronics](https://github.com/monostable/awesome-electronics)
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 * [PHP Internals Articles](https://github.com/tpunt/php-internals-articles)
 * [Angular 2 Education](https://github.com/timjacobi/angular2-education)
@@ -123,6 +124,7 @@ A repository of links to various online tech learning resources
 * [Data Driven | Syncfusion, Inc](https://www.youtube.com/playlist?list=PLDzXQPWT8wEBpFAGj3Q2aP0ktZJMUdxG1)
 * [MS Bots | Sitepoint](https://www.sitepoint.com/premium/courses/ms-bots-2939)
 * [GroupBy Conference – 3 Common Mistakes to Kill SQL Server Performance](https://blog.sqlauthority.com/2017/01/25/groupby-conference-3-common-mistakes-kill-sql-server-performance/)
+* [Introduction to IdentityServer - Brock Allen | NDC London](https://vimeo.com/154172925)
 
 ## Challenges and exercises
 
@@ -426,3 +428,5 @@ A repository of links to various online tech learning resources
 * [Online regex tester and debugger: JavaScript, Python, PHP, and PCRE](https://regex101.com/)
 * [Software Licenses in Plain English](https://tldrlegal.com/)
 * [Plunker](https://plnkr.co/)
+* [Prefix - Profiler for developers - .NET Java Web request tracing](https://stackify.com/prefix/)
+* [Hangfire – Background jobs and workers for ASP.NET](http://hangfire.io/)
