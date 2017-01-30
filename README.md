@@ -125,6 +125,7 @@ A repository of links to various online tech learning resources
 * [MS Bots | Sitepoint](https://www.sitepoint.com/premium/courses/ms-bots-2939)
 * [GroupBy Conference – 3 Common Mistakes to Kill SQL Server Performance](https://blog.sqlauthority.com/2017/01/25/groupby-conference-3-common-mistakes-kill-sql-server-performance/)
 * [Introduction to IdentityServer - Brock Allen | NDC London](https://vimeo.com/154172925)
+* [GOTO 2012 • The R Language The Good The Bad & The Ugly • John Cook](https://www.youtube.com/watch?v=6S9r_YbqHy8)
 
 ## Challenges and exercises
 
@@ -364,6 +365,7 @@ A repository of links to various online tech learning resources
 * [Ten More Awesome Projects for Your Raspberry Pi](http://lifehacker.com/5978871/ten-more-awesome-projects-for-your-raspberry-pi)
 * [The Always-Up-to-Date Guide to Setting Up Your Raspberry Pi](http://lifehacker.com/the-always-up-to-date-guide-to-setting-up-your-raspberr-1781419054)
 * [A Beginner's Guide to DIYing with the Raspberry Pi](http://lifehacker.com/5976912/a-beginners-guide-to-diying-with-the-raspberry-pi)
+* [42 of the Most Useful Raspberry Pi Commands](http://www.circuitbasics.com/useful-raspberry-pi-commands/)
 * [C For Dummies Blog](http://c-for-dummies.com/blog/)
 * [C Archives - Dennis Kubes](http://denniskubes.com/category/c/)
 
