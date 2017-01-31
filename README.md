@@ -394,7 +394,7 @@ A repository of links to various online tech learning resources
 * [ECMAScript 6](https://github.com/lukehoban/es6features)
 * [promise-cookbook](https://github.com/mattdesl/promise-cookbook)
 * [Arrayzing - The JavaScript array cheatsheet](https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42)
-* [20+ Docs and Guides for Front-end Developers (No. 10)](https://www.sitepoint.com/20-docs-guides-front-end-developers-10/)
+* [20+ Docs and Guides for Front-end Developers (No. 11)](https://www.sitepoint.com/20-docs-guides-front-end-developers-11/)
 * [WebGL Academy](http://www.webglacademy.com/)
 * [WebGL Fundamentals](http://webglfundamentals.org/)
 * [Creating a 3D Game With Three.js and WebGL](http://buildnewgames.com/webgl-threejs/)
