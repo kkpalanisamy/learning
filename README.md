@@ -226,6 +226,8 @@ A repository of links to various online tech learning resources
 * [Building a Home Lab to Become a Malware Hunter - A Beginner’s Guide](https://www.alienvault.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide)
 * [Binary formats on poster](https://github.com/corkami/pics/tree/master/binary)
 * [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
+* [Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET)
+* [Excess XSS - A comprehensive tutorial on cross-site scripting](http://excess-xss.com/)
 
 ## Databases
 
@@ -368,6 +370,7 @@ A repository of links to various online tech learning resources
 * [42 of the Most Useful Raspberry Pi Commands](http://www.circuitbasics.com/useful-raspberry-pi-commands/)
 * [C For Dummies Blog](http://c-for-dummies.com/blog/)
 * [C Archives - Dennis Kubes](http://denniskubes.com/category/c/)
+* [Stat Trek - Teach yourself statistics](http://stattrek.com/)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
