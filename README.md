@@ -408,7 +408,7 @@ A repository of links to various online tech learning resources
 * [ES6 In Depth Articles | Mozilla Hacks](https://hacks.mozilla.org/category/es6-in-depth/)
 * [Learn HTML 5 in 3 days](https://www.codeproject.com/articles/827673/learn-html-in-days-day)
 * [The Definitive Ionic Starter Guide](https://www.airpair.com/ionic-framework/posts/the-definitive-ionic-starter-guide)
-
+* [Perf.Rocks](http://perf.rocks/)
 
 ## Tools
 
