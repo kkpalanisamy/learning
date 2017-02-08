@@ -435,3 +435,4 @@ A repository of links to various online tech learning resources
 * [Plunker](https://plnkr.co/)
 * [Prefix - Profiler for developers - .NET Java Web request tracing](https://stackify.com/prefix/)
 * [Hangfire – Background jobs and workers for ASP.NET](http://hangfire.io/)
+* [ASP.NET Diagnostic page to dump ASP.NET and Environment configuration](https://code.msdn.microsoft.com/ASPNET-Diagnostic-page-to-9a029c20)
