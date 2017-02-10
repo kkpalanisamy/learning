@@ -228,6 +228,7 @@ A repository of links to various online tech learning resources
 * [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
 * [Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET)
 * [Excess XSS - A comprehensive tutorial on cross-site scripting](http://excess-xss.com/)
+* [sqlmap](http://sqlmap.org/)
 
 ## Databases
 
