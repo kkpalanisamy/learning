@@ -372,6 +372,7 @@ A repository of links to various online tech learning resources
 * [C For Dummies Blog](http://c-for-dummies.com/blog/)
 * [C Archives - Dennis Kubes](http://denniskubes.com/category/c/)
 * [Stat Trek - Teach yourself statistics](http://stattrek.com/)
+* [cykl-di | devstyle.pl](http://devstyle.pl/tag/cykl-di)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
