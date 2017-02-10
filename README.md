@@ -429,6 +429,7 @@ A repository of links to various online tech learning resources
 * [URL Decoder/Encoder](http://meyerweb.com/eric/tools/dencoder/)
 * [Rubular - a Ruby regular expression editor](http://rubular.com/)
 * [.NET Regex Tester - Regex Storm](http://regexstorm.net/tester)
+* [Regex 101](https://regex101.com/)
 * [CronMaker](http://www.cronmaker.com/)
 * [Online regex tester and debugger: JavaScript, Python, PHP, and PCRE](https://regex101.com/)
 * [Software Licenses in Plain English](https://tldrlegal.com/)
