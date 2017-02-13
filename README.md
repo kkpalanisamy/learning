@@ -229,6 +229,7 @@ A repository of links to various online tech learning resources
 * [Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET)
 * [Excess XSS - A comprehensive tutorial on cross-site scripting](http://excess-xss.com/)
 * [sqlmap](http://sqlmap.org/)
+* [Security and Privacy Guidelines for the Internet of Things](https://www.schneier.com/blog/archives/2017/02/security_and_pr.html)
 
 ## Databases
 
