@@ -148,6 +148,7 @@ A repository of links to various online tech learning resources
 * [Interview Cake](https://www.interviewcake.com/)
 * [Regex Cross­word](https://regexcrossword.com/)
 * [TDD Kata 1 - String Calculator - Osherove](http://osherove.com/tdd-kata-1/)
+* [C# Brain teasers](http://ahuwanya.net/blog/post/C-Sharp-Brainteasers-Part-2)
 
 ## Security
 
@@ -230,6 +231,7 @@ A repository of links to various online tech learning resources
 * [Excess XSS - A comprehensive tutorial on cross-site scripting](http://excess-xss.com/)
 * [sqlmap](http://sqlmap.org/)
 * [Security and Privacy Guidelines for the Internet of Things](https://www.schneier.com/blog/archives/2017/02/security_and_pr.html)
+* [Exploit Dev 0x01 | 64-bit Linux Stack Buffer Overflow](http://badbytes.io/2017/02/15/exploit-dev-0x01-64-bit-linux-stack-buffer-overflow/)
 
 ## Databases
 
@@ -412,6 +414,7 @@ A repository of links to various online tech learning resources
 * [Learn HTML 5 in 3 days](https://www.codeproject.com/articles/827673/learn-html-in-days-day)
 * [The Definitive Ionic Starter Guide](https://www.airpair.com/ionic-framework/posts/the-definitive-ionic-starter-guide)
 * [Perf.Rocks](http://perf.rocks/)
+* [Vue.js Learning Resources](http://www.jerriepelser.com/blog/vuejs-learning-resources/)
 
 ## Tools
 
