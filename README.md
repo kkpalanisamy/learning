@@ -149,6 +149,8 @@ A repository of links to various online tech learning resources
 * [Regex Cross­word](https://regexcrossword.com/)
 * [TDD Kata 1 - String Calculator - Osherove](http://osherove.com/tdd-kata-1/)
 * [C# Brain teasers](http://ahuwanya.net/blog/post/C-Sharp-Brainteasers-Part-2)
+* [13 Essential .NET Interview Questions](https://www.toptal.com/dot-net/interview-questions)
+* [ASP.NET MVC interview questions with answers](https://www.codeproject.com/articles/556995/asp-net-mvc-interview-questions-with-answers)
 
 ## Security
 
