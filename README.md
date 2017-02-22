@@ -420,6 +420,7 @@ A repository of links to various online tech learning resources
 * [The Definitive Ionic Starter Guide](https://www.airpair.com/ionic-framework/posts/the-definitive-ionic-starter-guide)
 * [Perf.Rocks](http://perf.rocks/)
 * [Vue.js Learning Resources](http://www.jerriepelser.com/blog/vuejs-learning-resources/)
+* [Web Animations API series | Dan Wilson](http://danielcwilson.com/tags/web-animations-api/)
 
 ## Tools
 
