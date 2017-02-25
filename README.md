@@ -288,7 +288,6 @@ A repository of links to various online tech learning resources
 * [SQL Server Profiler and Trace Tips](https://www.mssqltips.com/sql-server-tip-category/83/profiler-and-trace/)
 * [Parameterization Series](http://www.sqlservercentral.com/blogs/guy-glantser/2015/01/08/parameterization-part-7-summary/)
 * [Bad Habits Revival](https://blogs.sentryone.com/aaronbertrand/bad-habits-revival/)
-* [Using R with Databases | Big Data University](https://bigdatauniversity.com/courses/using-r-with-databases/)
 
 ## MSDN
 
@@ -382,6 +381,7 @@ A repository of links to various online tech learning resources
 * [Stat Trek - Teach yourself statistics](http://stattrek.com/)
 * [cykl-di | devstyle.pl](http://devstyle.pl/tag/cykl-di)
 * [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.wizltj9u3)
+* [Using R with Databases | Big Data University](https://bigdatauniversity.com/courses/using-r-with-databases/)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
