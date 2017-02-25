@@ -288,6 +288,7 @@ A repository of links to various online tech learning resources
 * [SQL Server Profiler and Trace Tips](https://www.mssqltips.com/sql-server-tip-category/83/profiler-and-trace/)
 * [Parameterization Series](http://www.sqlservercentral.com/blogs/guy-glantser/2015/01/08/parameterization-part-7-summary/)
 * [Bad Habits Revival](https://blogs.sentryone.com/aaronbertrand/bad-habits-revival/)
+* [Using R with Databases | Big Data University](https://bigdatauniversity.com/courses/using-r-with-databases/)
 
 ## MSDN
 
