@@ -34,6 +34,7 @@ A repository of links to various online tech learning resources
 * [Speaking JavaScript](http://speakingjs.com/es5/)
 * [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/)
 * [Full Stack Python](http://www.fullstackpython.com/)
+* [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 
 ## Book collections
 
@@ -81,6 +82,7 @@ A repository of links to various online tech learning resources
 * [Job listings for front-end developers](https://github.com/sourceful/jobs/blob/master/README.md)
 * [Node.js Stuff](https://github.com/moklick/nodejs-stuff)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+* [Movies for Hackers](https://github.com/k4m4/movies-for-hackers)
 
 ## Videos
 
