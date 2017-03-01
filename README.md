@@ -424,6 +424,7 @@ A repository of links to various online tech learning resources
 * [Perf.Rocks](http://perf.rocks/)
 * [Vue.js Learning Resources](http://www.jerriepelser.com/blog/vuejs-learning-resources/)
 * [Web Animations API series | Dan Wilson](http://danielcwilson.com/tags/web-animations-api/)
+* [Creating dub delay effects with the Web Audio API](http://blog.chrislowis.co.uk/2014/07/23/dub-delay-web-audio-api.html)
 
 ## Tools
 
