@@ -51,6 +51,7 @@ A repository of links to various online tech learning resources
 * [Free Security Ebooks - O'Reilly Media](http://www.oreilly.com/security/free/)
 * [Syncfusion Ebooks](https://www.syncfusion.com/resources/techportal/ebooks)
 * [PACKT books](https://www.packtpub.com/packt/offers/free-learning)
+* [Ask HN: How or where to begin learning mathematics from first principles?](https://news.ycombinator.com/item?id=8697772)
 
 ## Github link collections
 
