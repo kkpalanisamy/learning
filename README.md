@@ -387,6 +387,7 @@ A repository of links to various online tech learning resources
 * [Using R with Databases | Big Data University](https://bigdatauniversity.com/courses/using-r-with-databases/)
 * [Bash scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial)
 * [BASH Programming - Introduction HOW-TO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+* [Create a Space Invaders Game in Corona](https://code.tutsplus.com/series/create-a-space-invaders-game-in-corona--cms-735)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
