@@ -389,6 +389,11 @@ A repository of links to various online tech learning resources
 * [BASH Programming - Introduction HOW-TO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 * [Create a Space Invaders Game in Corona](https://code.tutsplus.com/series/create-a-space-invaders-game-in-corona--cms-735)
 * [Create a Plane Fighting Game in Corona](https://code.tutsplus.com/series/create-a-plane-fighting-game-in-corona--cms-635)
+* [How to Write Your Own Programming Language in C#](http://www.codemag.com/article/1607081)
+* [How to implement a programming language in JavaScript](http://lisperator.net/pltut/)
+* [Designing a Programming Language: I | Duck Programming Language](http://ducklang.org/designing-a-programming-language-i)
+* [DIY: Make Your Own Programming Language](http://blog.ppelgren.se/2015-01-03/DIY-Make-Your-Own-Programming-language/)
+* [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
