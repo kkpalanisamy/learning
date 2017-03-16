@@ -394,6 +394,7 @@ A repository of links to various online tech learning resources
 * [Designing a Programming Language: I | Duck Programming Language](http://ducklang.org/designing-a-programming-language-i)
 * [DIY: Make Your Own Programming Language](http://blog.ppelgren.se/2015-01-03/DIY-Make-Your-Own-Programming-language/)
 * [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
+* [Ruby for Newbies](https://code.tutsplus.com/series/ruby-for-newbies--net-18166)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
@@ -434,7 +435,9 @@ A repository of links to various online tech learning resources
 * [Perf.Rocks](http://perf.rocks/)
 * [Vue.js Learning Resources](http://www.jerriepelser.com/blog/vuejs-learning-resources/)
 * [Web Animations API series | Dan Wilson](http://danielcwilson.com/tags/web-animations-api/)
+* [The Web Audio API](https://code.tutsplus.com/series/the-web-audio-api--cms-817)
 * [Creating dub delay effects with the Web Audio API](http://blog.chrislowis.co.uk/2014/07/23/dub-delay-web-audio-api.html)
+* [Making Music in the Browser – Web Audio API, Part 1](https://www.keithmcmillen.com/blog/making-music-in-the-browser-web-audio-api-part-1/)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Emanuele Feronato | GameDev tutorials](http://www.emanueleferonato.com/)
 
