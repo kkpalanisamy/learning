@@ -395,6 +395,7 @@ A repository of links to various online tech learning resources
 * [DIY: Make Your Own Programming Language](http://blog.ppelgren.se/2015-01-03/DIY-Make-Your-Own-Programming-language/)
 * [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 * [Ruby for Newbies](https://code.tutsplus.com/series/ruby-for-newbies--net-18166)
+* [Face or no face (finding faces in photos using C# and Accord.NET)](http://www.productiverage.com/face-or-no-face-finding-faces-in-photos-using-c-sharp-and-accordnet)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
