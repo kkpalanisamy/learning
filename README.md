@@ -239,6 +239,7 @@ A repository of links to various online tech learning resources
 * [Exploit Dev 0x01 | 64-bit Linux Stack Buffer Overflow](http://badbytes.io/2017/02/15/exploit-dev-0x01-64-bit-linux-stack-buffer-overflow/)
 * [Packet Total](http://www.packettotal.com/)
 * [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+* [An Introduction to Securing your Linux VPS](https://www.digitalocean.com/community/tutorials/an-introduction-to-securing-your-linux-vps)
 
 ## Databases
 
@@ -396,6 +397,7 @@ A repository of links to various online tech learning resources
 * [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 * [Ruby for Newbies](https://code.tutsplus.com/series/ruby-for-newbies--net-18166)
 * [Face or no face (finding faces in photos using C# and Accord.NET)](http://www.productiverage.com/face-or-no-face-finding-faces-in-photos-using-c-sharp-and-accordnet)
+* [How to set up a Raspberry Pi-powered cloud service](http://www.techradar.com/how-to/computing/how-to-set-up-a-raspberry-pi-powered-cloud-service-1316017)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
