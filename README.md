@@ -85,6 +85,9 @@ A repository of links to various online tech learning resources
 * [Node.js Stuff](https://github.com/moklick/nodejs-stuff)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [Movies for Hackers](https://github.com/k4m4/movies-for-hackers)
+* [Awesome Android](https://github.com/JStumpp/awesome-android)
+* [android-security-awesome](https://github.com/ashishb/android-security-awesome)
+* [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 
 ## Videos
 
@@ -399,6 +402,7 @@ A repository of links to various online tech learning resources
 * [Ruby for Newbies](https://code.tutsplus.com/series/ruby-for-newbies--net-18166)
 * [Face or no face (finding faces in photos using C# and Accord.NET)](http://www.productiverage.com/face-or-no-face-finding-faces-in-photos-using-c-sharp-and-accordnet)
 * [How to set up a Raspberry Pi-powered cloud service](http://www.techradar.com/how-to/computing/how-to-set-up-a-raspberry-pi-powered-cloud-service-1316017)
+* [Best practices in Android development](https://github.com/futurice/android-best-practices)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
@@ -473,3 +477,5 @@ A repository of links to various online tech learning resources
 * [Hangfire – Background jobs and workers for ASP.NET](http://hangfire.io/)
 * [ASP.NET Diagnostic page to dump ASP.NET and Environment configuration](https://code.msdn.microsoft.com/ASPNET-Diagnostic-page-to-9a029c20)
 * [Strong Password Generator](https://strongpasswordgenerator.com/)
+* [Android Boilerplate](https://github.com/hitherejoe/Android-Boilerplate/)
+* [Android Arsenal](https://android-arsenal.com/)
