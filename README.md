@@ -34,6 +34,7 @@ A repository of links to various online tech learning resources
 * [Speaking JavaScript](http://speakingjs.com/es5/)
 * [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/)
 * [Full Stack Python](http://www.fullstackpython.com/)
+* [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
 * [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 
 ## Book collections
