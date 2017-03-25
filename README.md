@@ -403,6 +403,7 @@ A repository of links to various online tech learning resources
 * [Face or no face (finding faces in photos using C# and Accord.NET)](http://www.productiverage.com/face-or-no-face-finding-faces-in-photos-using-c-sharp-and-accordnet)
 * [How to set up a Raspberry Pi-powered cloud service](http://www.techradar.com/how-to/computing/how-to-set-up-a-raspberry-pi-powered-cloud-service-1316017)
 * [Best practices in Android development](https://github.com/futurice/android-best-practices)
+* [Oh shit, git!](http://ohshitgit.com/)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
