@@ -258,7 +258,6 @@ A repository of links to various online tech learning resources
 * [Modern SQL](http://modern-sql.com/)
 * [Use The Index Luke](http://use-the-index-luke.com/)
 * [The First Things I Look At On A SQL Server](http://www.i-programmer.info/programming/database/6028-the-first-things-i-look-at-on-a-sql-server-part-1.html)
-* [Data Mining | SQL Server Central](http://www.sqlservercentral.com/articles/server/94235/)
 * [Hadoop Sandbox - Hortonworks](http://hortonworks.com/products/sandbox/)
 * [45 Useful Oracle Queries](http://viralpatel.net/blogs/useful-oracle-queries/)
 * [Top 10 Most Common Database Scripts](https://www.simple-talk.com/sql/t-sql-programming/top-10-most-common-database-scripts/)
@@ -343,8 +342,6 @@ A repository of links to various online tech learning resources
 * [20 brilliant WordPress tutorials](http://www.creativebloq.com/web-design/wordpress-tutorials-designers-1012990)
 * [WordPress Tutorial - Siteground](https://www.siteground.com/tutorials/wordpress/)
 * [The 12 Best Android Tutorials for First-Time App Developers](https://www.sitepoint.com/12-android-tutorials-beginners/)
-* [Learn to Map Census Data in R](http://www.arilamstein.com/)
-* [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
 * [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
 * [High On Android](http://highonandroid.com/)
 * [Amazon Alexa Sample App](https://github.com/alexa/alexa-avs-sample-app/blob/master/README.md)
@@ -362,16 +359,13 @@ A repository of links to various online tech learning resources
 * [The Ultimate Guide To HTTP/2](https://kinsta.com/learn/what-is-http2/)
 * [Learn Roslyn Now](https://joshvarty.wordpress.com/learn-roslyn-now/)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
-* [Machine Learning in Javascript: Introduction](http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/)
 * [Google's Python Class](https://developers.google.com/edu/python/)
-* [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
 * [So you want to be a Unity3D game developer?](https://www.codeproject.com/articles/682834/so-you-want-to-be-a-unity3d-game-developer)
 * [Unity 3D NetworkGame Programming](https://www.codeproject.com/articles/989447/unity-d-network-game-programming)
 * [Batches and Batches of Bots](https://channel9.msdn.com/coding4fun/blog/Batches-and-Batches-of-Bots)
 * [JVM Minimal Survival Guide](http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/)
 * [JVM memory model](http://coding-geek.com/jvm-memory-model/)
-* [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 * [Developer’s Guide to Open Source Licenses](https://www.toptal.com/open-source/developers-guide-to-open-source-licenses)
 * [Memory Management Reference](http://www.memorymanagement.org/index.html)
 * [How does a HashMap work in JAVA](http://coding-geek.com/how-does-a-hashmap-work-in-java/)
@@ -386,10 +380,7 @@ A repository of links to various online tech learning resources
 * [42 of the Most Useful Raspberry Pi Commands](http://www.circuitbasics.com/useful-raspberry-pi-commands/)
 * [C For Dummies Blog](http://c-for-dummies.com/blog/)
 * [C Archives - Dennis Kubes](http://denniskubes.com/category/c/)
-* [Stat Trek - Teach yourself statistics](http://stattrek.com/)
 * [cykl-di | devstyle.pl](http://devstyle.pl/tag/cykl-di)
-* [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.wizltj9u3)
-* [Using R with Databases | Big Data University](https://bigdatauniversity.com/courses/using-r-with-databases/)
 * [Bash scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial)
 * [BASH Programming - Introduction HOW-TO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 * [Create a Space Invaders Game in Corona](https://code.tutsplus.com/series/create-a-space-invaders-game-in-corona--cms-735)
@@ -404,8 +395,7 @@ A repository of links to various online tech learning resources
 * [How to set up a Raspberry Pi-powered cloud service](http://www.techradar.com/how-to/computing/how-to-set-up-a-raspberry-pi-powered-cloud-service-1316017)
 * [Best practices in Android development](https://github.com/futurice/android-best-practices)
 * [Oh shit, git!](http://ohshitgit.com/)
-* [Building a data science portfolio](https://www.dataquest.io/blog/data-science-portfolio-project/)
-* [Learn the machine](https://lenadroid.github.io/posts/machine-learning-fsharp-accorddotnet.html)
+
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
@@ -451,6 +441,21 @@ A repository of links to various online tech learning resources
 * [Making Music in the Browser – Web Audio API, Part 1](https://www.keithmcmillen.com/blog/making-music-in-the-browser-web-audio-api-part-1/)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Emanuele Feronato | GameDev tutorials](http://www.emanueleferonato.com/)
+
+## Machine Learning
+
+* [Learn to Map Census Data in R](http://www.arilamstein.com/)
+* [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
+* [Machine Learning in Javascript: Introduction](http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/)
+* [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+* [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+* [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.wizltj9u3)
+* [Using R with Databases | Big Data University](https://bigdatauniversity.com/courses/using-r-with-databases/)
+* [Building a data science portfolio](https://www.dataquest.io/blog/data-science-portfolio-project/)
+* [Learn the machine](https://lenadroid.github.io/posts/machine-learning-fsharp-accorddotnet.html)
+* [Stat Trek - Teach yourself statistics](http://stattrek.com/)
+* [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+* [Data Mining | SQL Server Central](http://www.sqlservercentral.com/articles/server/94235/)
 
 ## Tools
 
