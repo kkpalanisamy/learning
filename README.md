@@ -404,6 +404,8 @@ A repository of links to various online tech learning resources
 * [How to set up a Raspberry Pi-powered cloud service](http://www.techradar.com/how-to/computing/how-to-set-up-a-raspberry-pi-powered-cloud-service-1316017)
 * [Best practices in Android development](https://github.com/futurice/android-best-practices)
 * [Oh shit, git!](http://ohshitgit.com/)
+* [Building a data science portfolio](https://www.dataquest.io/blog/data-science-portfolio-project/)
+* [Learn the machine](https://lenadroid.github.io/posts/machine-learning-fsharp-accorddotnet.html)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
@@ -480,3 +482,4 @@ A repository of links to various online tech learning resources
 * [Strong Password Generator](https://strongpasswordgenerator.com/)
 * [Android Boilerplate](https://github.com/hitherejoe/Android-Boilerplate/)
 * [Android Arsenal](https://android-arsenal.com/)
+* [The Best Chrome Extensions for Developers: 40+ Tools for Programmers](https://stackify.com/chrome-extensions-for-developers/)
