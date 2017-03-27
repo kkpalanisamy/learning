@@ -302,7 +302,6 @@ A repository of links to various online tech learning resources
 * [The Data Loading Performance Guide](https://msdn.microsoft.com/en-us/library/dd425070(v=sql.100).aspx)
 * [Reading Pages](https://msdn.microsoft.com/en-us/library/ms191475(v=sql.105).aspx)
 * [Showplan Logical and Physical Operators Reference](https://msdn.microsoft.com/en-us/library/ms191158.aspx)
-* [Managing Space Used by Objects](Managing Space Used by Objects)
 * [Execution Plan Caching and Reuse](https://msdn.microsoft.com/en-us/library/ms181055.aspx)
 * [Understanding SQL server memory grant](https://blogs.msdn.microsoft.com/sqlqueryprocessing/2010/02/16/understanding-sql-server-memory-grant/)
 * [Nested Loops Join](https://blogs.msdn.microsoft.com/craigfr/2006/07/26/nested-loops-join/)
