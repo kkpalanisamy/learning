@@ -390,7 +390,6 @@ A repository of links to various online tech learning resources
 * [DIY: Make Your Own Programming Language](http://blog.ppelgren.se/2015-01-03/DIY-Make-Your-Own-Programming-language/)
 * [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 * [Ruby for Newbies](https://code.tutsplus.com/series/ruby-for-newbies--net-18166)
-* [Face or no face (finding faces in photos using C# and Accord.NET)](http://www.productiverage.com/face-or-no-face-finding-faces-in-photos-using-c-sharp-and-accordnet)
 * [How to set up a Raspberry Pi-powered cloud service](http://www.techradar.com/how-to/computing/how-to-set-up-a-raspberry-pi-powered-cloud-service-1316017)
 * [Best practices in Android development](https://github.com/futurice/android-best-practices)
 * [Oh shit, git!](http://ohshitgit.com/)
@@ -455,6 +454,7 @@ A repository of links to various online tech learning resources
 * [Stat Trek - Teach yourself statistics](http://stattrek.com/)
 * [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * [Data Mining | SQL Server Central](http://www.sqlservercentral.com/articles/server/94235/)
+* [Face or no face (finding faces in photos using C# and Accord.NET)](http://www.productiverage.com/face-or-no-face-finding-faces-in-photos-using-c-sharp-and-accordnet)
 
 ## Tools
 
