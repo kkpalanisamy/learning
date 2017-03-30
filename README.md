@@ -244,6 +244,13 @@ A repository of links to various online tech learning resources
 * [Packet Total](http://www.packettotal.com/)
 * [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 * [An Introduction to Securing your Linux VPS](https://www.digitalocean.com/community/tutorials/an-introduction-to-securing-your-linux-vps)
+* [King Phisher](https://github.com/securestate/king-phisher)
+* [FiercePhish](https://github.com/Raikia/FiercePhish)
+* [phishery](https://github.com/ryhanson/phishery)
+* [gophish](https://getgophish.com/)
+* [SSL Checker](https://www.sslshopper.com/ssl-checker.html)
+* [badssl.com](https://badssl.com/)
+* [What's My Chain Cert?](https://whatsmychaincert.com/)
 
 ## Databases
 
