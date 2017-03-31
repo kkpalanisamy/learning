@@ -251,6 +251,7 @@ A repository of links to various online tech learning resources
 * [SSL Checker](https://www.sslshopper.com/ssl-checker.html)
 * [badssl.com](https://badssl.com/)
 * [What's My Chain Cert?](https://whatsmychaincert.com/)
+* [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
 
 ## Databases
 
