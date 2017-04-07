@@ -404,6 +404,8 @@ A repository of links to various online tech learning resources
 * [Best practices in Android development](https://github.com/futurice/android-best-practices)
 * [Oh shit, git!](http://ohshitgit.com/)
 * [ASP.NET Core MVC Anatomy](https://www.stevejgordon.co.uk/asp-net-core-mvc-anatomy-addmvccore)
+* [Autodesk Circuits](https://circuits.io/)
+* [Circuito](https://www.circuito.io/)
 
 
 ## Web Development
