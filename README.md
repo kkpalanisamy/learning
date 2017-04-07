@@ -387,6 +387,7 @@ A repository of links to various online tech learning resources
 * [42 of the Most Useful Raspberry Pi Commands](http://www.circuitbasics.com/useful-raspberry-pi-commands/)
 * [C For Dummies Blog](http://c-for-dummies.com/blog/)
 * [C Archives - Dennis Kubes](http://denniskubes.com/category/c/)
+* [Build Your Own Text Editor in C](http://viewsourcecode.org/snaptoken/kilo/)
 * [cykl-di | devstyle.pl](http://devstyle.pl/tag/cykl-di)
 * [Bash scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial)
 * [BASH Programming - Introduction HOW-TO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
