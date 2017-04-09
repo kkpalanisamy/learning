@@ -36,6 +36,9 @@ A repository of links to various online tech learning resources
 * [Full Stack Python](http://www.fullstackpython.com/)
 * [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
 * [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
+* [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
+* [ModernDive - An Introduction to Statistical and Data Sciences via R](https://ismayc.github.io/moderndiver-book/)
+* [Text Mining with R](http://tidytextmining.com/)
 
 ## Book collections
 
@@ -468,6 +471,7 @@ A repository of links to various online tech learning resources
 * [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * [Data Mining | SQL Server Central](http://www.sqlservercentral.com/articles/server/94235/)
 * [Face or no face (finding faces in photos using C# and Accord.NET)](http://www.productiverage.com/face-or-no-face-finding-faces-in-photos-using-c-sharp-and-accordnet)
+* [Microsoft R Server | Channel9](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
 
 ## Tools
 
