@@ -36,7 +36,7 @@ A repository of links to various online tech learning resources
 * [Full Stack Python](http://www.fullstackpython.com/)
 * [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
 * [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
-* [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
+* [YaRrr! The Pirate’s Guide to R](http://nathanieldphillips.com/thepiratesguidetor/)
 * [ModernDive - An Introduction to Statistical and Data Sciences via R](https://ismayc.github.io/moderndiver-book/)
 * [Text Mining with R](http://tidytextmining.com/)
 
