@@ -39,6 +39,7 @@ A repository of links to various online tech learning resources
 * [YaRrr! The Pirate’s Guide to R](http://nathanieldphillips.com/thepiratesguidetor/)
 * [ModernDive - An Introduction to Statistical and Data Sciences via R](https://ismayc.github.io/moderndiver-book/)
 * [Text Mining with R](http://tidytextmining.com/)
+* [.NET Architecture](https://www.microsoft.com/net/architecture)
 
 ## Book collections
 
