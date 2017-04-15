@@ -485,6 +485,7 @@ A repository of links to various online tech learning resources
 * [json2csharp](http://json2csharp.com/)
 * [.NET Fiddle](http://www.dotnetfiddle.net/)
 * [SQL Fiddle](http://sqlfiddle.com/)
+* [DB Fiddle](https://www.db-fiddle.com/)
 * [ES6 Fiddle](http://www.es6fiddle.net/)
 * [Reference Source](http://referencesource.microsoft.com/)
 * [HTML Encoder](http://www.opinionatedgeek.com/DotNet/Tools/HTMLEncode/encode.aspx)
