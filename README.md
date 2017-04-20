@@ -396,6 +396,7 @@ A repository of links to various online tech learning resources
 * [Bash scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial)
 * [BASH Programming - Introduction HOW-TO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 * [Bash guide](https://github.com/Idnan/bash-guide)
+* [Guide to Windows Batch Scripting](http://steve-jansen.github.io/guides/windows-batch-scripting/index.html)
 * [Create a Space Invaders Game in Corona](https://code.tutsplus.com/series/create-a-space-invaders-game-in-corona--cms-735)
 * [Create a Plane Fighting Game in Corona](https://code.tutsplus.com/series/create-a-plane-fighting-game-in-corona--cms-635)
 * [How to Write Your Own Programming Language in C#](http://www.codemag.com/article/1607081)
