@@ -256,6 +256,7 @@ A repository of links to various online tech learning resources
 * [badssl.com](https://badssl.com/)
 * [What's My Chain Cert?](https://whatsmychaincert.com/)
 * [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
+* [Basics of Digital Certificates and Certificate Authority](https://sites.google.com/site/ddmwsst/digital-certificates)
 
 ## Databases
 
