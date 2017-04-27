@@ -137,6 +137,7 @@ A repository of links to various online tech learning resources
 * [GroupBy Conference – 3 Common Mistakes to Kill SQL Server Performance](https://blog.sqlauthority.com/2017/01/25/groupby-conference-3-common-mistakes-kill-sql-server-performance/)
 * [Introduction to IdentityServer - Brock Allen | NDC London](https://vimeo.com/154172925)
 * [GOTO 2012 • The R Language The Good The Bad & The Ugly • John Cook](https://www.youtube.com/watch?v=6S9r_YbqHy8)
+* [PLNOG18 - Michał Sajdak - IoT hacking w praktyce](https://www.youtube.com/watch?v=_Y65GrPgSnY&feature=youtu.be&t=5)
 
 ## Challenges and exercises
 
@@ -257,6 +258,7 @@ A repository of links to various online tech learning resources
 * [What's My Chain Cert?](https://whatsmychaincert.com/)
 * [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
 * [Basics of Digital Certificates and Certificate Authority](https://sites.google.com/site/ddmwsst/digital-certificates)
+* [Real-Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords)
 
 ## Databases
 
