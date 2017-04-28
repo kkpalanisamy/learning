@@ -458,6 +458,8 @@ A repository of links to various online tech learning resources
 * [The Web Audio API](https://code.tutsplus.com/series/the-web-audio-api--cms-817)
 * [Creating dub delay effects with the Web Audio API](http://blog.chrislowis.co.uk/2014/07/23/dub-delay-web-audio-api.html)
 * [Making Music in the Browser – Web Audio API, Part 1](https://www.keithmcmillen.com/blog/making-music-in-the-browser-web-audio-api-part-1/)
+* [Creating Fun and Immersive Audio Experiences with Web Audio](https://www.sitepoint.com/creating-fun-immersive-audio-experiences-web-audio/)
+* [Getting Started with Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Emanuele Feronato | GameDev tutorials](http://www.emanueleferonato.com/)
 
