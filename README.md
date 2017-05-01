@@ -481,6 +481,8 @@ A repository of links to various online tech learning resources
 * [Data Mining | SQL Server Central](http://www.sqlservercentral.com/articles/server/94235/)
 * [Face or no face (finding faces in photos using C# and Accord.NET)](http://www.productiverage.com/face-or-no-face-finding-faces-in-photos-using-c-sharp-and-accordnet)
 * [Microsoft R Server | Channel9](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
+* [The Open Movie Database API](http://www.omdbapi.com/)
+* [Data Dumps | Freebase](https://developers.google.com/freebase/)
 
 ## Tools
 
