@@ -40,6 +40,7 @@ A repository of links to various online tech learning resources
 * [ModernDive - An Introduction to Statistical and Data Sciences via R](https://ismayc.github.io/moderndiver-book/)
 * [Text Mining with R](http://tidytextmining.com/)
 * [.NET Architecture](https://www.microsoft.com/net/architecture)
+* [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
 ## Book collections
 
@@ -92,6 +93,7 @@ A repository of links to various online tech learning resources
 * [Awesome Android](https://github.com/JStumpp/awesome-android)
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
 * [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
+* [Python tools for penetration testers](https://github.com/dloss/python-pentest-tools)
 
 ## Videos
 
