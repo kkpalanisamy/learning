@@ -137,8 +137,8 @@ A repository of links to various online tech learning resources
 * [Data Driven | Syncfusion, Inc](https://www.youtube.com/playlist?list=PLDzXQPWT8wEBpFAGj3Q2aP0ktZJMUdxG1)
 * [MS Bots | Sitepoint](https://www.sitepoint.com/premium/courses/ms-bots-2939)
 * [GroupBy Conference – 3 Common Mistakes to Kill SQL Server Performance](https://blog.sqlauthority.com/2017/01/25/groupby-conference-3-common-mistakes-kill-sql-server-performance/)
-* [Introduction to IdentityServer - Brock Allen | NDC London](https://vimeo.com/154172925)
 * [GOTO 2012 • The R Language The Good The Bad & The Ugly • John Cook](https://www.youtube.com/watch?v=6S9r_YbqHy8)
+* [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg)
 * [PLNOG18 - Michał Sajdak - IoT hacking w praktyce](https://www.youtube.com/watch?v=_Y65GrPgSnY&feature=youtu.be&t=5)
 
 ## Challenges and exercises
@@ -483,6 +483,7 @@ A repository of links to various online tech learning resources
 * [Microsoft R Server | Channel9](https://channel9.msdn.com/Series/Microsoft-R-Server-Series)
 * [The Open Movie Database API](http://www.omdbapi.com/)
 * [Data Dumps | Freebase](https://developers.google.com/freebase/)
+* [R language for programmers](https://www.johndcook.com/blog/r_language_for_programmers/)
 
 ## Tools
 
