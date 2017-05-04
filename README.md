@@ -41,6 +41,7 @@ A repository of links to various online tech learning resources
 * [Text Mining with R](http://tidytextmining.com/)
 * [.NET Architecture](https://www.microsoft.com/net/architecture)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
+* [Technical Foundations of Informatics](https://info201-s17.github.io/book/)
 
 ## Book collections
 
@@ -484,6 +485,7 @@ A repository of links to various online tech learning resources
 * [The Open Movie Database API](http://www.omdbapi.com/)
 * [Data Dumps | Freebase](https://developers.google.com/freebase/)
 * [R language for programmers](https://www.johndcook.com/blog/r_language_for_programmers/)
+
 
 ## Tools
 
