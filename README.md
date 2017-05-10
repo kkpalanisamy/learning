@@ -521,3 +521,4 @@ A repository of links to various online tech learning resources
 * [Android Boilerplate](https://github.com/hitherejoe/Android-Boilerplate/)
 * [Android Arsenal](https://android-arsenal.com/)
 * [The Best Chrome Extensions for Developers: 40+ Tools for Programmers](https://stackify.com/chrome-extensions-for-developers/)
+* [Code Maat](https://github.com/adamtornhill/code-maat)
