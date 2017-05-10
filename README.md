@@ -143,6 +143,8 @@ A repository of links to various online tech learning resources
 * [GOTO 2012 • The R Language The Good The Bad & The Ugly • John Cook](https://www.youtube.com/watch?v=6S9r_YbqHy8)
 * [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg)
 * [PLNOG18 - Michał Sajdak - IoT hacking w praktyce](https://www.youtube.com/watch?v=_Y65GrPgSnY&feature=youtu.be&t=5)
+* [Building Your First Xamarin.Forms App with Xamarin for Visual Studio](https://www.youtube.com/watch?v=NGvn-pGZFPA)
+* [Abusing C# - Jon Skeet](https://www.youtube.com/watch?v=JIlO_EebEQI)
 
 ## Challenges and exercises
 
@@ -264,6 +266,7 @@ A repository of links to various online tech learning resources
 * [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
 * [Basics of Digital Certificates and Certificate Authority](https://sites.google.com/site/ddmwsst/digital-certificates)
 * [Real-Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords)
+* [Volatility](https://github.com/volatilityfoundation/volatility)
 
 ## Databases
 
@@ -522,3 +525,5 @@ A repository of links to various online tech learning resources
 * [Android Arsenal](https://android-arsenal.com/)
 * [The Best Chrome Extensions for Developers: 40+ Tools for Programmers](https://stackify.com/chrome-extensions-for-developers/)
 * [Code Maat](https://github.com/adamtornhill/code-maat)
+* [CodeTrack](http://www.getcodetrack.com/)
+* [MemoScope.Net](https://github.com/fremag/MemoScope.Net)
