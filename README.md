@@ -42,6 +42,7 @@ A repository of links to various online tech learning resources
 * [.NET Architecture](https://www.microsoft.com/net/architecture)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 * [Technical Foundations of Informatics](https://info201-s17.github.io/book/)
+* [The Book of the Runtime](https://github.com/dotnet/coreclr/tree/master/Documentation/botr)
 
 ## Book collections
 
@@ -145,6 +146,7 @@ A repository of links to various online tech learning resources
 * [PLNOG18 - Michał Sajdak - IoT hacking w praktyce](https://www.youtube.com/watch?v=_Y65GrPgSnY&feature=youtu.be&t=5)
 * [Building Your First Xamarin.Forms App with Xamarin for Visual Studio](https://www.youtube.com/watch?v=NGvn-pGZFPA)
 * [Abusing C# - Jon Skeet](https://www.youtube.com/watch?v=JIlO_EebEQI)
+* [Everything you need to know about .NET memory by Ben Emmett](https://vimeo.com/113632451)
 
 ## Challenges and exercises
 
