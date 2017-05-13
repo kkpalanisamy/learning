@@ -147,6 +147,7 @@ A repository of links to various online tech learning resources
 * [Building Your First Xamarin.Forms App with Xamarin for Visual Studio](https://www.youtube.com/watch?v=NGvn-pGZFPA)
 * [Abusing C# - Jon Skeet](https://www.youtube.com/watch?v=JIlO_EebEQI)
 * [Everything you need to know about .NET memory by Ben Emmett](https://vimeo.com/113632451)
+* [Elektro Maras](https://www.youtube.com/user/elektromaras/)
 
 ## Challenges and exercises
 
