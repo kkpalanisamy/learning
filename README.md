@@ -270,6 +270,7 @@ A repository of links to various online tech learning resources
 * [Basics of Digital Certificates and Certificate Authority](https://sites.google.com/site/ddmwsst/digital-certificates)
 * [Real-Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords)
 * [Volatility](https://github.com/volatilityfoundation/volatility)
+* [securityheaders.io](https://securityheaders.io/)
 
 ## Databases
 
