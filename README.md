@@ -361,6 +361,7 @@ A repository of links to various online tech learning resources
 * [Visual Basic 6 Tutorials](http://www.vbtutes.com/p/visual-basic-60-tutorial.html)
 * [.NET Type Internals - From a Microsoft CLR Perspective](https://www.codeproject.com/articles/20481/net-type-internals-from-a-microsoft-clr-perspecti)
 * [Get Started: Debugging Memory Related Issues in .Net Application Using WinDBG and SOS](https://www.codeproject.com/articles/23589/get-started-debugging-memory-related-issues-in-net)
+* [Debugging .NET with WinDbg](https://docs.google.com/document/d/1yMQ8NAQZEBtsfVp7AsFLSA_MkIKlYNuSowG72_nU0ek/edit)
 * [Introduction to CLR World](https://www.codeproject.com/articles/1042196/introduction-to-clr-world)
 * [Marshaling with C#](https://www.codeproject.com/articles/66245/marshaling-with-csharp-chapter-1-introducing-marsh.aspx)
 * [Digging Into .NET Loop Performance, Bounds-checking, Iteration, and Unrolling](https://www.codeproject.com/articles/844781/digging-into-net-loop-performance-bounds-checking)
