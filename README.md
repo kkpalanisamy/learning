@@ -149,6 +149,7 @@ A repository of links to various online tech learning resources
 * [Abusing C# - Jon Skeet](https://www.youtube.com/watch?v=JIlO_EebEQI)
 * [Everything you need to know about .NET memory by Ben Emmett](https://vimeo.com/113632451)
 * [Elektro Maras](https://www.youtube.com/user/elektromaras/)
+* [Getting Started with Python Development using Visual Studio](https://www.youtube.com/playlist?list=PLReL099Y5nRdLgGAdrb_YeTdEnd23s6Ff)
 
 ## Challenges and exercises
 
