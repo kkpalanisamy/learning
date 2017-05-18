@@ -496,6 +496,7 @@ A repository of links to various online tech learning resources
 * [The Open Movie Database API](http://www.omdbapi.com/)
 * [Data Dumps | Freebase](https://developers.google.com/freebase/)
 * [R language for programmers](https://www.johndcook.com/blog/r_language_for_programmers/)
+* [An Introduction to Spatial Data Analysis and Visualisation in R](https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r)
 
 
 ## Tools
