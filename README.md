@@ -498,6 +498,8 @@ A repository of links to various online tech learning resources
 * [Data Dumps | Freebase](https://developers.google.com/freebase/)
 * [R language for programmers](https://www.johndcook.com/blog/r_language_for_programmers/)
 * [An Introduction to Spatial Data Analysis and Visualisation in R](https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r)
+* [MXNet: A Scalable Deep Learning Framework](http://mxnet.io/)
+* [Torch | Scientific computing for LuaJIT](http://torch.ch/)
 
 
 ## Tools
