@@ -503,6 +503,8 @@ A repository of links to various online tech learning resources
 * [An Introduction to Spatial Data Analysis and Visualisation in R](https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r)
 * [MXNet: A Scalable Deep Learning Framework](http://mxnet.io/)
 * [Torch | Scientific computing for LuaJIT](http://torch.ch/)
+* [The Data Science Lab | Visual Studio Magazine](https://visualstudiomagazine.com/Articles/List/The-R-Lab.aspx)
+* [Neural Network Lab | Visual Studio Magazine](https://visualstudiomagazine.com/articles/list/neural-network-lab.aspx)
 
 
 ## Tools
