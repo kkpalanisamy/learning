@@ -277,6 +277,7 @@ A repository of links to various online tech learning resources
 * [Real-Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords)
 * [Volatility](https://github.com/volatilityfoundation/volatility)
 * [securityheaders.io](https://securityheaders.io/)
+* [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
 
 ## Databases
 
