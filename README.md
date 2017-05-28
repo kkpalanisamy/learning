@@ -98,6 +98,7 @@ A repository of links to various online tech learning resources
 * [Python tools for penetration testers](https://github.com/dloss/python-pentest-tools)
 * [Awesome APIs](https://github.com/TonnyL/Awesome_APIs/blob/master/Global.md)
 * [Awesome Compilers](https://github.com/aalhour/awesome-compilers)
+* [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
 
 ## Videos
 
@@ -542,3 +543,4 @@ A repository of links to various online tech learning resources
 * [Code Maat](https://github.com/adamtornhill/code-maat)
 * [CodeTrack](http://www.getcodetrack.com/)
 * [MemoScope.Net](https://github.com/fremag/MemoScope.Net)
+
