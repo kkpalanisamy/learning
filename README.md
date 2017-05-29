@@ -482,6 +482,7 @@ A repository of links to various online tech learning resources
 * [Getting Started with Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Emanuele Feronato | GameDev tutorials](http://www.emanueleferonato.com/)
+* [React Cheat Sheet](https://reactcheatsheet.com/)
 
 ## Machine Learning
 
