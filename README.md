@@ -434,6 +434,7 @@ A repository of links to various online tech learning resources
 * [ASP.NET Core MVC Anatomy](https://www.stevejgordon.co.uk/asp-net-core-mvc-anatomy-addmvccore)
 * [Autodesk Circuits](https://circuits.io/)
 * [Circuito](https://www.circuito.io/)
+* [ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 
 ## Web Development
@@ -545,4 +546,5 @@ A repository of links to various online tech learning resources
 * [Code Maat](https://github.com/adamtornhill/code-maat)
 * [CodeTrack](http://www.getcodetrack.com/)
 * [MemoScope.Net](https://github.com/fremag/MemoScope.Net)
+* [ODA - The Online Disassembler](https://www.onlinedisassembler.com/odaweb/)
 
