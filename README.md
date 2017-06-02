@@ -509,6 +509,7 @@ A repository of links to various online tech learning resources
 * [Torch | Scientific computing for LuaJIT](http://torch.ch/)
 * [The Data Science Lab | Visual Studio Magazine](https://visualstudiomagazine.com/Articles/List/The-R-Lab.aspx)
 * [Neural Network Lab | Visual Studio Magazine](https://visualstudiomagazine.com/articles/list/neural-network-lab.aspx)
+* [AI Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
 
 
 ## Tools
