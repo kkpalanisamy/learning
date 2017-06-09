@@ -177,6 +177,7 @@ A repository of links to various online tech learning resources
 * [TDD Kata 1 - String Calculator - Osherove](http://osherove.com/tdd-kata-1/)
 * [C# Brain teasers](http://ahuwanya.net/blog/post/C-Sharp-Brainteasers-Part-2)
 * [13 Essential .NET Interview Questions](https://www.toptal.com/dot-net/interview-questions)
+* [Top 50 AngularJS Interview Questions And Answers](http://www.c-sharpcorner.com/article/top-50-angularjs-interview-questions-and-answers/)
 * [ASP.NET MVC interview questions with answers](https://www.codeproject.com/articles/556995/asp-net-mvc-interview-questions-with-answers)
 * [VIM Adventures](https://vim-adventures.com/)
 
