@@ -486,6 +486,7 @@ A repository of links to various online tech learning resources
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Emanuele Feronato | GameDev tutorials](http://www.emanueleferonato.com/)
 * [React Cheat Sheet](https://reactcheatsheet.com/)
+* [head Cheat Sheet](http://gethead.info/)
 
 ## Machine Learning
 
