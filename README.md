@@ -436,6 +436,7 @@ A repository of links to various online tech learning resources
 * [Autodesk Circuits](https://circuits.io/)
 * [Circuito](https://www.circuito.io/)
 * [ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
+* [Digital Video Introduction](https://github.com/leandromoreira/digital_video_introduction)
 
 
 ## Web Development
