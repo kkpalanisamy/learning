@@ -153,6 +153,8 @@ A repository of links to various online tech learning resources
 * [Getting Started with Python Development using Visual Studio](https://www.youtube.com/playlist?list=PLReL099Y5nRdLgGAdrb_YeTdEnd23s6Ff)
 * [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
 * [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+* [Python Jumpstart for .NET Developers](http://www.wintellect.com/devcenter/wintellect/python-jumpstart-for-dot-net-developers)
+* [Write Pythonic Code Through 5 Examples Webinar](http://www.wintellect.com/devcenter/wintellect/learn-python)
 
 ## Challenges and exercises
 
@@ -437,6 +439,7 @@ A repository of links to various online tech learning resources
 * [Circuito](https://www.circuito.io/)
 * [ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
 * [Digital Video Introduction](https://github.com/leandromoreira/digital_video_introduction)
+* [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
 
 
 ## Web Development
@@ -487,6 +490,7 @@ A repository of links to various online tech learning resources
 * [Emanuele Feronato | GameDev tutorials](http://www.emanueleferonato.com/)
 * [React Cheat Sheet](https://reactcheatsheet.com/)
 * [head Cheat Sheet](http://gethead.info/)
+* [AngularJS and IdentityServer4](https://damienbod.com/2017/06/11/openid-connect-session-management-an-angular-application-using-identityserver4/)
 
 ## Machine Learning
 
