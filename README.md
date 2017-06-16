@@ -110,6 +110,7 @@ A repository of links to various online tech learning resources
 * [4Developers 2016](https://www.youtube.com/playlist?list=PLnKL6-WWWE_XUHBx49uL35wtbkYwIyxf1)
 * [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 * [JavaScript](https://www.youtube.com/playlist?list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)
+* [What The Flexbox?](https://flexbox.io/#/view/Vj7NZ6FiQvo)
 * [Wolfenstein 3D Clone Tutorial](https://www.youtube.com/playlist?list=PLEETnX-uPtBV7jIbAZNCulZM1cGxJRGYs#wolf3d)
 * [Command Line Power User](http://commandlinepoweruser.com/)
 * [Brent Ozar - First Aid - Video Archive](https://www.brentozar.com/first-aid/video-archive/)
@@ -155,6 +156,7 @@ A repository of links to various online tech learning resources
 * [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 * [Python Jumpstart for .NET Developers](http://www.wintellect.com/devcenter/wintellect/python-jumpstart-for-dot-net-developers)
 * [Write Pythonic Code Through 5 Examples Webinar](http://www.wintellect.com/devcenter/wintellect/learn-python)
+
 
 ## Challenges and exercises
 
@@ -456,6 +458,7 @@ A repository of links to various online tech learning resources
 * [A Compendium of SVG Information](https://css-tricks.com/mega-list-svg-information/)
 * [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox Zombies](http://flexboxzombies.com/p/flexbox-zombies)
 * [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 * [Learn CSS Layout](http://learnlayout.com/)
 * [CSS Grid Layout](http://gridbyexample.com/)
