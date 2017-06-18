@@ -520,6 +520,8 @@ A repository of links to various online tech learning resources
 * [The Data Science Lab | Visual Studio Magazine](https://visualstudiomagazine.com/Articles/List/The-R-Lab.aspx)
 * [Neural Network Lab | Visual Studio Magazine](https://visualstudiomagazine.com/articles/list/neural-network-lab.aspx)
 * [AI Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
+* [Finding the genre of a song with Deep Learning](https://chatbotslife.com/finding-the-genre-of-a-song-with-deep-learning-da8f59a61194)
+* [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
 
 
 ## Tools
