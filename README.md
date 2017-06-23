@@ -496,6 +496,7 @@ A repository of links to various online tech learning resources
 * [head Cheat Sheet](http://gethead.info/)
 * [AngularJS and IdentityServer4](https://damienbod.com/2017/06/11/openid-connect-session-management-an-angular-application-using-identityserver4/)
 * [Grid by Example](https://gridbyexample.com/)
+* [React Express](http://www.react.express/)
 
 ## Machine Learning
 
