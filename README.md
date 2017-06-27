@@ -528,6 +528,7 @@ A repository of links to various online tech learning resources
 * [Finding the genre of a song with Deep Learning](https://chatbotslife.com/finding-the-genre-of-a-song-with-deep-learning-da8f59a61194)
 * [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
 * [The Terrible Deep Learning List](https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List)
+* [machine learning algorithms tutorials (mainly in Python3)](https://github.com/ethen8181/machine-learning)
 
 
 ## Tools
