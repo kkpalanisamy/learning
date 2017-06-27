@@ -183,6 +183,7 @@ A repository of links to various online tech learning resources
 * [13 Essential .NET Interview Questions](https://www.toptal.com/dot-net/interview-questions)
 * [Top 50 AngularJS Interview Questions And Answers](http://www.c-sharpcorner.com/article/top-50-angularjs-interview-questions-and-answers/)
 * [ASP.NET MVC interview questions with answers](https://www.codeproject.com/articles/556995/asp-net-mvc-interview-questions-with-answers)
+* [Interview Questions For 2 Years Experience in SQL and C#](http://www.c-sharpcorner.com/UploadFile/00a8b7/interview-questions-for-2-year-experience-in-sql-and-C-Sharp/)
 * [VIM Adventures](https://vim-adventures.com/)
 * [Grid Garden](http://cssgridgarden.com/)
 
