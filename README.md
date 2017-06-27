@@ -156,6 +156,7 @@ A repository of links to various online tech learning resources
 * [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 * [Python Jumpstart for .NET Developers](http://www.wintellect.com/devcenter/wintellect/python-jumpstart-for-dot-net-developers)
 * [Write Pythonic Code Through 5 Examples Webinar](http://www.wintellect.com/devcenter/wintellect/learn-python)
+* [CSSconf EU 2017 | Una Kravets: Let’s Build a CSS Game](https://www.youtube.com/watch?v=WmVH85G59Lk)
 
 
 ## Challenges and exercises
