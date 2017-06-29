@@ -43,6 +43,7 @@ A repository of links to various online tech learning resources
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 * [Technical Foundations of Informatics](https://info201-s17.github.io/book/)
 * [The Book of the Runtime](https://github.com/dotnet/coreclr/tree/master/Documentation/botr)
+* [Go Language - Web Application Secure Coding Practices](https://checkmarx.gitbooks.io/go-scp/)
 
 ## Book collections
 
