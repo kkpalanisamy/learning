@@ -501,6 +501,7 @@ A repository of links to various online tech learning resources
 * [AngularJS and IdentityServer4](https://damienbod.com/2017/06/11/openid-connect-session-management-an-angular-application-using-identityserver4/)
 * [Grid by Example](https://gridbyexample.com/)
 * [React Express](http://www.react.express/)
+* [React Armory](https://reactarmory.com/)
 
 ## Machine Learning
 
