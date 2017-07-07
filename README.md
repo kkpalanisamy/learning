@@ -448,6 +448,7 @@ A repository of links to various online tech learning resources
 * [ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
 * [Digital Video Introduction](https://github.com/leandromoreira/digital_video_introduction)
 * [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
+* [Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects/)
 
 
 ## Web Development
