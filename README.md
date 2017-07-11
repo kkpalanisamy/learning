@@ -449,6 +449,7 @@ A repository of links to various online tech learning resources
 * [Digital Video Introduction](https://github.com/leandromoreira/digital_video_introduction)
 * [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
 * [Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects/)
+* [Docker for .NET Developers](https://www.stevejgordon.co.uk/docker-dotnet-developers-part-1)
 
 
 ## Web Development
@@ -572,4 +573,5 @@ A repository of links to various online tech learning resources
 * [CodeTrack](http://www.getcodetrack.com/)
 * [MemoScope.Net](https://github.com/fremag/MemoScope.Net)
 * [ODA - The Online Disassembler](https://www.onlinedisassembler.com/odaweb/)
+* [Top Java Tools](https://stackify.com/top-java-tools/)
 
