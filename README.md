@@ -159,6 +159,9 @@ A repository of links to various online tech learning resources
 * [Python Jumpstart for .NET Developers](http://www.wintellect.com/devcenter/wintellect/python-jumpstart-for-dot-net-developers)
 * [Write Pythonic Code Through 5 Examples Webinar](http://www.wintellect.com/devcenter/wintellect/learn-python)
 * [CSSconf EU 2017 | Una Kravets: Let’s Build a CSS Game](https://www.youtube.com/watch?v=WmVH85G59Lk)
+* [HP LoadRunner Tutorial](https://www.youtube.com/watch?v=oOLoXxXMbfA&list=PLCYqwbyDA33Q0tTm2nc3EqVBQEdemxZ1v)
+* [JMeter Load Testing Beginner tutorial](https://www.youtube.com/watch?v=4mfFSrxpl0Y)
+* [Introduction to Web Performance and Load Testing with VS2012 Ultimate](https://www.youtube.com/watch?v=s0VQOkyEL7M)
 
 
 ## Challenges and exercises
