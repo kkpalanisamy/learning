@@ -44,6 +44,7 @@ A repository of links to various online tech learning resources
 * [Technical Foundations of Informatics](https://info201-s17.github.io/book/)
 * [The Book of the Runtime](https://github.com/dotnet/coreclr/tree/master/Documentation/botr)
 * [Go Language - Web Application Secure Coding Practices](https://checkmarx.gitbooks.io/go-scp/)
+* [Kali Linux Revealed](https://kali.training/introduction/abstract/)
 
 ## Book collections
 
