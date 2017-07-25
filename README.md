@@ -539,7 +539,7 @@ A repository of links to various online tech learning resources
 * [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
 * [The Terrible Deep Learning List](https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List)
 * [machine learning algorithms tutorials (mainly in Python3)](https://github.com/ethen8181/machine-learning)
-
+* [My Curated List of AI and Machine Learning Resources from Around the Web](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 
 ## Tools
 
