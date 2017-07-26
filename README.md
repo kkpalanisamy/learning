@@ -292,6 +292,7 @@ A repository of links to various online tech learning resources
 * [Volatility](https://github.com/volatilityfoundation/volatility)
 * [securityheaders.io](https://securityheaders.io/)
 * [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
+* [18 Extensions For Turning Firefox Into a Penetration Testing Tool](http://resources.infosecinstitute.com/use-firefox-browser-as-a-penetration-testing-tool-with-these-add-ons/)
 
 ## Databases
 
@@ -372,6 +373,7 @@ A repository of links to various online tech learning resources
 * [MSDN Magazine Issues and Downloads](https://msdn.microsoft.com/magazine/msdn-magazine-issues)
 * [How the Runtime Locates Assemblies](https://msdn.microsoft.com/en-us/library/yx7xezcf(v=vs.110).aspx)
 * [C++ Tutorial | MSDN Blog](https://blogs.msdn.microsoft.com/vcblog/tag/c-tutorial/)
+* [Get Started with F# as a C# developer](https://blogs.msdn.microsoft.com/dotnet/2017/07/24/get-started-with-f-as-a-c-developer/)
 
 ## Tutorials and guides
 
@@ -540,6 +542,7 @@ A repository of links to various online tech learning resources
 * [The Terrible Deep Learning List](https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List)
 * [machine learning algorithms tutorials (mainly in Python3)](https://github.com/ethen8181/machine-learning)
 * [My Curated List of AI and Machine Learning Resources from Around the Web](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
+* [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
 ## Tools
 
