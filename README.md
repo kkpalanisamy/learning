@@ -511,6 +511,7 @@ A repository of links to various online tech learning resources
 * [Grid by Example](https://gridbyexample.com/)
 * [React Express](http://www.react.express/)
 * [React Armory](https://reactarmory.com/)
+* [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 
 ## Machine Learning
 
