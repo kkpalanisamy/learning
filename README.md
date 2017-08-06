@@ -456,6 +456,7 @@ A repository of links to various online tech learning resources
 * [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
 * [Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects/)
 * [Docker for .NET Developers](https://www.stevejgordon.co.uk/docker-dotnet-developers-part-1)
+* [Demystifying C# Generics](https://tech.io/playgrounds/2290/demystifying-c-generics/introduction)
 
 
 ## Web Development
