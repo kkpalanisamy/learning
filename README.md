@@ -293,6 +293,7 @@ A repository of links to various online tech learning resources
 * [securityheaders.io](https://securityheaders.io/)
 * [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
 * [18 Extensions For Turning Firefox Into a Penetration Testing Tool](http://resources.infosecinstitute.com/use-firefox-browser-as-a-penetration-testing-tool-with-these-add-ons/)
+* [Cracking the Lens: Targeting HTTP's Hidden Attack Surface](https://portswigger.net/knowledgebase/papers/CrackingTheLens-whitepaper.pdf)
 
 ## Databases
 
