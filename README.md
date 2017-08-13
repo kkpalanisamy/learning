@@ -458,7 +458,7 @@ A repository of links to various online tech learning resources
 * [Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects/)
 * [Docker for .NET Developers](https://www.stevejgordon.co.uk/docker-dotnet-developers-part-1)
 * [Demystifying C# Generics](https://tech.io/playgrounds/2290/demystifying-c-generics/introduction)
-
+* [Bootloader Programming Tutorial](https://www.apriorit.com/dev-blog/66-develop-boot-loader)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
