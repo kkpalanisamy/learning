@@ -287,6 +287,7 @@ A repository of links to various online tech learning resources
 * [badssl.com](https://badssl.com/)
 * [What's My Chain Cert?](https://whatsmychaincert.com/)
 * [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
+* [Reverse Engineering Malware 102](https://securedorg.github.io/RE102/)
 * [Basics of Digital Certificates and Certificate Authority](https://sites.google.com/site/ddmwsst/digital-certificates)
 * [Real-Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords)
 * [Volatility](https://github.com/volatilityfoundation/volatility)
