@@ -550,6 +550,7 @@ A repository of links to various online tech learning resources
 * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 * [How to make a racist AI without really trying](https://gist.github.com/rspeer/ef750e7e407e04894cb3b78a82d66aed)
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow)
+* [fast.ai | Making neural nets uncool again](http://www.fast.ai/)
 
 ## Tools
 
