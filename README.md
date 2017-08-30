@@ -552,6 +552,8 @@ A repository of links to various online tech learning resources
 * [How to make a racist AI without really trying](https://gist.github.com/rspeer/ef750e7e407e04894cb3b78a82d66aed)
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow)
 * [fast.ai | Making neural nets uncool again](http://www.fast.ai/)
+* [Machine Learning Recipes with Josh Gordon ](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+* [Machine Learning Stanford University Course with Andrew Ng | Coursera ](https://www.coursera.org/learn/machine-learning)
 
 ## Tools
 
