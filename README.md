@@ -45,6 +45,7 @@ A repository of links to various online tech learning resources
 * [The Book of the Runtime](https://github.com/dotnet/coreclr/tree/master/Documentation/botr)
 * [Go Language - Web Application Secure Coding Practices](https://checkmarx.gitbooks.io/go-scp/)
 * [Kali Linux Revealed](https://kali.training/introduction/abstract/)
+* [XUnit Test Patterns](http://xunitpatterns.com/index.html)
 
 ## Book collections
 
