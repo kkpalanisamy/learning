@@ -349,6 +349,7 @@ A repository of links to various online tech learning resources
 * [SQL Server Profiler and Trace Tips](https://www.mssqltips.com/sql-server-tip-category/83/profiler-and-trace/)
 * [Parameterization Series](http://www.sqlservercentral.com/blogs/guy-glantser/2015/01/08/parameterization-part-7-summary/)
 * [Bad Habits Revival](https://blogs.sentryone.com/aaronbertrand/bad-habits-revival/)
+* [How Does a Database Work?](https://cstack.github.io/db_tutorial/)
 
 ## MSDN
 
