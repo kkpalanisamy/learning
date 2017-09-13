@@ -195,6 +195,7 @@ A repository of links to various online tech learning resources
 * [Interview Questions For 2 Years Experience in SQL and C#](http://www.c-sharpcorner.com/UploadFile/00a8b7/interview-questions-for-2-year-experience-in-sql-and-C-Sharp/)
 * [VIM Adventures](https://vim-adventures.com/)
 * [Grid Garden](http://cssgridgarden.com/)
+* [Data structures and algorithms in C# ](https://github.com/abdonkov/DSA)
 
 ## Security
 
@@ -462,6 +463,8 @@ A repository of links to various online tech learning resources
 * [Docker for .NET Developers](https://www.stevejgordon.co.uk/docker-dotnet-developers-part-1)
 * [Demystifying C# Generics](https://tech.io/playgrounds/2290/demystifying-c-generics/introduction)
 * [Bootloader Programming Tutorial](https://www.apriorit.com/dev-blog/66-develop-boot-loader)
+* [Learn C#: Tutorials for Beginners, Intermediate, and Advanced Programmers](https://stackify.com/learn-c-sharp-tutorials/)
+* [Beginning Game Programming with C#](https://www.coursera.org/learn/game-programming)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
@@ -594,4 +597,6 @@ A repository of links to various online tech learning resources
 * [MemoScope.Net](https://github.com/fremag/MemoScope.Net)
 * [ODA - The Online Disassembler](https://www.onlinedisassembler.com/odaweb/)
 * [Top Java Tools](https://stackify.com/top-java-tools/)
+* [The Ultimate List of C# Tools](https://stackify.com/best-csharp-tools/)
+* [3rd party open source .NET libraries to add to your toolbox](https://www.domstamand.com/3rd-party-dotnet-libraries-to-add-to-your-toolbox/)
 
