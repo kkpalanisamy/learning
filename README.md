@@ -104,6 +104,9 @@ A repository of links to various online tech learning resources
 * [Awesome APIs](https://github.com/TonnyL/Awesome_APIs/blob/master/Global.md)
 * [Awesome Compilers](https://github.com/aalhour/awesome-compilers)
 * [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
+* [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security)
+* [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+* [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
 ## Videos
 
