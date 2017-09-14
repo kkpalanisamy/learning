@@ -301,6 +301,7 @@ A repository of links to various online tech learning resources
 * [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
 * [18 Extensions For Turning Firefox Into a Penetration Testing Tool](http://resources.infosecinstitute.com/use-firefox-browser-as-a-penetration-testing-tool-with-these-add-ons/)
 * [Cracking the Lens: Targeting HTTP's Hidden Attack Surface](https://portswigger.net/knowledgebase/papers/CrackingTheLens-whitepaper.pdf)
+* [A list of IDA Plugins](https://github.com/onethawt/idaplugins-list)
 
 ## Databases
 
@@ -563,6 +564,7 @@ A repository of links to various online tech learning resources
 * [fast.ai | Making neural nets uncool again](http://www.fast.ai/)
 * [Machine Learning Recipes with Josh Gordon ](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [Machine Learning Stanford University Course with Andrew Ng | Coursera ](https://www.coursera.org/learn/machine-learning)
+* [Introduction to Artificial Intelligence (AI)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x)
 
 ## Tools
 
