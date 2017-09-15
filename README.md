@@ -524,6 +524,8 @@ A repository of links to various online tech learning resources
 * [Grid by Example](https://gridbyexample.com/)
 * [React Express](http://www.react.express/)
 * [React Armory](https://reactarmory.com/)
+* [All the fundamental React.js concepts, jammed into this single Medium article](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
+* [How to Learn React: Everything You Need to Get Started](https://www.sitepoint.com/learn-react-everything-need-get-started/)
 * [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 * [Dev Tips](https://umaar.com/dev-tips/)
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
