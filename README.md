@@ -107,6 +107,7 @@ A repository of links to various online tech learning resources
 * [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security)
 * [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 * [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+* [Awesome Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins)
 
 ## Videos
 
