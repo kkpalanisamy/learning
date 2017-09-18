@@ -303,6 +303,7 @@ A repository of links to various online tech learning resources
 * [18 Extensions For Turning Firefox Into a Penetration Testing Tool](http://resources.infosecinstitute.com/use-firefox-browser-as-a-penetration-testing-tool-with-these-add-ons/)
 * [Cracking the Lens: Targeting HTTP's Hidden Attack Surface](https://portswigger.net/knowledgebase/papers/CrackingTheLens-whitepaper.pdf)
 * [A list of IDA Plugins](https://github.com/onethawt/idaplugins-list)
+* [Z3S Webinars](https://zaufanatrzeciastrona.pl/post/zobaczcie-nagrania-naszych-webinarow-i-zapiszcie-sie-na-nowe-odcinki/)
 
 ## Databases
 
