@@ -46,6 +46,8 @@ A repository of links to various online tech learning resources
 * [Go Language - Web Application Secure Coding Practices](https://checkmarx.gitbooks.io/go-scp/)
 * [Kali Linux Revealed](https://kali.training/introduction/abstract/)
 * [XUnit Test Patterns](http://xunitpatterns.com/index.html)
+* [R for Data Science](http://r4ds.had.co.nz/)
+* [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
 
 ## Book collections
 
@@ -200,6 +202,11 @@ A repository of links to various online tech learning resources
 * [VIM Adventures](https://vim-adventures.com/)
 * [Grid Garden](http://cssgridgarden.com/)
 * [Data structures and algorithms in C# ](https://github.com/abdonkov/DSA)
+* [Z3S Webinars](https://zaufanatrzeciastrona.pl/post/zobaczcie-nagrania-naszych-webinarow-i-zapiszcie-sie-na-nowe-odcinki/)
+* [Web application security | Michał Sajdak | Sekurak.pl | KMD MeetUp](https://www.youtube.com/watch?v=ja6CN-2x1wA&feature=youtu.be)
+* [GOTO 2013 • Software Development in the 21st Century • Martin Fowler](https://www.youtube.com/watch?v=TgdFA72crHM&app=desktop)
+* [Domain Driven Design: The Good Parts - Jimmy Bogard](https://www.youtube.com/watch?v=U6CeaA-Phqo)
+* [Venkat Subramaniam - The art of simplicity: Dev Day 2015](https://www.youtube.com/watch?v=I4wuMV8N6Iw)
 
 ## Security
 
@@ -303,7 +310,7 @@ A repository of links to various online tech learning resources
 * [18 Extensions For Turning Firefox Into a Penetration Testing Tool](http://resources.infosecinstitute.com/use-firefox-browser-as-a-penetration-testing-tool-with-these-add-ons/)
 * [Cracking the Lens: Targeting HTTP's Hidden Attack Surface](https://portswigger.net/knowledgebase/papers/CrackingTheLens-whitepaper.pdf)
 * [A list of IDA Plugins](https://github.com/onethawt/idaplugins-list)
-* [Z3S Webinars](https://zaufanatrzeciastrona.pl/post/zobaczcie-nagrania-naszych-webinarow-i-zapiszcie-sie-na-nowe-odcinki/)
+
 
 ## Databases
 
