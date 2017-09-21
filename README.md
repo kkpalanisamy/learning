@@ -171,7 +171,11 @@ A repository of links to various online tech learning resources
 * [HP LoadRunner Tutorial](https://www.youtube.com/watch?v=oOLoXxXMbfA&list=PLCYqwbyDA33Q0tTm2nc3EqVBQEdemxZ1v)
 * [JMeter Load Testing Beginner tutorial](https://www.youtube.com/watch?v=4mfFSrxpl0Y)
 * [Introduction to Web Performance and Load Testing with VS2012 Ultimate](https://www.youtube.com/watch?v=s0VQOkyEL7M)
-
+* [Z3S Webinars](https://zaufanatrzeciastrona.pl/post/zobaczcie-nagrania-naszych-webinarow-i-zapiszcie-sie-na-nowe-odcinki/)
+* [Web application security | Michał Sajdak | Sekurak.pl | KMD MeetUp](https://www.youtube.com/watch?v=ja6CN-2x1wA&feature=youtu.be)
+* [GOTO 2013 • Software Development in the 21st Century • Martin Fowler](https://www.youtube.com/watch?v=TgdFA72crHM&app=desktop)
+* [Domain Driven Design: The Good Parts - Jimmy Bogard](https://www.youtube.com/watch?v=U6CeaA-Phqo)
+* [Venkat Subramaniam - The art of simplicity: Dev Day 2015](https://www.youtube.com/watch?v=I4wuMV8N6Iw)
 
 ## Challenges and exercises
 
@@ -202,11 +206,6 @@ A repository of links to various online tech learning resources
 * [VIM Adventures](https://vim-adventures.com/)
 * [Grid Garden](http://cssgridgarden.com/)
 * [Data structures and algorithms in C# ](https://github.com/abdonkov/DSA)
-* [Z3S Webinars](https://zaufanatrzeciastrona.pl/post/zobaczcie-nagrania-naszych-webinarow-i-zapiszcie-sie-na-nowe-odcinki/)
-* [Web application security | Michał Sajdak | Sekurak.pl | KMD MeetUp](https://www.youtube.com/watch?v=ja6CN-2x1wA&feature=youtu.be)
-* [GOTO 2013 • Software Development in the 21st Century • Martin Fowler](https://www.youtube.com/watch?v=TgdFA72crHM&app=desktop)
-* [Domain Driven Design: The Good Parts - Jimmy Bogard](https://www.youtube.com/watch?v=U6CeaA-Phqo)
-* [Venkat Subramaniam - The art of simplicity: Dev Day 2015](https://www.youtube.com/watch?v=I4wuMV8N6Iw)
 
 ## Security
 
@@ -616,4 +615,5 @@ A repository of links to various online tech learning resources
 * [Top Java Tools](https://stackify.com/top-java-tools/)
 * [The Ultimate List of C# Tools](https://stackify.com/best-csharp-tools/)
 * [3rd party open source .NET libraries to add to your toolbox](https://www.domstamand.com/3rd-party-dotnet-libraries-to-add-to-your-toolbox/)
+* [The Ultimate List Of Developer Podcasts](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts)
 
