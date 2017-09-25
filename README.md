@@ -478,6 +478,8 @@ A repository of links to various online tech learning resources
 * [Bootloader Programming Tutorial](https://www.apriorit.com/dev-blog/66-develop-boot-loader)
 * [Learn C#: Tutorials for Beginners, Intermediate, and Advanced Programmers](https://stackify.com/learn-c-sharp-tutorials/)
 * [Beginning Game Programming with C#](https://www.coursera.org/learn/game-programming)
+* [RyuJIT Tutorial](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/ryujit-tutorial.md)
+* [ASP.NET Core 2.0 API Series](http://jack-vanlightly.com/blog/2017/8/5/net-core-web-api-series-introduction)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
