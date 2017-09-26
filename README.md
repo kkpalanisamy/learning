@@ -309,6 +309,7 @@ A repository of links to various online tech learning resources
 * [18 Extensions For Turning Firefox Into a Penetration Testing Tool](http://resources.infosecinstitute.com/use-firefox-browser-as-a-penetration-testing-tool-with-these-add-ons/)
 * [Cracking the Lens: Targeting HTTP's Hidden Attack Surface](https://portswigger.net/knowledgebase/papers/CrackingTheLens-whitepaper.pdf)
 * [A list of IDA Plugins](https://github.com/onethawt/idaplugins-list)
+* [ysoserial.net | Deserialization payload generator for a variety of .NET formatters](https://github.com/pwntester/ysoserial.net)
 
 
 ## Databases
@@ -480,6 +481,7 @@ A repository of links to various online tech learning resources
 * [Beginning Game Programming with C#](https://www.coursera.org/learn/game-programming)
 * [RyuJIT Tutorial](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/ryujit-tutorial.md)
 * [ASP.NET Core 2.0 API Series](http://jack-vanlightly.com/blog/2017/8/5/net-core-web-api-series-introduction)
+* [F# for fun and profit](https://fsharpforfunandprofit.com/)
 
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
