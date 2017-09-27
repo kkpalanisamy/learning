@@ -579,6 +579,8 @@ A repository of links to various online tech learning resources
 * [Machine Learning Recipes with Josh Gordon ](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [Machine Learning Stanford University Course with Andrew Ng | Coursera ](https://www.coursera.org/learn/machine-learning)
 * [Introduction to Artificial Intelligence (AI)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x)
+* [Partially Derivative](http://partiallyderivative.com/)
+* [Data Science Learning Club | becomingadatascientist.com](https://www.becomingadatascientist.com/learningclub/)
 
 ## Tools
 
