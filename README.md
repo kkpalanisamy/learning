@@ -541,6 +541,8 @@ A repository of links to various online tech learning resources
 * [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 * [Dev Tips](https://umaar.com/dev-tips/)
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+* [Angular4 DevMeeting](http://kapke.github.io/angular2-shop/program-devmeeting/)
+* [RxMarbles](http://rxmarbles.com/)
 
 ## Machine Learning
 
