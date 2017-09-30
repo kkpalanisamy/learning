@@ -583,6 +583,7 @@ A repository of links to various online tech learning resources
 * [Introduction to Artificial Intelligence (AI)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x)
 * [Partially Derivative](http://partiallyderivative.com/)
 * [Data Science Learning Club | becomingadatascientist.com](https://www.becomingadatascientist.com/learningclub/)
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
 ## Tools
 
