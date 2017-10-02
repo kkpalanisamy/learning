@@ -483,6 +483,7 @@ A repository of links to various online tech learning resources
 * [ASP.NET Core 2.0 API Series](http://jack-vanlightly.com/blog/2017/8/5/net-core-web-api-series-introduction)
 * [F# for fun and profit](https://fsharpforfunandprofit.com/)
 
+
 ## Web Development
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
 * [Learn AngularJS 1.X](https://www.codecademy.com/learn/learn-angularjs)
@@ -625,4 +626,5 @@ A repository of links to various online tech learning resources
 * [The Ultimate List of C# Tools](https://stackify.com/best-csharp-tools/)
 * [3rd party open source .NET libraries to add to your toolbox](https://www.domstamand.com/3rd-party-dotnet-libraries-to-add-to-your-toolbox/)
 * [The Ultimate List Of Developer Podcasts](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts)
+* [Xamarin Tools & Resources](https://www.kymphillpotts.com/xamarin-tools-and-resources/)
 
