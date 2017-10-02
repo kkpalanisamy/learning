@@ -102,6 +102,7 @@ A repository of links to various online tech learning resources
 * [Awesome Android](https://github.com/JStumpp/awesome-android)
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
 * [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
+* [awesome-mobile-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF)
 * [Python tools for penetration testers](https://github.com/dloss/python-pentest-tools)
 * [Awesome APIs](https://github.com/TonnyL/Awesome_APIs/blob/master/Global.md)
 * [Awesome Compilers](https://github.com/aalhour/awesome-compilers)
@@ -310,7 +311,15 @@ A repository of links to various online tech learning resources
 * [Cracking the Lens: Targeting HTTP's Hidden Attack Surface](https://portswigger.net/knowledgebase/papers/CrackingTheLens-whitepaper.pdf)
 * [A list of IDA Plugins](https://github.com/onethawt/idaplugins-list)
 * [ysoserial.net | Deserialization payload generator for a variety of .NET formatters](https://github.com/pwntester/ysoserial.net)
-
+* [ZAP Baseline Scan](https://github.com/zaproxy/zaproxy/wiki/ZAP-Baseline-Scan)
+* [Open SAMM](http://www.opensamm.org/)
+* [OWASP AppSec Europe 2017 Belfast](https://2017.appsec.eu/slides-and-videos)
+* [Security Knowledge Framework](https://www.securityknowledgeframework.org/)
+* [OWASP Mobile Security Testing Guide](https://www.gitbook.com/book/b-mueller/the-owasp-mobile-security-testing-guide/details)
+* [OMTG-Hacking-Playground](https://github.com/OWASP/OMTG-Hacking-Playground)
+* [QARK - Quick Android Review Kit](https://github.com/linkedin/qark)
+* [MobSF - Mobile Security Framework](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+* [OSX security related tools](https://github.com/ashishb/osx-and-ios-security-awesome)
 
 ## Databases
 
