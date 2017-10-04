@@ -177,6 +177,7 @@ A repository of links to various online tech learning resources
 * [GOTO 2013 • Software Development in the 21st Century • Martin Fowler](https://www.youtube.com/watch?v=TgdFA72crHM&app=desktop)
 * [Domain Driven Design: The Good Parts - Jimmy Bogard](https://www.youtube.com/watch?v=U6CeaA-Phqo)
 * [Venkat Subramaniam - The art of simplicity: Dev Day 2015](https://www.youtube.com/watch?v=I4wuMV8N6Iw)
+* [.NET Conf 2017](https://channel9.msdn.com/Events/dotnetConf/2017)
 
 ## Challenges and exercises
 
