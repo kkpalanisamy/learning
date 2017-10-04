@@ -636,4 +636,4 @@ A repository of links to various online tech learning resources
 * [3rd party open source .NET libraries to add to your toolbox](https://www.domstamand.com/3rd-party-dotnet-libraries-to-add-to-your-toolbox/)
 * [The Ultimate List Of Developer Podcasts](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts)
 * [Xamarin Tools & Resources](https://www.kymphillpotts.com/xamarin-tools-and-resources/)
-
+* [.NET/C# Realtime Resources](https://realtimeapi.io/hub/dotnet-c-realtime-resources/)
