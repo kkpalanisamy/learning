@@ -554,6 +554,7 @@ A repository of links to various online tech learning resources
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
 * [Angular4 DevMeeting](http://kapke.github.io/angular2-shop/program-devmeeting/)
 * [RxMarbles](http://rxmarbles.com/)
+* [Kotlin From Scratch](https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209)
 
 ## Machine Learning
 
