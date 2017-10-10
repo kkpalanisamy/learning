@@ -111,6 +111,7 @@ A repository of links to various online tech learning resources
 * [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 * [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 * [Awesome Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins)
+* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
 
 ## Videos
 
@@ -492,6 +493,7 @@ A repository of links to various online tech learning resources
 * [RyuJIT Tutorial](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/ryujit-tutorial.md)
 * [ASP.NET Core 2.0 API Series](http://jack-vanlightly.com/blog/2017/8/5/net-core-web-api-series-introduction)
 * [F# for fun and profit](https://fsharpforfunandprofit.com/)
+* [Interactive Vim tutorial](http://www.openvim.com/)
 
 
 ## Web Development
@@ -555,6 +557,7 @@ A repository of links to various online tech learning resources
 * [Angular4 DevMeeting](http://kapke.github.io/angular2-shop/program-devmeeting/)
 * [RxMarbles](http://rxmarbles.com/)
 * [Kotlin From Scratch](https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209)
+* [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 ## Machine Learning
 
