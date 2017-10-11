@@ -322,6 +322,7 @@ A repository of links to various online tech learning resources
 * [QARK - Quick Android Review Kit](https://github.com/linkedin/qark)
 * [MobSF - Mobile Security Framework](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 * [OSX security related tools](https://github.com/ashishb/osx-and-ios-security-awesome)
+* [OWASP Poland Slideshare](https://www.slideshare.net/OWASP_Poland)
 
 ## Databases
 
