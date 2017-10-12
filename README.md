@@ -112,6 +112,7 @@ A repository of links to various online tech learning resources
 * [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 * [Awesome Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins)
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
+* [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 
 ## Videos
 
