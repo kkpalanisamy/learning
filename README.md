@@ -496,6 +496,7 @@ A repository of links to various online tech learning resources
 * [ASP.NET Core 2.0 API Series](http://jack-vanlightly.com/blog/2017/8/5/net-core-web-api-series-introduction)
 * [F# for fun and profit](https://fsharpforfunandprofit.com/)
 * [Interactive Vim tutorial](http://www.openvim.com/)
+* [PurelyFunctional.tv](https://purelyfunctional.tv/)
 
 
 ## Web Development
