@@ -48,6 +48,11 @@ A repository of links to various online tech learning resources
 * [XUnit Test Patterns](http://xunitpatterns.com/index.html)
 * [R for Data Science](http://r4ds.had.co.nz/)
 * [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+* [R Programming](https://en.wikibooks.org/wiki/R_Programming)
+* [Think Stats: Exploratory Data Analysis in Python](http://greenteapress.com/thinkstats2/html/index.html)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 
 ## Book collections
 
@@ -602,6 +607,7 @@ A repository of links to various online tech learning resources
 * [Partially Derivative](http://partiallyderivative.com/)
 * [Data Science Learning Club | becomingadatascientist.com](https://www.becomingadatascientist.com/learningclub/)
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+* [Machine Learning Notebooks](https://github.com/ageron/handson-ml)
 
 ## Tools
 
