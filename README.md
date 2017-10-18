@@ -118,6 +118,7 @@ A repository of links to various online tech learning resources
 * [Awesome Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins)
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
 * [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+* [Open Source Game Clones](http://osgameclones.com/)
 
 ## Videos
 
