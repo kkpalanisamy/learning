@@ -52,6 +52,7 @@ A repository of links to various online tech learning resources
 * [R Programming](https://en.wikibooks.org/wiki/R_Programming)
 * [Think Stats: Exploratory Data Analysis in Python](http://greenteapress.com/thinkstats2/html/index.html)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [R Manuals as bookdown](http://colinfay.me/r-manuals/)
 
 
 ## Book collections
