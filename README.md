@@ -53,6 +53,7 @@ A repository of links to various online tech learning resources
 * [Think Stats: Exploratory Data Analysis in Python](http://greenteapress.com/thinkstats2/html/index.html)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [R Manuals as bookdown](http://colinfay.me/r-manuals/)
+* [Machine Learning with the MicrosoftML Package](https://azure.github.io/learnAnalytics-MicrosoftML/)
 
 
 ## Book collections
