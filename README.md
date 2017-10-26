@@ -334,6 +334,7 @@ A repository of links to various online tech learning resources
 * [MobSF - Mobile Security Framework](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 * [OSX security related tools](https://github.com/ashishb/osx-and-ios-security-awesome)
 * [OWASP Poland Slideshare](https://www.slideshare.net/OWASP_Poland)
+* [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)
 
 ## Databases
 
@@ -657,3 +658,4 @@ A repository of links to various online tech learning resources
 * [Xamarin Tools & Resources](https://www.kymphillpotts.com/xamarin-tools-and-resources/)
 * [.NET/C# Realtime Resources](https://realtimeapi.io/hub/dotnet-c-realtime-resources/)
 * [CodeTriage](https://www.codetriage.com/)
+* [WinWorld](https://winworldpc.com/home)
