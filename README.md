@@ -417,6 +417,7 @@ A repository of links to various online tech learning resources
 * [How the Runtime Locates Assemblies](https://msdn.microsoft.com/en-us/library/yx7xezcf(v=vs.110).aspx)
 * [C++ Tutorial | MSDN Blog](https://blogs.msdn.microsoft.com/vcblog/tag/c-tutorial/)
 * [Get Started with F# as a C# developer](https://blogs.msdn.microsoft.com/dotnet/2017/07/24/get-started-with-f-as-a-c-developer/)
+* [Mixed Reality Immersive– A Beginners guide to building for MR](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/10/09/mixed-reality-immersive-a-beginners-guide-to-building-for-mr/)
 
 ## Tutorials and guides
 
