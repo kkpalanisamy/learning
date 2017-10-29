@@ -509,6 +509,7 @@ A repository of links to various online tech learning resources
 * [F# for fun and profit](https://fsharpforfunandprofit.com/)
 * [Interactive Vim tutorial](http://www.openvim.com/)
 * [PurelyFunctional.tv](https://purelyfunctional.tv/)
+* [20 Blockchain development learning resources](http://pragmaticcoders.com/blog/blockchain-dev-learning-resources/)
 
 
 ## Web Development
