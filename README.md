@@ -54,6 +54,7 @@ A repository of links to various online tech learning resources
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [R Manuals as bookdown](http://colinfay.me/r-manuals/)
 * [Machine Learning with the MicrosoftML Package](https://azure.github.io/learnAnalytics-MicrosoftML/)
+* [Mastering Bitcoin 2nd Edition](https://github.com/bitcoinbook/bitcoinbook)
 
 
 ## Book collections
