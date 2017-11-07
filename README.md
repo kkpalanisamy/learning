@@ -336,6 +336,7 @@ A repository of links to various online tech learning resources
 * [OSX security related tools](https://github.com/ashishb/osx-and-ios-security-awesome)
 * [OWASP Poland Slideshare](https://www.slideshare.net/OWASP_Poland)
 * [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)
+* [Penetration Testing Cheat Sheet For Windows Machine – Intrusion Detection](https://techincidents.com/penetration-testing-cheat-sheet/)
 
 ## Databases
 
@@ -617,6 +618,8 @@ A repository of links to various online tech learning resources
 * [Data Science Learning Club | becomingadatascientist.com](https://www.becomingadatascientist.com/learningclub/)
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 * [Machine Learning Notebooks](https://github.com/ageron/handson-ml)
+* [Excel vs R: A Brief Introduction to R](https://www.jessesadler.com/post/excel-vs-r/)
+* [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 
 ## Tools
 
