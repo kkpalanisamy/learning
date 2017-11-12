@@ -337,6 +337,7 @@ A repository of links to various online tech learning resources
 * [OWASP Poland Slideshare](https://www.slideshare.net/OWASP_Poland)
 * [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)
 * [Penetration Testing Cheat Sheet For Windows Machine – Intrusion Detection](https://techincidents.com/penetration-testing-cheat-sheet/)
+* [x86_64 TCP bind shellcode with basic authentication on Linux systems](https://pentesterslife.blog/2017/11/01/x86_64-tcp-bind-shellcode-with-basic-authentication-on-linux-systems/)
 
 ## Databases
 
@@ -619,6 +620,7 @@ A repository of links to various online tech learning resources
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 * [Machine Learning Notebooks](https://github.com/ageron/handson-ml)
 * [Excel vs R: A Brief Introduction to R](https://www.jessesadler.com/post/excel-vs-r/)
+* [Geocoding with R](https://www.jessesadler.com/post/geocoding-with-r/)
 * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 
 ## Tools
