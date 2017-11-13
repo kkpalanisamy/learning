@@ -338,6 +338,8 @@ A repository of links to various online tech learning resources
 * [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)
 * [Penetration Testing Cheat Sheet For Windows Machine – Intrusion Detection](https://techincidents.com/penetration-testing-cheat-sheet/)
 * [x86_64 TCP bind shellcode with basic authentication on Linux systems](https://pentesterslife.blog/2017/11/01/x86_64-tcp-bind-shellcode-with-basic-authentication-on-linux-systems/)
+* [Creating a Simple Free Malware Analysis Environment](https://www.malwaretech.com/2017/11/creating-a-simple-free-malware-analysis-environment.html)
+* [Onion Investigator](https://oint.ctrlbox.com/)
 
 ## Databases
 
