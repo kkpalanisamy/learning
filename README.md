@@ -622,6 +622,7 @@ A repository of links to various online tech learning resources
 * [Excel vs R: A Brief Introduction to R](https://www.jessesadler.com/post/excel-vs-r/)
 * [Geocoding with R](https://www.jessesadler.com/post/geocoding-with-r/)
 * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+* [Top 10 Machine Learning Algorithms for Beginners](https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html)
 
 ## Tools
 
