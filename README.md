@@ -191,6 +191,7 @@ A repository of links to various online tech learning resources
 * [.NET Conf 2017](https://channel9.msdn.com/Events/dotnetConf/2017)
 * [Bsides Warsaw](https://www.youtube.com/channel/UCexBIw_UJOz-H1PD9I9zkGw/feed?activity_view=3&app=desktop)
 * [Hack.lu 2017](https://www.youtube.com/playlist?list=PLCxOaebc_2yNlOGhuOjInlJvr0Ktb_FYz&app=desktop)
+* [The Hello World Show](https://www.youtube.com/channel/UCh1MAMXrvKK_C_piVgOFOAg)
 
 ## Challenges and exercises
 
