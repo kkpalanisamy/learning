@@ -627,6 +627,7 @@ A repository of links to various online tech learning resources
 * [Geocoding with R](https://www.jessesadler.com/post/geocoding-with-r/)
 * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 * [Top 10 Machine Learning Algorithms for Beginners](https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html)
+* [A Guide to Natural Language Processing](https://tomassetti.me/guide-natural-language-processing/)
 
 ## Tools
 
