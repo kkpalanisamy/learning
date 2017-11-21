@@ -628,6 +628,7 @@ A repository of links to various online tech learning resources
 * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 * [Top 10 Machine Learning Algorithms for Beginners](https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html)
 * [A Guide to Natural Language Processing](https://tomassetti.me/guide-natural-language-processing/)
+* [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 
 ## Tools
 
