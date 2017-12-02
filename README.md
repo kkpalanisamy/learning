@@ -192,6 +192,7 @@ A repository of links to various online tech learning resources
 * [Bsides Warsaw](https://www.youtube.com/channel/UCexBIw_UJOz-H1PD9I9zkGw/feed?activity_view=3&app=desktop)
 * [Hack.lu 2017](https://www.youtube.com/playlist?list=PLCxOaebc_2yNlOGhuOjInlJvr0Ktb_FYz&app=desktop)
 * [The Hello World Show](https://www.youtube.com/channel/UCh1MAMXrvKK_C_piVgOFOAg)
+* [XXE Film | Sekurak](https://sekurak.pl/movies/xxe-film.html)
 
 ## Challenges and exercises
 
@@ -342,6 +343,7 @@ A repository of links to various online tech learning resources
 * [Creating a Simple Free Malware Analysis Environment](https://www.malwaretech.com/2017/11/creating-a-simple-free-malware-analysis-environment.html)
 * [Onion Investigator](https://oint.ctrlbox.com/)
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
+* [Burp starter Screencast | Sekurak](https://sekurak.pl/movies/screencast_burp_starter_sub04-20171125.mp4)
 
 ## Databases
 
@@ -629,6 +631,11 @@ A repository of links to various online tech learning resources
 * [Top 10 Machine Learning Algorithms for Beginners](https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html)
 * [A Guide to Natural Language Processing](https://tomassetti.me/guide-natural-language-processing/)
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+* [Getting Started with TensorFlow: A Machine Learning Tutorial](https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial)
+
+## Blockchain
+
+
 
 ## Tools
 
