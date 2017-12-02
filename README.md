@@ -518,10 +518,11 @@ A repository of links to various online tech learning resources
 * [F# for fun and profit](https://fsharpforfunandprofit.com/)
 * [Interactive Vim tutorial](http://www.openvim.com/)
 * [PurelyFunctional.tv](https://purelyfunctional.tv/)
-* [20 Blockchain development learning resources](http://pragmaticcoders.com/blog/blockchain-dev-learning-resources/)
 
 
 ## Web Development
+
+
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
 * [Learn AngularJS 1.X](https://www.codecademy.com/learn/learn-angularjs)
 * [How to Learn AngularJS – Your AngularJS Sherpa](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
@@ -635,6 +636,19 @@ A repository of links to various online tech learning resources
 
 ## Blockchain
 
+* [How Bitcoin works](http://blog.revolutionanalytics.com/2017/07/because-its-friday-how-bitcoin-works.html)
+* [Devcon2: Ethereum in 25 Minutes](https://www.youtube.com/watch?v=66SaEDzlmP4)
+* [Blockchain Demo](https://anders.com/blockchain/)
+* [Bithub.pl](https://bithub.pl/)
+* [Truffle framework](https://github.com/trufflesuite/truffle)
+* [Etherscan.io](https://etherscan.io/)
+* [Metamask.io](https://metamask.io/)
+* [20 Blockchain development learning resources](http://pragmaticcoders.com/blog/blockchain-dev-learning-resources/)
+* [How Bitcoin Works Under the Hood](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html)
+* [Full Stack Hello World Voting Ethereum Dapp Tutorial](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
+* [React & Ethereum: Getting Started With The Minimum Toolset Required](https://levelup.gitconnected.com/https-medium-com-zubairnahmed-react-ethereum-getting-started-with-the-minimum-toolset-required-part-1-of-4-9562efa23d18)
+* [Just Enough Bitcoin for Ethereum](https://media.consensys.net/time-sure-does-fly-ed4518792679)
+* [Creating a blockchain with Javascript](https://www.youtube.com/watch?v=zVqczFZr124)
 
 
 ## Tools
