@@ -518,6 +518,7 @@ A repository of links to various online tech learning resources
 * [F# for fun and profit](https://fsharpforfunandprofit.com/)
 * [Interactive Vim tutorial](http://www.openvim.com/)
 * [PurelyFunctional.tv](https://purelyfunctional.tv/)
+* [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 
 
 ## Web Development
@@ -633,6 +634,7 @@ A repository of links to various online tech learning resources
 * [A Guide to Natural Language Processing](https://tomassetti.me/guide-natural-language-processing/)
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [Getting Started with TensorFlow: A Machine Learning Tutorial](https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial)
+* [Introduction to R Programming](https://cecilialee.github.io/blog/2017/12/05/intro-to-r-programming.html)
 
 ## Blockchain
 
