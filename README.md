@@ -55,6 +55,7 @@ A repository of links to various online tech learning resources
 * [R Manuals as bookdown](http://colinfay.me/r-manuals/)
 * [Machine Learning with the MicrosoftML Package](https://azure.github.io/learnAnalytics-MicrosoftML/)
 * [Mastering Bitcoin 2nd Edition](https://github.com/bitcoinbook/bitcoinbook)
+* [Building an Airport Explorer eBook](https://jerriep.gitbooks.io/airport-explorer-book/content/)
 
 
 ## Book collections
@@ -122,6 +123,7 @@ A repository of links to various online tech learning resources
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
 * [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 * [Open Source Game Clones](http://osgameclones.com/)
+* [Raspberry Pi A to Z List ](https://github.com/wtsxDev/Raspberry-Pi)
 
 ## Videos
 
@@ -636,6 +638,7 @@ A repository of links to various online tech learning resources
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [Getting Started with TensorFlow: A Machine Learning Tutorial](https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial)
 * [Introduction to R Programming](https://cecilialee.github.io/blog/2017/12/05/intro-to-r-programming.html)
+* [Step-by-step modeling a neural network for classification](https://franpapers.com/en/2017-step-by-step-modeling-a-neural-network-for-classification/)
 
 ## Blockchain
 
