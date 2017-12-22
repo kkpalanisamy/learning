@@ -225,6 +225,9 @@ A repository of links to various online tech learning resources
 * [VIM Adventures](https://vim-adventures.com/)
 * [Grid Garden](http://cssgridgarden.com/)
 * [Data structures and algorithms in C# ](https://github.com/abdonkov/DSA)
+* [exercism.io](http://exercism.io/)
+* [adventofcode.com](http://adventofcode.com/)
+* [allReady | Humanitarian Toolbox](http://www.htbox.org/projects/allready)
 
 ## Security
 
@@ -656,6 +659,7 @@ A repository of links to various online tech learning resources
 * [Just Enough Bitcoin for Ethereum](https://media.consensys.net/time-sure-does-fly-ed4518792679)
 * [Creating a blockchain with Javascript](https://www.youtube.com/watch?v=zVqczFZr124)
 * [A blockchain in 200 lines of code](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54)
+* [Nethereum](http://www.nethereum.com/)
 
 
 ## Tools
@@ -702,3 +706,4 @@ A repository of links to various online tech learning resources
 * [.NET/C# Realtime Resources](https://realtimeapi.io/hub/dotnet-c-realtime-resources/)
 * [CodeTriage](https://www.codetriage.com/)
 * [WinWorld](https://winworldpc.com/home)
+* [Cypress.io](https://www.cypress.io/)
