@@ -522,7 +522,7 @@ A repository of links to various online tech learning resources
 * [PurelyFunctional.tv](https://purelyfunctional.tv/)
 * [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 * [How to Create a Tower Defense Game in Unity](https://www.raywenderlich.com/168079/create-tower-defense-game-unity-part-1-2)
-
+* [Must use, must know WinDbg commands, my most used](https://blogs.msdn.microsoft.com/benjaminperkins/2017/12/21/must-use-must-know-windbg-commands-my-most-used/)
 
 ## Web Development
 
@@ -655,6 +655,7 @@ A repository of links to various online tech learning resources
 * [React & Ethereum: Getting Started With The Minimum Toolset Required](https://levelup.gitconnected.com/https-medium-com-zubairnahmed-react-ethereum-getting-started-with-the-minimum-toolset-required-part-1-of-4-9562efa23d18)
 * [Just Enough Bitcoin for Ethereum](https://media.consensys.net/time-sure-does-fly-ed4518792679)
 * [Creating a blockchain with Javascript](https://www.youtube.com/watch?v=zVqczFZr124)
+* [A blockchain in 200 lines of code](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54)
 
 
 ## Tools
