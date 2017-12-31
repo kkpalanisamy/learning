@@ -350,6 +350,7 @@ A repository of links to various online tech learning resources
 * [Onion Investigator](https://oint.ctrlbox.com/)
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
 * [Burp starter Screencast | Sekurak](https://sekurak.pl/movies/screencast_burp_starter_sub04-20171125.mp4)
+* [nmap_vulners](https://github.com/vulnersCom/nmap-vulners)
 
 ## Databases
 
