@@ -586,13 +586,14 @@ A repository of links to various online tech learning resources
 * [React Armory](https://reactarmory.com/)
 * [All the fundamental React.js concepts, jammed into this single Medium article](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
 * [How to Learn React: Everything You Need to Get Started](https://www.sitepoint.com/learn-react-everything-need-get-started/)
-* [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
+* [What the fck JavaScript?](https://github.com/denysdovhan/wtfjs)
 * [Dev Tips](https://umaar.com/dev-tips/)
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
 * [Angular4 DevMeeting](http://kapke.github.io/angular2-shop/program-devmeeting/)
 * [RxMarbles](http://rxmarbles.com/)
 * [Kotlin From Scratch](https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209)
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+* [Learn D3.js in 5 Days](https://benclinkinbeard.com/d3in5days/)
 
 ## Machine Learning
 
