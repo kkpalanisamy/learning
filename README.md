@@ -230,6 +230,7 @@ A repository of links to various online tech learning resources
 * [exercism.io](http://exercism.io/)
 * [adventofcode.com](http://adventofcode.com/)
 * [allReady | Humanitarian Toolbox](http://www.htbox.org/projects/allready)
+* [IndieHackers](https://www.indiehackers.com/)
 
 ## Security
 
