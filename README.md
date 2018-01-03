@@ -125,6 +125,7 @@ A repository of links to various online tech learning resources
 * [Open Source Game Clones](http://osgameclones.com/)
 * [Raspberry Pi A to Z List ](https://github.com/wtsxDev/Raspberry-Pi)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+* [A Curated List of Checklists](https://github.com/huyingjie/Checklist-Checklist)
 
 ## Videos
 
