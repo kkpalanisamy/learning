@@ -530,6 +530,8 @@ A repository of links to various online tech learning resources
 * [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 * [How to Create a Tower Defense Game in Unity](https://www.raywenderlich.com/168079/create-tower-defense-game-unity-part-1-2)
 * [Must use, must know WinDbg commands, my most used](https://blogs.msdn.microsoft.com/benjaminperkins/2017/12/21/must-use-must-know-windbg-commands-my-most-used/)
+* [React Native Tutorial: Building Android Apps with JavaScript](https://www.raywenderlich.com/178012/react-native-tutorial-building-android-apps-javascript)
+
 
 ## Web Development
 
@@ -596,6 +598,8 @@ A repository of links to various online tech learning resources
 * [Kotlin From Scratch](https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209)
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [Learn D3.js in 5 Days](https://benclinkinbeard.com/d3in5days/)
+* [JAMStack](https://jamstack.org/)
+
 
 ## Machine Learning
 
@@ -666,6 +670,7 @@ A repository of links to various online tech learning resources
 * [Creating a blockchain with Javascript](https://www.youtube.com/watch?v=zVqczFZr124)
 * [A blockchain in 200 lines of code](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54)
 * [Nethereum](http://www.nethereum.com/)
+* [Pragma](https://www.withpragma.com/)
 
 
 ## Tools
