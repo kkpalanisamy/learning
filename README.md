@@ -353,6 +353,7 @@ A repository of links to various online tech learning resources
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
 * [Burp starter Screencast | Sekurak](https://sekurak.pl/movies/screencast_burp_starter_sub04-20171125.mp4)
 * [nmap_vulners](https://github.com/vulnersCom/nmap-vulners)
+* [fsociety Hacking Tools Pack](https://github.com/Manisso/fsociety)
 
 ## Databases
 
