@@ -653,6 +653,7 @@ A repository of links to various online tech learning resources
 * [Introduction to R Programming](https://cecilialee.github.io/blog/2017/12/05/intro-to-r-programming.html)
 * [Step-by-step modeling a neural network for classification](https://franpapers.com/en/2017-step-by-step-modeling-a-neural-network-for-classification/)
 * [Building a Poor Man’s Deep Learning Camera in Python](https://www.makeartwithpython.com/blog/poor-mans-deep-learning-camera/)
+* [Field Guide to the R Ecosystem](http://fg2re.sellorm.com/)
 
 ## Blockchain
 
