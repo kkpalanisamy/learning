@@ -720,3 +720,4 @@ A repository of links to various online tech learning resources
 * [CodeTriage](https://www.codetriage.com/)
 * [WinWorld](https://winworldpc.com/home)
 * [Cypress.io](https://www.cypress.io/)
+* [StaticGen](https://www.staticgen.com/)
