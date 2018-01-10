@@ -529,6 +529,7 @@ A repository of links to various online tech learning resources
 * [Interactive Vim tutorial](http://www.openvim.com/)
 * [PurelyFunctional.tv](https://purelyfunctional.tv/)
 * [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
+* [Introduction to Game Development with Unity and C#](https://www.red-gate.com/simple-talk/dotnet/c-programming/introduction-game-development-unity-c/)
 * [How to Create a Tower Defense Game in Unity](https://www.raywenderlich.com/168079/create-tower-defense-game-unity-part-1-2)
 * [Must use, must know WinDbg commands, my most used](https://blogs.msdn.microsoft.com/benjaminperkins/2017/12/21/must-use-must-know-windbg-commands-my-most-used/)
 * [React Native Tutorial: Building Android Apps with JavaScript](https://www.raywenderlich.com/178012/react-native-tutorial-building-android-apps-javascript)
