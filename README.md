@@ -354,6 +354,7 @@ A repository of links to various online tech learning resources
 * [Burp starter Screencast | Sekurak](https://sekurak.pl/movies/screencast_burp_starter_sub04-20171125.mp4)
 * [nmap_vulners](https://github.com/vulnersCom/nmap-vulners)
 * [fsociety Hacking Tools Pack](https://github.com/Manisso/fsociety)
+* [snyk.io](https://snyk.io/)
 
 ## Databases
 
@@ -601,6 +602,7 @@ A repository of links to various online tech learning resources
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [Learn D3.js in 5 Days](https://benclinkinbeard.com/d3in5days/)
 * [JAMStack](https://jamstack.org/)
+* [React, Redux and JavaScript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/)
 
 
 ## Machine Learning
