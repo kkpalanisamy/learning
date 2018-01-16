@@ -239,6 +239,10 @@ A repository of links to various online tech learning resources
 * [Supercar Showdown - Supercar Showdown](https://hackyourselffirst.troyhunt.com/)
 * [PassiveTotal | Power to the Analyst](https://www.passivetotal.org/)
 * [Shodan](https://www.shodan.io/)
+* [ZoomEye](https://www.zoomeye.org/)
+* [Certificate Search | crt.sh](https://crt.sh/)
+* [VirusTotal](https://www.virustotal.com)
+* [Insecam](http://www.insecam.org/)
 * [OWASP Zed Attack Proxy Project - OWASP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 * [Burp Suite](https://portswigger.net/burp/)
 * [CVE - Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
@@ -355,6 +359,10 @@ A repository of links to various online tech learning resources
 * [nmap_vulners](https://github.com/vulnersCom/nmap-vulners)
 * [fsociety Hacking Tools Pack](https://github.com/Manisso/fsociety)
 * [snyk.io](https://snyk.io/)
+* [jadx | Dex to Java decompiler](https://github.com/skylot/jadx)
+* [Frida | dynamic instrumentation toolkit](https://www.frida.re/)
+* [DIVA Android - Damn Insecure and vulnerable App for Android](https://github.com/payatu/diva-android)
+* [APKRepatcher](https://github.com/csanuragjain/APKRepatcher/wiki/APKRepatcher)
 
 ## Databases
 
