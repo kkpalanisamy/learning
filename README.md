@@ -126,6 +126,7 @@ A repository of links to various online tech learning resources
 * [Raspberry Pi A to Z List ](https://github.com/wtsxDev/Raspberry-Pi)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 * [A Curated List of Checklists](https://github.com/huyingjie/Checklist-Checklist)
+* [CryptoList](https://github.com/coinpride/CryptoList)
 
 ## Videos
 
@@ -363,6 +364,11 @@ A repository of links to various online tech learning resources
 * [Frida | dynamic instrumentation toolkit](https://www.frida.re/)
 * [DIVA Android - Damn Insecure and vulnerable App for Android](https://github.com/payatu/diva-android)
 * [APKRepatcher](https://github.com/csanuragjain/APKRepatcher/wiki/APKRepatcher)
+* [Most Important Penetration Testing commands Cheat Sheet for Linux Machine](https://techincidents.com/important-penetration-testing-cheat-sheet/)
+* [Routerpwn](http://routerpwn.com/)
+* [Router Security Checklist](https://www.routersecurity.org/checklist.php)
+* [Damn Vulnerable ARM Router (DVAR)](http://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html)
+
 
 ## Databases
 
