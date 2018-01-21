@@ -673,6 +673,7 @@ A repository of links to various online tech learning resources
 * [Field Guide to the R Ecosystem](http://fg2re.sellorm.com/)
 * [Building a neural network from scratch in R](http://selbydavid.com/2018/01/09/neural-network/)
 * [Data Analysis in Python with Pandas](https://www.wintellect.com/data-analysis-python-pandas/)
+* [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp)
 
 ## Blockchain
 
