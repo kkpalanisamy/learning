@@ -674,6 +674,7 @@ A repository of links to various online tech learning resources
 * [Building a neural network from scratch in R](http://selbydavid.com/2018/01/09/neural-network/)
 * [Data Analysis in Python with Pandas](https://www.wintellect.com/data-analysis-python-pandas/)
 * [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp)
+* [Screenshot to code in Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)
 
 ## Blockchain
 
