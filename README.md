@@ -198,8 +198,11 @@ A repository of links to various online tech learning resources
 * [Hack.lu 2017](https://www.youtube.com/playlist?list=PLCxOaebc_2yNlOGhuOjInlJvr0Ktb_FYz&app=desktop)
 * [The Hello World Show](https://www.youtube.com/channel/UCh1MAMXrvKK_C_piVgOFOAg)
 * [XXE Film | Sekurak](https://sekurak.pl/movies/xxe-film.html)
+* [x86 Assembly](https://www.youtube.com/playlist?list=PLan2CeTAw3pFOq5qc9urw8w7R-kvAT8Yb)
+
 
 ## Challenges and exercises
+
 
 * [HackerRank](https://www.hackerrank.com/domains)
 * [Project Euler](https://projecteuler.net/archives)
