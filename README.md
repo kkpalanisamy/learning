@@ -371,6 +371,7 @@ A repository of links to various online tech learning resources
 * [Routerpwn](http://routerpwn.com/)
 * [Router Security Checklist](https://www.routersecurity.org/checklist.php)
 * [Damn Vulnerable ARM Router (DVAR)](http://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html)
+* [Yet another Burp Suite tutorial for beginners](http://sheepsec.com/tutorial/Burp-Suite-tutorial-for-beginners.html)
 
 
 ## Databases
@@ -551,6 +552,7 @@ A repository of links to various online tech learning resources
 * [How to Create a Tower Defense Game in Unity](https://www.raywenderlich.com/168079/create-tower-defense-game-unity-part-1-2)
 * [Must use, must know WinDbg commands, my most used](https://blogs.msdn.microsoft.com/benjaminperkins/2017/12/21/must-use-must-know-windbg-commands-my-most-used/)
 * [React Native Tutorial: Building Android Apps with JavaScript](https://www.raywenderlich.com/178012/react-native-tutorial-building-android-apps-javascript)
+* [Resources for Learning about .NET Internals](http://mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/)
 
 
 ## Web Development
@@ -678,6 +680,8 @@ A repository of links to various online tech learning resources
 * [Data Analysis in Python with Pandas](https://www.wintellect.com/data-analysis-python-pandas/)
 * [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp)
 * [Screenshot to code in Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)
+* [A Web Developer's Guide to Machine Learning in JavaScript](https://www.robinwieruch.de/machine-learning-javascript-web-developers/)
+
 
 ## Blockchain
 
