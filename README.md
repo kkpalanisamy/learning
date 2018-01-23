@@ -199,6 +199,7 @@ A repository of links to various online tech learning resources
 * [The Hello World Show](https://www.youtube.com/channel/UCh1MAMXrvKK_C_piVgOFOAg)
 * [XXE Film | Sekurak](https://sekurak.pl/movies/xxe-film.html)
 * [x86 Assembly](https://www.youtube.com/playlist?list=PLan2CeTAw3pFOq5qc9urw8w7R-kvAT8Yb)
+* [SecurityTube](http://www.securitytube.net/)
 
 
 ## Challenges and exercises
@@ -250,6 +251,7 @@ A repository of links to various online tech learning resources
 * [OWASP Zed Attack Proxy Project - OWASP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 * [Burp Suite](https://portswigger.net/burp/)
 * [CVE - Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
+* [Peerlyst Resources](https://www.peerlyst.com/explore/resources/most-liked)
 * [Nmap: the Network Mapper - Free Security Scanner](https://nmap.org/)
 * [Zenmap - Official cross-platform Nmap Security Scanner GUI](https://nmap.org/zenmap/)
 * [rozwal.to](https://rozwal.to/)
