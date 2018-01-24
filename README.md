@@ -683,6 +683,7 @@ A repository of links to various online tech learning resources
 * [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp)
 * [Screenshot to code in Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)
 * [A Web Developer's Guide to Machine Learning in JavaScript](https://www.robinwieruch.de/machine-learning-javascript-web-developers/)
+* [Machine Learning: An Introduction](http://www.dotnetcurry.com/machinelearning-ai/1413/machine-learning-introduction)
 
 
 ## Blockchain
