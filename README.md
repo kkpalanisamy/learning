@@ -556,6 +556,7 @@ A repository of links to various online tech learning resources
 * [Must use, must know WinDbg commands, my most used](https://blogs.msdn.microsoft.com/benjaminperkins/2017/12/21/must-use-must-know-windbg-commands-my-most-used/)
 * [React Native Tutorial: Building Android Apps with JavaScript](https://www.raywenderlich.com/178012/react-native-tutorial-building-android-apps-javascript)
 * [Resources for Learning about .NET Internals](http://mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/)
+* [Learn Razor Pages](http://www.learnrazorpages.com/)
 
 
 ## Web Development
