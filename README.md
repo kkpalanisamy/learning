@@ -55,6 +55,7 @@ A repository of links to various online tech learning resources
 * [R Manuals as bookdown](http://colinfay.me/r-manuals/)
 * [Machine Learning with the MicrosoftML Package](https://azure.github.io/learnAnalytics-MicrosoftML/)
 * [Mastering Bitcoin 2nd Edition](https://github.com/bitcoinbook/bitcoinbook)
+* [Programming The Blockchain in C#](https://programmingblockchain.gitbooks.io/programmingblockchain/content/)
 * [Building an Airport Explorer eBook](https://jerriep.gitbooks.io/airport-explorer-book/content/)
 
 
@@ -686,6 +687,7 @@ A repository of links to various online tech learning resources
 * [Screenshot to code in Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)
 * [A Web Developer's Guide to Machine Learning in JavaScript](https://www.robinwieruch.de/machine-learning-javascript-web-developers/)
 * [Machine Learning: An Introduction](http://www.dotnetcurry.com/machinelearning-ai/1413/machine-learning-introduction)
+* [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 
 
 ## Blockchain
