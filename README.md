@@ -115,6 +115,7 @@ A repository of links to various online tech learning resources
 * [awesome-mobile-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF)
 * [Python tools for penetration testers](https://github.com/dloss/python-pentest-tools)
 * [Awesome APIs](https://github.com/TonnyL/Awesome_APIs/blob/master/Global.md)
+* [Public Apis](https://github.com/toddmotto/public-apis)
 * [Awesome Compilers](https://github.com/aalhour/awesome-compilers)
 * [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
 * [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security)
