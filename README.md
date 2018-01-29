@@ -689,6 +689,7 @@ A repository of links to various online tech learning resources
 * [A Web Developer's Guide to Machine Learning in JavaScript](https://www.robinwieruch.de/machine-learning-javascript-web-developers/)
 * [Machine Learning: An Introduction](http://www.dotnetcurry.com/machinelearning-ai/1413/machine-learning-introduction)
 * [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+* [Implementing Simple Neural Network in C#](https://rubikscode.net/2018/01/29/implementing-simple-neural-network-in-c/)
 
 
 ## Blockchain
