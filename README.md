@@ -129,6 +129,7 @@ A repository of links to various online tech learning resources
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 * [A Curated List of Checklists](https://github.com/huyingjie/Checklist-Checklist)
 * [CryptoList](https://github.com/coinpride/CryptoList)
+* [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
 
 ## Videos
 
@@ -378,6 +379,7 @@ A repository of links to various online tech learning resources
 * [Damn Vulnerable ARM Router (DVAR)](http://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html)
 * [Yet another Burp Suite tutorial for beginners](http://sheepsec.com/tutorial/Burp-Suite-tutorial-for-beginners.html)
 * [Wargames | OverTheWire](http://overthewire.org/wargames/)
+* [Hacker101](https://www.hacker101.com/)
 
 
 ## Databases
