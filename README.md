@@ -714,6 +714,9 @@ A repository of links to various online tech learning resources
 * [Nethereum](http://www.nethereum.com/)
 * [Pragma](https://www.withpragma.com/)
 * [Go Ethereum](https://geth.ethereum.org/)
+* [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+* [OpenZeppelin](https://openzeppelin.org/)
+* [CryptoKitties](https://www.cryptokitties.co/)
 
 
 ## Tools
