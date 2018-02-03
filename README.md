@@ -204,6 +204,7 @@ A repository of links to various online tech learning resources
 * [x86 Assembly](https://www.youtube.com/playlist?list=PLan2CeTAw3pFOq5qc9urw8w7R-kvAT8Yb)
 * [SecurityTube](http://www.securitytube.net/)
 * [CSS Grid](https://cssgrid.io/)
+* [Make Flappy Bird With Unity3D - Learning To Make Games](https://www.youtube.com/watch?v=O865wMMxFm8&app=desktop)
 
 
 ## Challenges and exercises
@@ -562,6 +563,7 @@ A repository of links to various online tech learning resources
 * [React Native Tutorial: Building Android Apps with JavaScript](https://www.raywenderlich.com/178012/react-native-tutorial-building-android-apps-javascript)
 * [Resources for Learning about .NET Internals](http://mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/)
 * [Learn Razor Pages](http://www.learnrazorpages.com/)
+* [Fun with Xamarin: Building a Simple Working Memory Game App with Web API and SignalR](https://www.codeproject.com/Articles/1228161/Fun-with-Xamarin-Building-a-Simple-Working-Memory)
 
 
 ## Web Development
