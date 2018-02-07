@@ -82,6 +82,7 @@ A repository of links to various online tech learning resources
 * [Awesome .NET](https://github.com/quozd/awesome-dotnet)
 * [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
 * [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+* [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
 * [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
