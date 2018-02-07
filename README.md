@@ -381,6 +381,7 @@ A repository of links to various online tech learning resources
 * [Yet another Burp Suite tutorial for beginners](http://sheepsec.com/tutorial/Burp-Suite-tutorial-for-beginners.html)
 * [Wargames | OverTheWire](http://overthewire.org/wargames/)
 * [Hacker101](https://www.hacker101.com/)
+* [Social Recon](https://github.com/famavott/osint-scraper)
 
 
 ## Databases
@@ -564,6 +565,7 @@ A repository of links to various online tech learning resources
 * [Resources for Learning about .NET Internals](http://mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/)
 * [Learn Razor Pages](http://www.learnrazorpages.com/)
 * [Fun with Xamarin: Building a Simple Working Memory Game App with Web API and SignalR](https://www.codeproject.com/Articles/1228161/Fun-with-Xamarin-Building-a-Simple-Working-Memory)
+* [Space Invaders With Go](https://sausheong.github.io/posts/space-invaders-with-go/)
 
 
 ## Web Development
