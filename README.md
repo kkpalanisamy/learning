@@ -636,6 +636,7 @@ A repository of links to various online tech learning resources
 * [Learn D3.js in 5 Days](https://benclinkinbeard.com/d3in5days/)
 * [JAMStack](https://jamstack.org/)
 * [React, Redux and JavaScript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/)
+* [Developing Games with React, Redux, and SVG - Part 1](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
 
 
 ## Machine Learning
@@ -723,6 +724,7 @@ A repository of links to various online tech learning resources
 * [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
 * [OpenZeppelin](https://openzeppelin.org/)
 * [CryptoKitties](https://www.cryptokitties.co/)
+* [Chiccocoin: Learn what is a Blockchain by creating one in NodeJS](https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b)
 
 
 ## Tools
