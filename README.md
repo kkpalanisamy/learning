@@ -57,6 +57,7 @@ A repository of links to various online tech learning resources
 * [Mastering Bitcoin 2nd Edition](https://github.com/bitcoinbook/bitcoinbook)
 * [Programming The Blockchain in C#](https://programmingblockchain.gitbooks.io/programmingblockchain/content/)
 * [Building an Airport Explorer eBook](https://jerriep.gitbooks.io/airport-explorer-book/content/)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 
 ## Book collections
@@ -700,6 +701,8 @@ A repository of links to various online tech learning resources
 * [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 * [Implementing Simple Neural Network in C#](https://rubikscode.net/2018/01/29/implementing-simple-neural-network-in-c/)
 * [TensorFlow Models](https://github.com/Sarasra/models)
+* [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
+* [Microsoft Professional Program for Big Data](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
 
 
 ## Blockchain
@@ -725,6 +728,7 @@ A repository of links to various online tech learning resources
 * [OpenZeppelin](https://openzeppelin.org/)
 * [CryptoKitties](https://www.cryptokitties.co/)
 * [Chiccocoin: Learn what is a Blockchain by creating one in NodeJS](https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b)
+* [First Look Into Blockchain](https://blogs.msdn.microsoft.com/premier_developer/2017/12/13/first-look-into-blockchain/)
 
 
 ## Tools
