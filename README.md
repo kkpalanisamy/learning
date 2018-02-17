@@ -384,6 +384,8 @@ A repository of links to various online tech learning resources
 * [Wargames | OverTheWire](http://overthewire.org/wargames/)
 * [Hacker101](https://www.hacker101.com/)
 * [Social Recon](https://github.com/famavott/osint-scraper)
+* [Advanced Threat Tactics | Cobalt Strike](https://cobaltstrike.com/training)
+* [RODO/GDPR](https://sekurak.pl/rodo-gdpr-jak-wykorzystac-do-rozwoju-biznesu-film-z-nasza-prezentacja/)
 
 
 ## Databases
@@ -729,6 +731,7 @@ A repository of links to various online tech learning resources
 * [CryptoKitties](https://www.cryptokitties.co/)
 * [Chiccocoin: Learn what is a Blockchain by creating one in NodeJS](https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b)
 * [First Look Into Blockchain](https://blogs.msdn.microsoft.com/premier_developer/2017/12/13/first-look-into-blockchain/)
+* [Starting with Ethereum](https://blog.frankel.ch//starting-ethereum/5/)
 
 
 ## Tools
