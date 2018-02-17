@@ -570,6 +570,7 @@ A repository of links to various online tech learning resources
 * [Learn Razor Pages](http://www.learnrazorpages.com/)
 * [Fun with Xamarin: Building a Simple Working Memory Game App with Web API and SignalR](https://www.codeproject.com/Articles/1228161/Fun-with-Xamarin-Building-a-Simple-Working-Memory)
 * [Space Invaders With Go](https://sausheong.github.io/posts/space-invaders-with-go/)
+* [Async / Await in C# – Videos and Resources](http://iamtimcorey.com/async-await-training/)
 
 
 ## Web Development
