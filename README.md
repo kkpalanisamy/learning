@@ -734,6 +734,7 @@ A repository of links to various online tech learning resources
 * [First Look Into Blockchain](https://blogs.msdn.microsoft.com/premier_developer/2017/12/13/first-look-into-blockchain/)
 * [Starting with Ethereum](https://blog.frankel.ch//starting-ethereum/5/)
 * [What is An Ethereum Token: The Ultimate Beginner’s Guide](https://blockgeeks.com/guides/ethereum-token/)
+* [Blockgeeks guides](https://blockgeeks.com/guides/)
 
 
 ## Tools
