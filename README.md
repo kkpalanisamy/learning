@@ -58,6 +58,7 @@ A repository of links to various online tech learning resources
 * [Programming The Blockchain in C#](https://programmingblockchain.gitbooks.io/programmingblockchain/content/)
 * [Building an Airport Explorer eBook](https://jerriep.gitbooks.io/airport-explorer-book/content/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 
 
 ## Book collections
@@ -132,6 +133,7 @@ A repository of links to various online tech learning resources
 * [A Curated List of Checklists](https://github.com/huyingjie/Checklist-Checklist)
 * [CryptoList](https://github.com/coinpride/CryptoList)
 * [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
+* [A Gopher's Reading List](https://github.com/enocom/gopher-reading-list)
 
 ## Videos
 
