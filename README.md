@@ -738,9 +738,11 @@ A repository of links to various online tech learning resources
 * [Starting with Ethereum](https://blog.frankel.ch//starting-ethereum/5/)
 * [What is An Ethereum Token: The Ultimate Beginner’s Guide](https://blockgeeks.com/guides/ethereum-token/)
 * [Blockgeeks guides](https://blockgeeks.com/guides/)
+* [CryptoZombies](https://cryptozombies.io/)
 
 
 ## Tools
+
 
 * [Scott Hanselman's 2014 Ultimate Developer and Power Users Tool List for Windows](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 * [A Complete List of Windows Development Tools](http://scottge.net/2015/07/17/a-complete-list-of-windows-development-tools/)
