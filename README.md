@@ -739,6 +739,7 @@ A repository of links to various online tech learning resources
 * [Starting with Ethereum](https://blog.frankel.ch//starting-ethereum/5/)
 * [What is An Ethereum Token: The Ultimate Beginner’s Guide](https://blockgeeks.com/guides/ethereum-token/)
 * [How To Learn Solidity: The Ultimate Ethereum Coding Guide](https://blockgeeks.com/guides/solidity/)
+* [How To Code a Bitcoin “like” Blockchain In JavaScript](https://blockgeeks.com/guides/code-a-bitcoin-blockchain-in-javascript/)
 * [Blockgeeks guides](https://blockgeeks.com/guides/)
 * [CryptoKitties](https://www.cryptokitties.co/)
 * [CryptoZombies](https://cryptozombies.io/)
