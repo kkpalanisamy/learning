@@ -77,6 +77,7 @@ A repository of links to various online tech learning resources
 * [Syncfusion Ebooks](https://www.syncfusion.com/resources/techportal/ebooks)
 * [PACKT books](https://www.packtpub.com/packt/offers/free-learning)
 * [Ask HN: How or where to begin learning mathematics from first principles?](https://news.ycombinator.com/item?id=8697772)
+* [Program Arcade Games With Python](http://programarcadegames.com/)
 
 ## Github link collections
 
