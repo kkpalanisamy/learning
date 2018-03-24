@@ -576,6 +576,7 @@ A repository of links to various online tech learning resources
 * [Fun with Xamarin: Building a Simple Working Memory Game App with Web API and SignalR](https://www.codeproject.com/Articles/1228161/Fun-with-Xamarin-Building-a-Simple-Working-Memory)
 * [Space Invaders With Go](https://sausheong.github.io/posts/space-invaders-with-go/)
 * [Async / Await in C# – Videos and Resources](http://iamtimcorey.com/async-await-training/)
+* [Exploring the internals of the .NET Runtime](http://mattwarren.org/2018/03/23/Exploring-the-internals-of-the-.NET-Runtime/)
 
 
 ## Web Development
@@ -646,6 +647,7 @@ A repository of links to various online tech learning resources
 * [JAMStack](https://jamstack.org/)
 * [React, Redux and JavaScript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/)
 * [Developing Games with React, Redux, and SVG - Part 1](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
+* [React Interview Questions for 2018](https://www.edureka.co/blog/interview-questions/react-interview-questions/amp/)
 
 
 ## Machine Learning
