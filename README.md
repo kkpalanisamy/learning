@@ -739,6 +739,7 @@ A repository of links to various online tech learning resources
 * [Chiccocoin: Learn what is a Blockchain by creating one in NodeJS](https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b)
 * [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 * [First Look Into Blockchain](https://blogs.msdn.microsoft.com/premier_developer/2017/12/13/first-look-into-blockchain/)
+* [New Kids on the Blockchain](https://www.wintellect.com/new-kids-blockchain/)
 * [Starting with Ethereum](https://blog.frankel.ch//starting-ethereum/5/)
 * [What is An Ethereum Token: The Ultimate Beginner’s Guide](https://blockgeeks.com/guides/ethereum-token/)
 * [How To Learn Solidity: The Ultimate Ethereum Coding Guide](https://blockgeeks.com/guides/solidity/)
