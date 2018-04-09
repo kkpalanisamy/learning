@@ -99,6 +99,7 @@ A repository of links to various online tech learning resources
 * [Awesome Bots](https://github.com/BotCube/awesome-bots)
 * [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software)
 * [Awesome React Context](https://github.com/diegohaz/awesome-react-context)
+* [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 * [PHP Internals Articles](https://github.com/tpunt/php-internals-articles)
 * [Angular 2 Education](https://github.com/timjacobi/angular2-education)
