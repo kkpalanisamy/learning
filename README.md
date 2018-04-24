@@ -580,6 +580,7 @@ A repository of links to various online tech learning resources
 * [Space Invaders With Go](https://sausheong.github.io/posts/space-invaders-with-go/)
 * [Async / Await in C# – Videos and Resources](http://iamtimcorey.com/async-await-training/)
 * [Exploring the internals of the .NET Runtime](http://mattwarren.org/2018/03/23/Exploring-the-internals-of-the-.NET-Runtime/)
+* [Conversational Design with Alexa](https://www.codecademy.com/learn/alexa-conversational-design)
 
 
 ## Web Development
