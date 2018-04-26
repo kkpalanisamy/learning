@@ -652,6 +652,7 @@ A repository of links to various online tech learning resources
 * [React, Redux and JavaScript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/)
 * [Developing Games with React, Redux, and SVG - Part 1](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
 * [React Interview Questions for 2018](https://www.edureka.co/blog/interview-questions/react-interview-questions/amp/)
+* [React Internals Series](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 
 
 ## Machine Learning
