@@ -750,6 +750,8 @@ A repository of links to various online tech learning resources
 * [How To Learn Solidity: The Ultimate Ethereum Coding Guide](https://blockgeeks.com/guides/solidity/)
 * [How To Code a Bitcoin “like” Blockchain In JavaScript](https://blockgeeks.com/guides/code-a-bitcoin-blockchain-in-javascript/)
 * [Solidity Patterns](https://fravoll.github.io/solidity-patterns/)
+* [Jumping into Solidity —The ERC721 Standard](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-1-e25b67fc91f3)
+* [BountyOne](http://bountyone.io/)
 * [Blockgeeks guides](https://blockgeeks.com/guides/)
 * [CryptoKitties](https://www.cryptokitties.co/)
 * [CryptoZombies](https://cryptozombies.io/)
