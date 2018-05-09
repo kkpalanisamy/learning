@@ -59,6 +59,7 @@ A repository of links to various online tech learning resources
 * [Building an Airport Explorer eBook](https://jerriep.gitbooks.io/airport-explorer-book/content/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+* [Essential Image Optimization: An eBook by Addy Osmani](https://images.guide/)
 
 
 ## Book collections
@@ -653,6 +654,7 @@ A repository of links to various online tech learning resources
 * [Developing Games with React, Redux, and SVG - Part 1](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
 * [React Interview Questions for 2018](https://www.edureka.co/blog/interview-questions/react-interview-questions/amp/)
 * [React Internals Series](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
+* [Slowest Site in the World](https://github.com/ryantownsend/slowest-site-in-the-world)
 
 
 ## Machine Learning
