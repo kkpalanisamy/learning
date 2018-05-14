@@ -753,6 +753,7 @@ A repository of links to various online tech learning resources
 * [How To Code a Bitcoin “like” Blockchain In JavaScript](https://blockgeeks.com/guides/code-a-bitcoin-blockchain-in-javascript/)
 * [Solidity Patterns](https://fravoll.github.io/solidity-patterns/)
 * [Jumping into Solidity —The ERC721 Standard](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-1-e25b67fc91f3)
+* [Variable inspection: Going deeper with the Truffle Solidity debugger](http://truffleframework.com/tutorials/debugger-variable-inspection)
 * [BountyOne](http://bountyone.io/)
 * [Blockgeeks guides](https://blockgeeks.com/guides/)
 * [CryptoKitties](https://www.cryptokitties.co/)
