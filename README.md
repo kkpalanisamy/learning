@@ -215,6 +215,7 @@ A repository of links to various online tech learning resources
 * [CSS Grid](https://cssgrid.io/)
 * [Make Flappy Bird With Unity3D - Learning To Make Games](https://www.youtube.com/watch?v=O865wMMxFm8&app=desktop)
 * [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
+* [Modern Android development (Google I/O 2018)](https://www.youtube.com/watch?v=IrMw7MEgADk)
 
 
 ## Challenges and exercises
