@@ -583,6 +583,7 @@ A repository of links to various online tech learning resources
 * [Async / Await in C# – Videos and Resources](http://iamtimcorey.com/async-await-training/)
 * [Exploring the internals of the .NET Runtime](http://mattwarren.org/2018/03/23/Exploring-the-internals-of-the-.NET-Runtime/)
 * [Conversational Design with Alexa](https://www.codecademy.com/learn/alexa-conversational-design)
+* [Building a Music Streaming App using React Native](https://hackernoon.com/building-a-music-streaming-app-using-react-native-6d0878a13ba4)
 
 
 ## Web Development
