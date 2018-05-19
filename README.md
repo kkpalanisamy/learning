@@ -657,6 +657,7 @@ A repository of links to various online tech learning resources
 * [React Interview Questions for 2018](https://www.edureka.co/blog/interview-questions/react-interview-questions/amp/)
 * [React Internals Series](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 * [Slowest Site in the World](https://github.com/ryantownsend/slowest-site-in-the-world)
+* [React.js od podstaw](https://typeofweb.com/2017/11/28/wprowadzenie-kurs-react-js/)
 
 
 ## Machine Learning
@@ -756,6 +757,7 @@ A repository of links to various online tech learning resources
 * [Solidity Patterns](https://fravoll.github.io/solidity-patterns/)
 * [Jumping into Solidity —The ERC721 Standard](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-1-e25b67fc91f3)
 * [Variable inspection: Going deeper with the Truffle Solidity debugger](http://truffleframework.com/tutorials/debugger-variable-inspection)
+* [Prototyping a Blockchain Smart Contract](https://medium.com/@chakrvyuh/prototyping-a-blockchain-smart-contract-78877464e38e)
 * [BountyOne](http://bountyone.io/)
 * [Blockgeeks guides](https://blockgeeks.com/guides/)
 * [CryptoKitties](https://www.cryptokitties.co/)
