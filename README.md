@@ -216,6 +216,8 @@ A repository of links to various online tech learning resources
 * [Make Flappy Bird With Unity3D - Learning To Make Games](https://www.youtube.com/watch?v=O865wMMxFm8&app=desktop)
 * [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
 * [Modern Android development (Google I/O 2018)](https://www.youtube.com/watch?v=IrMw7MEgADk)
+* [Get in the Zone: Visual Studio 2017 Productivity Enhancements | Build 2018](https://www.youtube.com/watch?v=6ozHCNVmrcw)
+* [Meet the new stack for real-time web communication: ASP.NET Core SignalR | Build 2018](https://www.youtube.com/watch?v=u0_vkWYYXRc)
 
 
 ## Challenges and exercises
