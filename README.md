@@ -725,7 +725,7 @@ A repository of links to various online tech learning resources
 * [TensorFlow Models](https://github.com/Sarasra/models)
 * [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 * [Microsoft Professional Program for Big Data](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
-
+* [AI School](https://aischool.microsoft.com/learning-paths)
 
 ## Blockchain
 
