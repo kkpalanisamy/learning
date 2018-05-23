@@ -398,6 +398,7 @@ A repository of links to various online tech learning resources
 * [Advanced Threat Tactics | Cobalt Strike](https://cobaltstrike.com/training)
 * [RODO/GDPR](https://sekurak.pl/rodo-gdpr-jak-wykorzystac-do-rozwoju-biznesu-film-z-nasza-prezentacja/)
 * [Bezpieczeństwo .NET – praktyczne porady](https://sekurak.pl/bezpieczenstwo-net-praktyczne-porady/)
+* [Security Mind Maps](http://www.amanhardikar.com/mindmaps.html)
 
 
 ## Databases
