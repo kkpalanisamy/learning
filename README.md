@@ -219,6 +219,7 @@ A repository of links to various online tech learning resources
 * [Get in the Zone: Visual Studio 2017 Productivity Enhancements | Build 2018](https://www.youtube.com/watch?v=6ozHCNVmrcw)
 * [Meet the new stack for real-time web communication: ASP.NET Core SignalR | Build 2018](https://www.youtube.com/watch?v=u0_vkWYYXRc)
 * [Easy Way to Understand React's Component Lifecycle Methods](https://www.youtube.com/watch?v=UPv-3SYRdZk)
+* [ReactJS Tutorial Series](https://www.youtube.com/playlist?list=PL7pEw9n3GkoWkHCQsfBh77UP4nc8lvTbS)
 
 
 ## Challenges and exercises
