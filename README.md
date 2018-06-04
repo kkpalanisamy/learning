@@ -663,6 +663,7 @@ A repository of links to various online tech learning resources
 * [React Internals Series](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 * [Slowest Site in the World](https://github.com/ryantownsend/slowest-site-in-the-world)
 * [React.js od podstaw](https://typeofweb.com/2017/11/28/wprowadzenie-kurs-react-js/)
+* [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 
 ## Machine Learning
