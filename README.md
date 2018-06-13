@@ -404,6 +404,8 @@ A repository of links to various online tech learning resources
 * [Bezpieczeństwo .NET – praktyczne porady](https://sekurak.pl/bezpieczenstwo-net-praktyczne-porady/)
 * [Security Mind Maps](http://www.amanhardikar.com/mindmaps.html)
 * [OWASP Broken Web Applications Project](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project)
+* [OWASP ModSecurity Core Rule Set (CRS)](http://www.modsecurity.org/crs/)
+* [Nikto2](https://cirt.net/Nikto2)
 
 
 ## Databases
