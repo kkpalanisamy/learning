@@ -403,6 +403,7 @@ A repository of links to various online tech learning resources
 * [RODO/GDPR](https://sekurak.pl/rodo-gdpr-jak-wykorzystac-do-rozwoju-biznesu-film-z-nasza-prezentacja/)
 * [Bezpieczeństwo .NET – praktyczne porady](https://sekurak.pl/bezpieczenstwo-net-praktyczne-porady/)
 * [Security Mind Maps](http://www.amanhardikar.com/mindmaps.html)
+* [OWASP Broken Web Applications Project](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project)
 
 
 ## Databases
