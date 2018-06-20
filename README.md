@@ -506,6 +506,7 @@ A repository of links to various online tech learning resources
 * [Introduction to CLR World](https://www.codeproject.com/articles/1042196/introduction-to-clr-world)
 * [Marshaling with C#](https://www.codeproject.com/articles/66245/marshaling-with-csharp-chapter-1-introducing-marsh.aspx)
 * [Digging Into .NET Loop Performance, Bounds-checking, Iteration, and Unrolling](https://www.codeproject.com/articles/844781/digging-into-net-loop-performance-bounds-checking)
+* [Tools for Exploring .NET Internals](http://mattwarren.org/2018/06/15/Tools-for-Exploring-.NET-Internals/)
 * [20 brilliant WordPress tutorials](http://www.creativebloq.com/web-design/wordpress-tutorials-designers-1012990)
 * [WordPress Tutorial - Siteground](https://www.siteground.com/tutorials/wordpress/)
 * [The 12 Best Android Tutorials for First-Time App Developers](https://www.sitepoint.com/12-android-tutorials-beginners/)
