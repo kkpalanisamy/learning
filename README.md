@@ -217,6 +217,7 @@ A repository of links to various online tech learning resources
 * [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
 * [Modern Android development (Google I/O 2018)](https://www.youtube.com/watch?v=IrMw7MEgADk)
 * [Get in the Zone: Visual Studio 2017 Productivity Enhancements | Build 2018](https://www.youtube.com/watch?v=6ozHCNVmrcw)
+* [VS Code Can Do That?! VS Code Tips and Tricks](https://www.youtube.com/watch?v=x5GzCohd4eo)
 * [Meet the new stack for real-time web communication: ASP.NET Core SignalR | Build 2018](https://www.youtube.com/watch?v=u0_vkWYYXRc)
 * [Easy Way to Understand React's Component Lifecycle Methods](https://www.youtube.com/watch?v=UPv-3SYRdZk)
 * [ReactJS Tutorial Series](https://www.youtube.com/playlist?list=PL7pEw9n3GkoWkHCQsfBh77UP4nc8lvTbS)
@@ -595,6 +596,7 @@ A repository of links to various online tech learning resources
 * [Exploring the internals of the .NET Runtime](http://mattwarren.org/2018/03/23/Exploring-the-internals-of-the-.NET-Runtime/)
 * [Conversational Design with Alexa](https://www.codecademy.com/learn/alexa-conversational-design)
 * [Building a Music Streaming App using React Native](https://hackernoon.com/building-a-music-streaming-app-using-react-native-6d0878a13ba4)
+* [ASP.NET Core Identity Series – Deep dive in Authorization](https://chsakell.com/2018/06/13/asp-net-core-identity-series-deep-dive-in-authorization/)
 
 
 ## Web Development
