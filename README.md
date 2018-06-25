@@ -224,6 +224,7 @@ A repository of links to various online tech learning resources
 * [Emmet For Faster HTML & CSS Workflow](https://www.youtube.com/watch?v=5BIAdWNcr8Y)
 * [Practical React: Animation & Shopping Card](https://www.youtube.com/watch?v=gF_Q_bEyOS0&list=PLEAbew3wQhC7vAaYpzbgq8sDPPoTTiIOG)
 * [Chase Reiner SEO](https://www.youtube.com/channel/UC6z07Hh9Muy6urJgA0F0azg/playlists)
+* [Jakub Skałecki: Vue.js - udany mix React.js i Angular.js [PL] - WarsawJS Meetup #39](https://www.youtube.com/watch?v=SM8eJPw1JeA)
 
 ## Challenges and exercises
 
@@ -738,6 +739,7 @@ A repository of links to various online tech learning resources
 * [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 * [Microsoft Professional Program for Big Data](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
 * [AI School](https://aischool.microsoft.com/learning-paths)
+* [Introduction to Machine Learning and ML.NET](https://rubikscode.net/2018/06/18/using-ml-net-introduction-to-machine-learning-and-ml-net/)
 
 ## Blockchain
 
