@@ -225,6 +225,7 @@ A repository of links to various online tech learning resources
 * [Practical React: Animation & Shopping Card](https://www.youtube.com/watch?v=gF_Q_bEyOS0&list=PLEAbew3wQhC7vAaYpzbgq8sDPPoTTiIOG)
 * [Chase Reiner SEO](https://www.youtube.com/channel/UC6z07Hh9Muy6urJgA0F0azg/playlists)
 * [Jakub Skałecki: Vue.js - udany mix React.js i Angular.js [PL] - WarsawJS Meetup #39](https://www.youtube.com/watch?v=SM8eJPw1JeA)
+* [The Vue Tutorial for 2018 - Learn Vue 2 in 65 Minutes](https://www.youtube.com/watch?v=78tNYZUS-ps)
 
 ## Challenges and exercises
 
@@ -831,3 +832,4 @@ A repository of links to various online tech learning resources
 * [Useful NLog configurations](https://stackoverflow.com/questions/4091606/most-useful-nlog-configurations)
 * [mockable.io](https://www.mockable.io/)
 * [Json Generator](https://www.json-generator.com/)
+* [C# functional language extensions](https://github.com/louthy/language-ext)
