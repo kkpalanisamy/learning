@@ -79,6 +79,7 @@ A repository of links to various online tech learning resources
 * [PACKT books](https://www.packtpub.com/packt/offers/free-learning)
 * [Ask HN: How or where to begin learning mathematics from first principles?](https://news.ycombinator.com/item?id=8697772)
 * [Program Arcade Games With Python](http://programarcadegames.com/)
+* [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp)
 
 ## Github link collections
 
