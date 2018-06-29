@@ -411,6 +411,7 @@ A repository of links to various online tech learning resources
 * [OWASP Broken Web Applications Project](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project)
 * [OWASP ModSecurity Core Rule Set (CRS)](http://www.modsecurity.org/crs/)
 * [Nikto2](https://cirt.net/Nikto2)
+* [Hardenize](https://www.hardenize.com/)
 
 
 ## Databases
