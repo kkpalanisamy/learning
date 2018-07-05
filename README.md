@@ -602,7 +602,7 @@ A repository of links to various online tech learning resources
 * [Conversational Design with Alexa](https://www.codecademy.com/learn/alexa-conversational-design)
 * [Building a Music Streaming App using React Native](https://hackernoon.com/building-a-music-streaming-app-using-react-native-6d0878a13ba4)
 * [ASP.NET Core Identity Series – Deep dive in Authorization](https://chsakell.com/2018/06/13/asp-net-core-identity-series-deep-dive-in-authorization/)
-
+* [Learning Test Driven Development with TDD Katas](https://www.codeproject.com/Articles/886492/Learning-Test-Driven-Development-with-TDD-Katas)
 
 ## Web Development
 
