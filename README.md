@@ -228,6 +228,7 @@ A repository of links to various online tech learning resources
 * [Jakub Skałecki: Vue.js - udany mix React.js i Angular.js [PL] - WarsawJS Meetup #39](https://www.youtube.com/watch?v=SM8eJPw1JeA)
 * [The Vue Tutorial for 2018 - Learn Vue 2 in 65 Minutes](https://www.youtube.com/watch?v=78tNYZUS-ps)
 * [devstyle LIVE: Azure Praktycznie](https://www.youtube.com/watch?v=yPB5NOVAb0I)
+* [The Rise of the State Machines (DevReach 2017)](https://www.youtube.com/watch?v=3W0dFFgUo9A&feature=youtu.be)
 
 ## Challenges and exercises
 
