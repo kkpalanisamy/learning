@@ -784,6 +784,7 @@ A repository of links to various online tech learning resources
 * [CryptoKitties](https://www.cryptokitties.co/)
 * [CryptoZombies](https://cryptozombies.io/)
 * [DApp Store](https://dappstore.link/home)
+* [Building A Blockchain In .NET Core](https://www.c-sharpcorner.com/article/building-a-blockchain-in-net-core-p2p-network/)
 
 
 ## Tools
