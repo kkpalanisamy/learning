@@ -838,3 +838,4 @@ A repository of links to various online tech learning resources
 * [mockable.io](https://www.mockable.io/)
 * [Json Generator](https://www.json-generator.com/)
 * [C# functional language extensions](https://github.com/louthy/language-ext)
+* [NodeMcu](http://nodemcu.com/index_en.html)
