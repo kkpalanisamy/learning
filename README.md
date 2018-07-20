@@ -140,6 +140,7 @@ A repository of links to various online tech learning resources
 * [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
 * [A Gopher's Reading List](https://github.com/enocom/gopher-reading-list)
 * [Programming Bitcoin Reading List and Projects](https://github.com/jashmenn/bitcoin-reading-list)
+* [React/Redux Links](https://github.com/markerikson/react-redux-links/blob/master/README.md)
 
 ## Videos
 
@@ -679,7 +680,7 @@ A repository of links to various online tech learning resources
 * [Slowest Site in the World](https://github.com/ryantownsend/slowest-site-in-the-world)
 * [React.js od podstaw](https://typeofweb.com/2017/11/28/wprowadzenie-kurs-react-js/)
 * [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-
+* [A Roadmap to Becoming a Better React Native Developer in 2018 & Beyond](https://alligator.io/react/roadmap-react-native-developer/)
 
 ## Machine Learning
 
