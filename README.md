@@ -747,7 +747,7 @@ A repository of links to various online tech learning resources
 * [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 * [Microsoft Professional Program for Big Data](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
 * [AI School](https://aischool.microsoft.com/learning-paths)
-* [Introduction to Machine Learning and ML.NET](https://rubikscode.net/2018/06/18/using-ml-net-introduction-to-machine-learning-and-ml-net/)
+* [Machine Learning with ML.NET Series](https://rubikscode.net/2018/07/23/machine-learning-with-ml-net-series/)
 
 ## Blockchain
 
