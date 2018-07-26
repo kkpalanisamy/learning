@@ -842,3 +842,5 @@ A repository of links to various online tech learning resources
 * [Json Generator](https://www.json-generator.com/)
 * [C# functional language extensions](https://github.com/louthy/language-ext)
 * [NodeMcu](http://nodemcu.com/index_en.html)
+* [Tinypng](https://tinypng.com/)
+* [pinga](https://css-ig.net/pinga)
