@@ -223,6 +223,7 @@ A repository of links to various online tech learning resources
 * [Meet the new stack for real-time web communication: ASP.NET Core SignalR | Build 2018](https://www.youtube.com/watch?v=u0_vkWYYXRc)
 * [Easy Way to Understand React's Component Lifecycle Methods](https://www.youtube.com/watch?v=UPv-3SYRdZk)
 * [ReactJS Tutorial Series](https://www.youtube.com/playlist?list=PL7pEw9n3GkoWkHCQsfBh77UP4nc8lvTbS)
+* [Ihatetomatoes](https://www.youtube.com/user/ihatetomatoesblog/videos)
 * [Emmet For Faster HTML & CSS Workflow](https://www.youtube.com/watch?v=5BIAdWNcr8Y)
 * [Practical React: Animation & Shopping Card](https://www.youtube.com/watch?v=gF_Q_bEyOS0&list=PLEAbew3wQhC7vAaYpzbgq8sDPPoTTiIOG)
 * [Chase Reiner SEO](https://www.youtube.com/channel/UC6z07Hh9Muy6urJgA0F0azg/playlists)
