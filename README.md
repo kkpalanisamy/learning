@@ -609,6 +609,8 @@ A repository of links to various online tech learning resources
 * [What you need to know about .NET memory](https://www.poppastring.com/blog/WhatYouNeedToKnowAboutNETMemory.aspx)
 * [Programmer's introduction to linear equations](http://wordsandbuttons.online/programmers_introduction_to_linear_equations.html)
 * [Emulator 101](http://www.emulator101.com/)
+* [Asynchronous Programming in .NET](https://rubikscode.net/2018/08/06/asynchronous-programming-in-net/amp/)
+
 
 ## Web Development
 
