@@ -610,6 +610,9 @@ A repository of links to various online tech learning resources
 * [Programmer's introduction to linear equations](http://wordsandbuttons.online/programmers_introduction_to_linear_equations.html)
 * [Emulator 101](http://www.emulator101.com/)
 * [Asynchronous Programming in .NET](https://rubikscode.net/2018/08/06/asynchronous-programming-in-net/amp/)
+* [Pure interactions by Mark Seemann](http://blog.ploeh.dk/2017/07/10/pure-interactions/)
+* [From dependency injection to dependency rejection by Mark Seemann](http://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/)
+
 
 
 ## Web Development
@@ -686,6 +689,7 @@ A repository of links to various online tech learning resources
 * [React.js od podstaw](https://typeofweb.com/2017/11/28/wprowadzenie-kurs-react-js/)
 * [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [A Roadmap to Becoming a Better React Native Developer in 2018 & Beyond](https://alligator.io/react/roadmap-react-native-developer/)
+* [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 
 ## Machine Learning
 
