@@ -140,6 +140,7 @@ A repository of links to various online tech learning resources
 * [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
 * [A Gopher's Reading List](https://github.com/enocom/gopher-reading-list)
 * [Programming Bitcoin Reading List and Projects](https://github.com/jashmenn/bitcoin-reading-list)
+* [Awesome cryptocurrency security](https://github.com/nongiach/awesome-cryptocurrency-security)
 * [React/Redux Links](https://github.com/markerikson/react-redux-links/blob/master/README.md)
 
 ## Videos
@@ -794,6 +795,7 @@ A repository of links to various online tech learning resources
 * [Blockgeeks guides](https://blockgeeks.com/guides/)
 * [CryptoKitties](https://www.cryptokitties.co/)
 * [CryptoZombies](https://cryptozombies.io/)
+* [Ether Ships](https://etherships.co/)
 * [DApp Store](https://dappstore.link/home)
 * [Building A Blockchain In .NET Core](https://www.c-sharpcorner.com/article/building-a-blockchain-in-net-core-p2p-network/)
 
