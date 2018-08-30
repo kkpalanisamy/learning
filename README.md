@@ -60,6 +60,7 @@ A repository of links to various online tech learning resources
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 * [Essential Image Optimization: An eBook by Addy Osmani](https://images.guide/)
+* [The Node.js Handbook](https://nodehandbook.com/)
 
 
 ## Book collections
