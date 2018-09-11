@@ -61,6 +61,7 @@ A repository of links to various online tech learning resources
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 * [Essential Image Optimization: An eBook by Addy Osmani](https://images.guide/)
 * [The Node.js Handbook](https://nodehandbook.com/)
+* [Linux Programmer's Guide](https://www.tldp.org/LDP/lpg/node1.html)
 
 
 ## Book collections
