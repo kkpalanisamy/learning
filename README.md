@@ -760,6 +760,7 @@ A repository of links to various online tech learning resources
 * [Microsoft Professional Program for Big Data](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
 * [AI School](https://aischool.microsoft.com/learning-paths)
 * [Machine Learning with ML.NET Series](https://rubikscode.net/2018/07/23/machine-learning-with-ml-net-series/)
+* [Healthcare Blueprint](https://azure.microsoft.com/en-us/blog/kickstart-your-artificial-intelligence-machine-learning-journey-with-the-healthcare-blueprint/)
 
 ## Blockchain
 
