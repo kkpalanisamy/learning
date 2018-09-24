@@ -616,7 +616,7 @@ A repository of links to various online tech learning resources
 * [Asynchronous Programming in .NET](https://rubikscode.net/2018/08/06/asynchronous-programming-in-net/amp/)
 * [Pure interactions by Mark Seemann](http://blog.ploeh.dk/2017/07/10/pure-interactions/)
 * [From dependency injection to dependency rejection by Mark Seemann](http://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/)
-
+* [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
 
 
 ## Web Development
