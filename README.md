@@ -234,6 +234,9 @@ A repository of links to various online tech learning resources
 * [The Vue Tutorial for 2018 - Learn Vue 2 in 65 Minutes](https://www.youtube.com/watch?v=78tNYZUS-ps)
 * [devstyle LIVE: Azure Praktycznie](https://www.youtube.com/watch?v=yPB5NOVAb0I)
 * [The Rise of the State Machines (DevReach 2017)](https://www.youtube.com/watch?v=3W0dFFgUo9A&feature=youtu.be)
+* [Koa.js Crash Course](https://www.youtube.com/watch?v=z84uTk5zmak)
+* [Browser APIs: The Unknown Super Heroes](https://www.youtube.com/watch?v=tyTnQN8cIeI)
+
 
 ## Challenges and exercises
 
@@ -695,6 +698,7 @@ A repository of links to various online tech learning resources
 * [A Roadmap to Becoming a Better React Native Developer in 2018 & Beyond](https://alligator.io/react/roadmap-react-native-developer/)
 * [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 * [Tutorial: How to Write Integration Tests for REST APIs with node.js](https://maximilianschmitt.me/posts/tutorial-rest-api-integration-testing-node-js/)
+
 
 ## Machine Learning
 
