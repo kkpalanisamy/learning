@@ -236,6 +236,8 @@ A repository of links to various online tech learning resources
 * [The Rise of the State Machines (DevReach 2017)](https://www.youtube.com/watch?v=3W0dFFgUo9A&feature=youtu.be)
 * [Koa.js Crash Course](https://www.youtube.com/watch?v=z84uTk5zmak)
 * [Browser APIs: The Unknown Super Heroes](https://www.youtube.com/watch?v=tyTnQN8cIeI)
+* [A Gentle Introduction to Functional JavaScript](https://www.youtube.com/watch?v=PyKZMY-_TI8)
+* [BxJS - Building a React component with Typescript & Parcel](https://www.youtube.com/watch?v=kD5_Hx-H6Fw)
 
 
 ## Challenges and exercises
@@ -864,3 +866,4 @@ A repository of links to various online tech learning resources
 * [Tinypng](https://tinypng.com/)
 * [pinga](https://css-ig.net/pinga)
 * [Node Clinic](https://clinicjs.org/)
+* [Bcrypt Password Generator](https://www.browserling.com/tools/bcrypt)
