@@ -238,6 +238,7 @@ A repository of links to various online tech learning resources
 * [Browser APIs: The Unknown Super Heroes](https://www.youtube.com/watch?v=tyTnQN8cIeI)
 * [A Gentle Introduction to Functional JavaScript](https://www.youtube.com/watch?v=PyKZMY-_TI8)
 * [BxJS - Building a React component with Typescript & Parcel](https://www.youtube.com/watch?v=kD5_Hx-H6Fw)
+* [Comparing Nodejs Frameworks Express, hapi, LoopBack, Sailsjs and Meteor](https://www.youtube.com/watch?v=bBtkorKw1Ys)
 
 
 ## Challenges and exercises
