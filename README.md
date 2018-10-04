@@ -239,6 +239,7 @@ A repository of links to various online tech learning resources
 * [A Gentle Introduction to Functional JavaScript](https://www.youtube.com/watch?v=PyKZMY-_TI8)
 * [BxJS - Building a React component with Typescript & Parcel](https://www.youtube.com/watch?v=kD5_Hx-H6Fw)
 * [Comparing Nodejs Frameworks Express, hapi, LoopBack, Sailsjs and Meteor](https://www.youtube.com/watch?v=bBtkorKw1Ys)
+* [npm and the Future of JavaScript](https://www.youtube.com/watch?v=Qa4dxW-Qi2s)
 
 
 ## Challenges and exercises
