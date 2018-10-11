@@ -624,7 +624,7 @@ A repository of links to various online tech learning resources
 * [Pure interactions by Mark Seemann](http://blog.ploeh.dk/2017/07/10/pure-interactions/)
 * [From dependency injection to dependency rejection by Mark Seemann](http://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/)
 * [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
-
+* [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x)
 
 ## Web Development
 
