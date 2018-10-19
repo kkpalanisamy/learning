@@ -57,7 +57,6 @@ A repository of links to various online tech learning resources
 * [Mastering Bitcoin 2nd Edition](https://github.com/bitcoinbook/bitcoinbook)
 * [Programming The Blockchain in C#](https://programmingblockchain.gitbooks.io/programmingblockchain/content/)
 * [Building an Airport Explorer eBook](https://jerriep.gitbooks.io/airport-explorer-book/content/)
-* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 * [Essential Image Optimization: An eBook by Addy Osmani](https://images.guide/)
 * [The Node.js Handbook](https://nodehandbook.com/)
