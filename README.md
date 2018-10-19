@@ -144,6 +144,7 @@ A repository of links to various online tech learning resources
 * [Programming Bitcoin Reading List and Projects](https://github.com/jashmenn/bitcoin-reading-list)
 * [Awesome cryptocurrency security](https://github.com/nongiach/awesome-cryptocurrency-security)
 * [React/Redux Links](https://github.com/markerikson/react-redux-links/blob/master/README.md)
+* [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
 
 ## Videos
 
@@ -426,6 +427,7 @@ A repository of links to various online tech learning resources
 * [Nikto2](https://cirt.net/Nikto2)
 * [Hardenize](https://www.hardenize.com/)
 * [Sploitus](https://sploitus.com/)
+* [The Node.js Security Handbook](https://www.sqreen.io/checklists/nodejs-security-handbook)
 
 
 ## Databases
