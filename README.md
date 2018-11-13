@@ -242,6 +242,7 @@ A repository of links to various online tech learning resources
 * [npm and the Future of JavaScript](https://www.youtube.com/watch?v=Qa4dxW-Qi2s)
 * [Solving Layout Problems With CSS Grid and Friends](https://www.youtube.com/watch?v=hteylmxCUrY)
 * [Golden Rules for Typography on the Web](https://www.youtube.com/watch?v=l8epr8hVf58)
+* [Building Delightful User Interfaces (aka Making Design Central To A Development Process)](https://www.youtube.com/watch?v=SGH-CpaoTvw)
 
 
 ## Challenges and exercises
