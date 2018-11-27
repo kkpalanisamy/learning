@@ -707,6 +707,7 @@ A repository of links to various online tech learning resources
 * [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 * [Tutorial: How to Write Integration Tests for REST APIs with node.js](https://maximilianschmitt.me/posts/tutorial-rest-api-integration-testing-node-js/)
 * [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
+* [Vue Tutorial in 2018 - Learn Vue.js by Example](https://coursetro.com/courses/23/Vue-Tutorial-in-2018---Learn-Vue.js-by-Example)
 
 
 ## Machine Learning
